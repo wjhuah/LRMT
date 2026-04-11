@@ -1,0 +1,1472 @@
+[
+  {
+    "Modern Concept": "制 (system)",
+    "Proposed Tangut Word": "𗹙𗳻",
+    "Literal Tangut Meaning": "Law Straight",
+    "Reasoning/Explanation": "To translate 'system,' I've compounded 𗹙 (law) with 𗳻 (straight). This calques the Chinese idea of a 'system' (制度 zhìdù - often implies 'rule'/'law' and 'order'/'straightness')."
+  },
+  {
+    "Modern Concept": "犰 (armadillo)",
+    "Proposed Tangut Word": "𗬖𘘱𗳷",
+    "Literal Tangut Meaning": "Animal Skin Lure",
+    "Reasoning/Explanation": "A direct word for 'armadillo' is unlikely. I've attempted a descriptive compound: 𗬖 (animal) + 𘘱 (skin) for its shell-like skin. The third character 𗳷 (lure) is included as an educated guess for its rolling or perhaps a unique feature, similar to how Chinese 犰 qiú is often part of 犰狳 qiúyú. This is a highly speculative coinage due to lack of specific animal morphemes for exotic creatures."
+  },
+  {
+    "Modern Concept": "鱗 (scale)",
+    "Proposed Tangut Word": "𘘱𗥛",
+    "Literal Tangut Meaning": "Skin Bone",
+    "Reasoning/Explanation": "I've compounded 𘘱 (skin) with 𗥛 (bone). 'Scale' often refers to a hard, bony covering on skin, so this compound attempts to describe it using existing morphemes. Chinese 鱗 lín itself refers to scales on fish or reptiles."
+  },
+  {
+    "Modern Concept": "崖 (cliff)",
+    "Proposed Tangut Word": "𗲞𗀎",
+    "Literal Tangut Meaning": "Mountain Side",
+    "Reasoning/Explanation": "Compounding 𗲞 (mountain) with 𗀎 (side) to describe a 'cliff' as a side of a mountain, similar to Chinese 崖 yá."
+  },
+  {
+    "Modern Concept": "橡 (oak)",
+    "Proposed Tangut Word": "𗝠𗛶",
+    "Literal Tangut Meaning": "Tree Frame",
+    "Reasoning/Explanation": "A specific word for 'oak' is not available. I've used 𗝠 (tree) as the head. For the modifier, 𗛶 (frame stand) is used to represent its sturdy structure, similar to how Chinese 橡 xiàng refers to the oak tree."
+  },
+  {
+    "Modern Concept": "英 (hero)",
+    "Proposed Tangut Word": "𗄎𘈑",
+    "Literal Tangut Meaning": "Brave People",
+    "Reasoning/Explanation": "To translate 'hero,' I've compounded 𗄎 (brave) with 𘈑 (people), signifying a brave person, similar to Chinese 英雄 yīngxióng (heroic figure)."
+  },
+  {
+    "Modern Concept": "雄 (hero)",
+    "Proposed Tangut Word": "𗄎𘈑",
+    "Literal Tangut Meaning": "Brave People",
+    "Reasoning/Explanation": "Same as for 英 yīng, forming \"brave people\" to represent a hero."
+  },
+  {
+    "Modern Concept": "煉 (smelt)",
+    "Proposed Tangut Word": "𗱑𘟪",
+    "Literal Tangut Meaning": "Burnt Iron",
+    "Reasoning/Explanation": "To translate 'smelt,' I've combined 𗱑 (burnt charred) with 𘟪 (iron). This describes the process of working with metal through heat, similar to Chinese 煉 liàn."
+  },
+  {
+    "Modern Concept": "遍 (everywhere)",
+    "Proposed Tangut Word": "𗄊𗃿",
+    "Literal Tangut Meaning": "All Place name",
+    "Reasoning/Explanation": "To translate 'everywhere,' I've compounded 𗄊 (all) with 𗃿 (place name), similar to Chinese 遍 biàn implies 'all over.'"
+  },
+  {
+    "Modern Concept": "盟 (alliance)",
+    "Proposed Tangut Word": "𗁀𗳢",
+    "Literal Tangut Meaning": "Join Agree",
+    "Reasoning/Explanation": "To translate 'alliance,' I've compounded 𗁀 (join) with 𗳢 (agree consent), signifying a group that has joined and agreed."
+  },
+  {
+    "Modern Concept": "航 (sail)",
+    "Proposed Tangut Word": "𗊂𗟃",
+    "Literal Tangut Meaning": "Boat Play",
+    "Reasoning/Explanation": "To translate 'sail' as a verb, I've combined 𗊂 (boat) with 𗟃 (play have fun), implying the act of moving a boat for enjoyment or purpose, similar to how Chinese 航 háng implies 'to navigate.'"
+  },
+  {
+    "Modern Concept": "激 (rouse)",
+    "Proposed Tangut Word": "𗇾𗷥",
+    "Literal Tangut Meaning": "Move Angry",
+    "Reasoning/Explanation": "To translate 'rouse,' I've combined 𗇾 (move stir) with 𗷥 (angry), signifying to stir up anger or emotion."
+  },
+  {
+    "Modern Concept": "箱 (box)",
+    "Proposed Tangut Word": "𘜒𗜒",
+    "Literal Tangut Meaning": "Much Casket",
+    "Reasoning/Explanation": "The Tangut lexicon has 'casket' (𗜒) and 'bag' (𘙝), but no direct 'box.' Since boxes vary in size, 'much casket' 𘜒𗜒 (śju2 kha) (using a classifier/size morpheme before 'casket') could theoretically indicate a larger container like a box or chest. If 𗜒 refers only to small caskets, then perhaps a more general 'container' could be derived from 'bag' (𘙝) or 'cover' (𗀫). For 'box' I will use 𗜒."
+  },
+  {
+    "Modern Concept": "釣 (fish with a hook)",
+    "Proposed Tangut Word": "𘑙𗓦",
+    "Literal Tangut Meaning": "Fish Grasp",
+    "Reasoning/Explanation": "To translate 'fish with a hook,' I've combined 𘑙 (fish) with 𗓦 (grasp), signifying to grasp or catch fish."
+  },
+  {
+    "Modern Concept": "搭 (partner)",
+    "Proposed Tangut Word": "𗆫𘈑",
+    "Literal Tangut Meaning": "Placate people",
+    "Reasoning/Explanation": "'Partner' can imply someone you work with. I've used 𗆫 (placate appease), extended to 'cooperate' or 'work together amicably', with 𘈑 (people). This is a conceptual leap but aligns with forming collaborative relationships."
+  },
+  {
+    "Modern Concept": "檔 (partner)",
+    "Proposed Tangut Word": "𗆫𘈑",
+    "Literal Tangut Meaning": "Placate people",
+    "Reasoning/Explanation": "Same as for 搭 dā, \"placate people\" could also signify 'partner' in a collaborative sense."
+  },
+  {
+    "Modern Concept": "蠟 (wax)",
+    "Proposed Tangut Word": "𘙆𗱥",
+    "Literal Tangut Meaning": "Fat Moist",
+    "Reasoning/Explanation": "To translate 'wax,' I've compounded 𘙆 (fat grease) with 𗱥 (moist damp), describing its texture, similar to how Chinese 蠟 là is connected to fatty, waxy substances."
+  },
+  {
+    "Modern Concept": "坊 (workshop)",
+    "Proposed Tangut Word": "𘅫𗃿",
+    "Literal Tangut Meaning": "Work Place name",
+    "Reasoning/Explanation": "To translate 'workshop,' I've compounded 𘅫 (work) with 𗃿 (place name), signifying a place where work is done, similar to Chinese 坊 fāng."
+  },
+  {
+    "Modern Concept": "錨 (anchor)",
+    "Proposed Tangut Word": "𗊂𗹊",
+    "Literal Tangut Meaning": "Boat Stop",
+    "Reasoning/Explanation": "To translate 'anchor,' I've compounded 𗊂 (boat) with 𗹊 (stop; cease; halt), describing a device that stops a boat."
+  },
+  {
+    "Modern Concept": "烽 (beacon)",
+    "Proposed Tangut Word": "𘓼𗉃",
+    "Literal Tangut Meaning": "Fire Lamp",
+    "Reasoning/Explanation": "To translate 'beacon,' I've compounded 𘓼 (fire) with 𗉃 (lamp), signifying a fire used as a signal light, similar to Chinese 烽 fēng."
+  },
+  {
+    "Modern Concept": "旅 (travel)",
+    "Proposed Tangut Word": "𗄖𘄾",
+    "Literal Tangut Meaning": "Go Move",
+    "Reasoning/Explanation": "To translate 'travel,' I've compounded 𗄖 (go) with 𘄾 (move migrate), signifying to go and move from one place to another."
+  },
+  {
+    "Modern Concept": "套 (set)",
+    "Proposed Tangut Word": "𗀫𘒝",
+    "Literal Tangut Meaning": "Cover Group",
+    "Reasoning/Explanation": "To translate 'set' (as in a collection or kit), I've compounded 𗀫 (cover) with 𘒝 (group), signifying a covered group or collection, similar to Chinese 套 tào."
+  },
+  {
+    "Modern Concept": "殭 (zombie)",
+    "Proposed Tangut Word": "𗰐𘛽",
+    "Literal Tangut Meaning": "Death Body",
+    "Reasoning/Explanation": "To translate 'zombie,' I've compounded 𗰐 (death) with 𘛽 (body), signifying a 'dead body' that is reanimated, similar to Chinese 殭屍 jiāngshī."
+  },
+  {
+    "Modern Concept": "核 (core)",
+    "Proposed Tangut Word": "𘇂𗤶",
+    "Literal Tangut Meaning": "Middle Heart",
+    "Reasoning/Explanation": "To translate 'core,' I've compounded 𘇂 (middle among) with 𗤶 (heart mind), signifying the central and essential part. This calques the Chinese 核心 héxīn (core, kernel)."
+  },
+  {
+    "Modern Concept": "冶 (smelt)",
+    "Proposed Tangut Word": "𗱑𘟪",
+    "Literal Tangut Meaning": "Burnt Iron",
+    "Reasoning/Explanation": "Same as for 煉 liàn, using 𗱑 (burnt charred) with 𘟪 (iron) to describe the process."
+  },
+  {
+    "Modern Concept": "聊 (chat)",
+    "Proposed Tangut Word": "𗟲𗧙",
+    "Literal Tangut Meaning": "Speech Easy",
+    "Reasoning/Explanation": "To translate 'chat,' I've compounded 𗟲 (speech say talk) with 𗧙 (easy), signifying easy speech or conversation."
+  },
+  {
+    "Modern Concept": "維 (maintain)",
+    "Proposed Tangut Word": "𗸁𘅫",
+    "Literal Tangut Meaning": "Firm Work",
+    "Reasoning/Explanation": "To translate 'maintain,' I've compounded 𗸁 (firm) with 𘅫 (work), signifying to firmly work or keep something in operation."
+  },
+  {
+    "Modern Concept": "倍 (multiple)",
+    "Proposed Tangut Word": "𘅍𘜗",
+    "Literal Tangut Meaning": "Time Many more",
+    "Reasoning/Explanation": "To translate 'multiple' or 'times,' I've combined 𘅍 (time times) with 𘜗 (many more), similar to Chinese 倍 bèi."
+  },
+  {
+    "Modern Concept": "負 (negative)",
+    "Proposed Tangut Word": "𗈐𘅣",
+    "Literal Tangut Meaning": "Nothing Matter affair thing",
+    "Reasoning/Explanation": "To translate 'negative' in a broad sense (e.g., negative outcome, negative charge), I've compounded 𗈐 (nothing not) with 𘅣 (matter affair thing), implying a lack or absence of a positive matter. This is a conceptual calque."
+  },
+  {
+    "Modern Concept": "驗 (experience)",
+    "Proposed Tangut Word": "𗳬𘑬",
+    "Literal Tangut Meaning": "Know Consciousness",
+    "Reasoning/Explanation": "To translate 'experience' as knowledge gained, I've compounded 𗳬 (know realise) with 𘑬 (consciousness to know)."
+  },
+  {
+    "Modern Concept": "軸 (axis)",
+    "Proposed Tangut Word": "𘚢𗳻",
+    "Literal Tangut Meaning": "Wheel Straight",
+    "Reasoning/Explanation": "To translate 'axis,' I've compounded 𘚢 (wheel) with 𗳻 (straight), referring to a straight central part of a wheel or rotation."
+  },
+  {
+    "Modern Concept": "碼 (yard)",
+    "Proposed Tangut Word": "𗷳𗰧",
+    "Literal Tangut Meaning": "Measure Unit of Length",
+    "Reasoning/Explanation": "To translate 'yard' (as a unit of length), I've compounded 𗷳 (measure) with 𗰧 (unit of length)."
+  },
+  {
+    "Modern Concept": "素 (element)",
+    "Proposed Tangut Word": "𗰜𘅣",
+    "Literal Tangut Meaning": "Basic Matter affair thing",
+    "Reasoning/Explanation": "To translate 'element' as a basic component, I've compounded 𗰜 (basic cardinal) with 𘅣 (matter affair thing)."
+  },
+  {
+    "Modern Concept": "構 (structure)",
+    "Proposed Tangut Word": "𗁖𘛽",
+    "Literal Tangut Meaning": "Build Body",
+    "Reasoning/Explanation": "To translate 'structure,' I've compounded 𗁖 (build make) with 𘛽 (body), signifying the built form or framework, similar to Chinese 結構 jiégòu."
+  },
+  {
+    "Modern Concept": "符 (talisman)",
+    "Proposed Tangut Word": "𘅧𗱸",
+    "Literal Tangut Meaning": "Honour Stone",
+    "Reasoning/Explanation": "A specific word for 'talisman' isn't available. I've compounded 𘅧 (honour) with 𗱸 (stone), to suggest a stone object of honor or significance, or sacred stone."
+  },
+  {
+    "Modern Concept": "操 (operate)",
+    "Proposed Tangut Word": "𘇚𘅫",
+    "Literal Tangut Meaning": "Manage Work",
+    "Reasoning/Explanation": "To translate 'operate,' I've compounded 𘇚 (manage) with 𘅫 (work), signifying to manage work or control operations."
+  },
+  {
+    "Modern Concept": "抗 (resist)",
+    "Proposed Tangut Word": "𗀇𗷃",
+    "Literal Tangut Meaning": "Strong Fight",
+    "Reasoning/Explanation": "To translate 'resist,' I've compounded 𗀇 (strong) with 𗷃 (fight), signifying to strongly fight against something."
+  },
+  {
+    "Modern Concept": "率 (rate)",
+    "Proposed Tangut Word": "𘜔𗷳",
+    "Literal Tangut Meaning": "Numeral Measure",
+    "Reasoning/Explanation": "To translate 'rate,' I've compounded 𘜔 (numeral plural indicator) with 𗷳 (measure), signifying a measured number or proportion."
+  },
+  {
+    "Modern Concept": "氧 (oxygen)",
+    "Proposed Tangut Word": "𗲠𘔺",
+    "Literal Tangut Meaning": "Empty Gas",
+    "Reasoning/Explanation": "To translate 'oxygen,' I've compounded 𗲠 (empty) (for 'air' or 'void') with 𘔺 (gas), signifying the gas that fills the air. This calques the Chinese 氧 yǎng (oxygen), which uses the radical for gas."
+  },
+  {
+    "Modern Concept": "洲 (continent)",
+    "Proposed Tangut Word": "𗕔𘄆",
+    "Literal Tangut Meaning": "Big Land",
+    "Reasoning/Explanation": "To translate 'continent,' I've compounded 𗕔 (big) with 𘄆 (land), signifying a large landmass, similar to Chinese 洲 zhōu."
+  },
+  {
+    "Modern Concept": "樺 (birch)",
+    "Proposed Tangut Word": "𗝠𗛷",
+    "Literal Tangut Meaning": "Tree White Fir",
+    "Reasoning/Explanation": "A specific word for 'birch' is not available. I've used 𗝠 (tree) and 𗛷 (white fir), signifying a type of white tree."
+  },
+  {
+    "Modern Concept": "淵 (abyss)",
+    "Proposed Tangut Word": "𘜩𗋽",
+    "Literal Tangut Meaning": "Deep Water",
+    "Reasoning/Explanation": "To translate 'abyss,' I've compounded 𘜩 (deep) with 𗋽 (water), signifying deep water, similar to Chinese 淵 yuān."
+  },
+  {
+    "Modern Concept": "蝕 (erode)",
+    "Proposed Tangut Word": "𗠇𗳆",
+    "Literal Tangut Meaning": "Eat Lose",
+    "Reasoning/Explanation": "To translate 'erode,' I've compounded 𗠇 (eat) with 𗳆 (lose), signifying to consume and cause loss, similar to Chinese 蝕 shí."
+  },
+  {
+    "Modern Concept": "莽 (reckless)",
+    "Proposed Tangut Word": "𗣔𗄎",
+    "Literal Tangut Meaning": "Stupid Brave",
+    "Reasoning/Explanation": "To translate 'reckless,' I've compounded 𗣔 (stupid foolish) with 𗄎 (brave), implying foolish bravery, similar to Chinese 莽 mǎng."
+  },
+  {
+    "Modern Concept": "裸 (naked)",
+    "Proposed Tangut Word": "𘘱𗸘",
+    "Literal Tangut Meaning": "Skin Nothing",
+    "Reasoning/Explanation": "To translate 'naked,' I've compounded 𘘱 (skin) with 𗸘 (nothing), signifying nothing on the skin."
+  },
+  {
+    "Modern Concept": "柵 (fence)",
+    "Proposed Tangut Word": "𗝠𗰽",
+    "Literal Tangut Meaning": "Tree Wall",
+    "Reasoning/Explanation": "To translate 'fence,' I've compounded 𗝠 (tree) with 𗰽 (wall), signifying a wall made of trees/wood."
+  },
+  {
+    "Modern Concept": "軌 (track)",
+    "Proposed Tangut Word": "𗵘𘚢",
+    "Literal Tangut Meaning": "Road Wheel",
+    "Reasoning/Explanation": "To translate 'track' (as in a railway track), I've compounded 𗵘 (road) with 𘚢 (wheel), signifying the road for wheels, similar to Chinese 軌 guǐ."
+  },
+  {
+    "Modern Concept": "晶 (crystal)",
+    "Proposed Tangut Word": "𗱸𘄂",
+    "Literal Tangut Meaning": "Stone Clear",
+    "Reasoning/Explanation": "To translate 'crystal,' I've compounded 𗱸 (stone) with 𘄂 (clear transparent), signifying a clear stone, similar to Chinese 晶 jīng."
+  },
+  {
+    "Modern Concept": "砧 (anvil)",
+    "Proposed Tangut Word": "𗱸𘄩",
+    "Literal Tangut Meaning": "Stone Beat",
+    "Reasoning/Explanation": "To translate 'anvil,' I've compounded 𗱸 (stone) with 𘄩 (beat), signifying a stone used for beating."
+  },
+  {
+    "Modern Concept": "矩 (right angle)",
+    "Proposed Tangut Word": "𘒁𗳻",
+    "Literal Tangut Meaning": "Centre Straight",
+    "Reasoning/Explanation": "To translate 'right angle,' I've compounded 𘒁 (centre middle) with 𗳻 (straight), implying a straight central corner or standard angle."
+  },
+  {
+    "Modern Concept": "縱 (vertical)",
+    "Proposed Tangut Word": "𗳻𗏣",
+    "Literal Tangut Meaning": "Straight Direction",
+    "Reasoning/Explanation": "To translate 'vertical,' I've compounded 𗳻 (straight) with 𗏣 (direction), signifying a straight direction (up or down)."
+  },
+  {
+    "Modern Concept": "占 (occupy)",
+    "Proposed Tangut Word": "𗶠𗃿",
+    "Literal Tangut Meaning": "Sit Place name",
+    "Reasoning/Explanation": "To translate 'occupy,' I've compounded 𗶠 (sit) with 𗃿 (place name), signifying to sit or take a place."
+  },
+  {
+    "Modern Concept": "根 (root)",
+    "Proposed Tangut Word": "𗼺𘞱",
+    "Literal Tangut Meaning": "Plant Bottom Base",
+    "Reasoning/Explanation": "The Tangut word 'root' has been previously defined as 𗼺𘞱 (plant bottom base)."
+  },
+  {
+    "Modern Concept": "柄 (handle)",
+    "Proposed Tangut Word": "𗁅𗽻",
+    "Literal Tangut Meaning": "Hand Tool",
+    "Reasoning/Explanation": "To translate 'handle,' I've compounded 𗁅 (hand) with 𗽻 (tool), signifying the part of a tool held by hand."
+  },
+  {
+    "Modern Concept": "燭 (candle)",
+    "Proposed Tangut Word": "𗉃𘓼",
+    "Literal Tangut Meaning": "Lamp Fire",
+    "Reasoning/Explanation": "To translate 'candle,' I've compounded 𗉃 (lamp) with 𘓼 (fire), signifying a lamp that produces fire."
+  },
+  {
+    "Modern Concept": "校 (school)",
+    "Proposed Tangut Word": "𗠹𗃿",
+    "Literal Tangut Meaning": "Teach Place name",
+    "Reasoning/Explanation": "The Tangut word 'school' has been previously defined as 𗠹𗃿 (teach place name)."
+  },
+  {
+    "Modern Concept": "胡 (beard)",
+    "Proposed Tangut Word": "𘜂𗐄",
+    "Literal Tangut Meaning": "Face Hair",
+    "Reasoning/Explanation": "The Tangut word 'beard' has been previously defined as 𘜂𗐄 (face hair)."
+  },
+  {
+    "Modern Concept": "黏 (sticky)",
+    "Proposed Tangut Word": "𘙔𘅣",
+    "Literal Tangut Meaning": "Glue Matter",
+    "Reasoning/Explanation": "To translate 'sticky,' I've compounded 𘙔 (glue gum) with 𘅣 (matter), signifying matter that is like glue."
+  },
+  {
+    "Modern Concept": "擬 (simulate)",
+    "Proposed Tangut Word": "𗕫𗁖",
+    "Literal Tangut Meaning": "Like Build",
+    "Reasoning/Explanation": "To translate 'simulate,' I've compounded 𗕫 (like love) with 𗁖 (build make), signifying to make something in a likeness."
+  },
+  {
+    "Modern Concept": "磷 (phosphorus)",
+    "Proposed Tangut Word": "𘟪𗥫",
+    "Literal Tangut Meaning": "Iron Light",
+    "Reasoning/Explanation": "To translate 'phosphorus,' I've compounded 𘟪 (iron) with 𗥫 (light), signifying a metal that emits light, similar to Chinese 磷 lín."
+  },
+  {
+    "Modern Concept": "感 (feel)",
+    "Proposed Tangut Word": "𘑬𗸬",
+    "Literal Tangut Meaning": "Consciousness Hear",
+    "Reasoning/Explanation": "To translate 'feel' (as in perceive), I've compounded 𘑬 (consciousness to know) with 𗸬 (hear listen), capturing sensory perception."
+  },
+  {
+    "Modern Concept": "鑲 (inlay)",
+    "Proposed Tangut Word": "𘐏𘟪",
+    "Literal Tangut Meaning": "Place Iron",
+    "Reasoning/Explanation": "To translate 'inlay,' I've compounded 𘐏 (place put set up) with 𘟪 (iron) (for precious material), signifying to place material within another."
+  },
+  {
+    "Modern Concept": "蛀 (woodworm)",
+    "Proposed Tangut Word": "𘙬𗠇",
+    "Literal Tangut Meaning": "Insect Eat",
+    "Reasoning/Explanation": "To translate 'woodworm,' I've compounded 𘙬 (insect worm) with 𗠇 (eat), signifying an insect that eats wood."
+  },
+  {
+    "Modern Concept": "籠 (cage)",
+    "Proposed Tangut Word": "𗙲𗽻",
+    "Literal Tangut Meaning": "Trap Tool",
+    "Reasoning/Explanation": "To translate 'cage,' I've compounded 𗙲 (trap) with 𗽻 (tool), signifying a tool used as a trap."
+  },
+  {
+    "Modern Concept": "淤 (silt)",
+    "Proposed Tangut Word": "𗋋𗋹",
+    "Literal Tangut Meaning": "Mud Juice",
+    "Reasoning/Explanation": "To translate 'silt,' I've compounded 𗋋 (mud mire clay) with 𗋹 (fluid juice), signifying muddy liquid."
+  },
+  {
+    "Modern Concept": "赭 (ochre)",
+    "Proposed Tangut Word": "𘔐𗽁",
+    "Literal Tangut Meaning": "Red Pottery",
+    "Reasoning/Explanation": "To translate 'ochre,' I've compounded 𘔐 (red) with 𗽁 (pottery), signifying a red earthy pigment."
+  },
+  {
+    "Modern Concept": "坯 (adobe)",
+    "Proposed Tangut Word": "𗋋𗰽",
+    "Literal Tangut Meaning": "Mud Wall",
+    "Reasoning/Explanation": "To translate 'adobe' or 'unfired brick,' I've compounded 𗋋 (mud mire clay) with 𗰽 (wall), signifying a wall made of mud/clay."
+  },
+  {
+    "Modern Concept": "瓣 (petal)",
+    "Proposed Tangut Word": "𗨍𗮝",
+    "Literal Tangut Meaning": "Flower Piece",
+    "Reasoning/Explanation": "To translate 'petal,' I've compounded 𗨍 (flower) with 𗮝 (piece cube), signifying a piece of a flower."
+  },
+  {
+    "Modern Concept": "薯 (potato)",
+    "Proposed Tangut Word": "𗺩𗼻",
+    "Literal Tangut Meaning": "Grass Land",
+    "Reasoning/Explanation": "A specific word for 'potato' is not available. I've used 𗺩 (grass name) with 𗼻 (land soil) to indicate a plant from the ground."
+  },
+  {
+    "Modern Concept": "史 (history)",
+    "Proposed Tangut Word": "𘅍𘕁",
+    "Literal Tangut Meaning": "Time Record",
+    "Reasoning/Explanation": "To translate 'history,' I've compounded 𘅍 (time times) with 𘕁 (note record), signifying recorded time, similar to Chinese 史 shǐ."
+  },
+  {
+    "Modern Concept": "姆 (nanny)",
+    "Proposed Tangut Word": "𘞼𘒺",
+    "Literal Tangut Meaning": "Mother Old Aged",
+    "Reasoning/Explanation": "To translate 'nanny,' I've compounded 𘞼 (mother) with 𘒺 (old aged), signifying an old mother figure."
+  },
+  {
+    "Modern Concept": "孢 (spore)",
+    "Proposed Tangut Word": "𘞗𘓊",
+    "Literal Tangut Meaning": "Seed Tiny",
+    "Reasoning/Explanation": "To translate 'spore,' I've compounded 𘞗 (seed) with 𘓊 (few little tiny), signifying a tiny seed."
+  },
+  {
+    "Modern Concept": "莓 (berry)",
+    "Proposed Tangut Word": "𘗰𗉖",
+    "Literal Tangut Meaning": "Fruit Small Thin",
+    "Reasoning/Explanation": "To translate 'berry,' I've compounded 𘗰 (fruit) with 𗉖 (small thin), signifying a small fruit."
+  },
+  {
+    "Modern Concept": "例 (example)",
+    "Proposed Tangut Word": "𘐡𗳻",
+    "Literal Tangut Meaning": "Order Straight",
+    "Reasoning/Explanation": "To translate 'example' as a standard or rule, I've compounded 𘐡 (order sequence) with 𗳻 (straight), signifying a standard order."
+  },
+  {
+    "Modern Concept": "絆 (trip)",
+    "Proposed Tangut Word": "𘇉𗭒",
+    "Literal Tangut Meaning": "Tie Foot",
+    "Reasoning/Explanation": "To translate 'trip' (as in to stumble), I've compounded 𘇉 (tie) with 𗭒 (foot), signifying a tie or obstacle for the foot."
+  },
+  {
+    "Modern Concept": "翠 (emerald)",
+    "Proposed Tangut Word": "𗘍𗱸",
+    "Literal Tangut Meaning": "Green Stone",
+    "Reasoning/Explanation": "To translate 'emerald,' I've compounded 𗘍 (green) with 𗱸 (stone), signifying a green stone."
+  },
+  {
+    "Modern Concept": "署 (office)",
+    "Proposed Tangut Word": "𘉀𗃿",
+    "Literal Tangut Meaning": "Official Place name",
+    "Reasoning/Explanation": "To translate 'office,' I've compounded 𘉀 (government official) with 𗃿 (place name), signifying the place of an official."
+  },
+  {
+    "Modern Concept": "頁 (page)",
+    "Proposed Tangut Word": "𘇦𘙶",
+    "Literal Tangut Meaning": "Paper Strip",
+    "Reasoning/Explanation": "The Tangut word 'page' has been previously defined as 𘇦𘙶 (paper strip)."
+  },
+  {
+    "Modern Concept": "簿 (book)",
+    "Proposed Tangut Word": "𘇦𘕁",
+    "Literal Tangut Meaning": "Paper Record",
+    "Reasoning/Explanation": "To translate 'book,' I've compounded 𘇦 (paper) with 𘕁 (note record), signifying recorded paper, similar to Chinese 簿 bù."
+  },
+  {
+    "Modern Concept": "刪 (delete)",
+    "Proposed Tangut Word": "𗸗𗳆",
+    "Literal Tangut Meaning": "Kill Lose",
+    "Reasoning/Explanation": "To translate 'delete,' I've compounded 𗸗 (kill chop) with 𗳆 (lose), signifying to cut and remove/lose."
+  },
+  {
+    "Modern Concept": "系 (system)",
+    "Proposed Tangut Word": "𗹙𗳻",
+    "Literal Tangut Meaning": "Law Straight",
+    "Reasoning/Explanation": "Same as for 制 zhì, forming \"law straight\" to represent 'system.'"
+  },
+  {
+    "Modern Concept": "統 (system)",
+    "Proposed Tangut Word": "𗹙𗳻",
+    "Literal Tangut Meaning": "Law Straight",
+    "Reasoning/Explanation": "Same as for 系 xì and 制 zhì, forming \"law straight\" to represent 'system.'"
+  },
+  {
+    "Modern Concept": "帳 (account)",
+    "Proposed Tangut Word": "𗵜𘕁",
+    "Literal Tangut Meaning": "Money Note Record",
+    "Reasoning/Explanation": "To translate 'account' (as in financial record), I've compounded 𗵜 (money) with 𘕁 (note record)."
+  },
+  {
+    "Modern Concept": "瀏 (browse)",
+    "Proposed Tangut Word": "𘟀𗘶",
+    "Literal Tangut Meaning": "See Fast",
+    "Reasoning/Explanation": "To translate 'browse,' I've compounded 𘟀 (see) with 𗘶 (fast swift), signifying to see quickly."
+  },
+  {
+    "Modern Concept": "認 (recognize)",
+    "Proposed Tangut Word": "𗳬𘟀",
+    "Literal Tangut Meaning": "Know See",
+    "Reasoning/Explanation": "To translate 'recognize,' I've compounded 𗳬 (know realise) with 𘟀 (see), signifying to know by seeing."
+  },
+  {
+    "Modern Concept": "詳 (detailed)",
+    "Proposed Tangut Word": "𗵟𗰤",
+    "Literal Tangut Meaning": "Complete Clear",
+    "Reasoning/Explanation": "To translate 'detailed,' I've compounded 𗵟 (complete) with 𗰤 (clear obvious plain), signifying completely clear."
+  },
+  {
+    "Modern Concept": "撤 (withdraw)",
+    "Proposed Tangut Word": "𗷰𗳆",
+    "Literal Tangut Meaning": "Refuse Lose",
+    "Reasoning/Explanation": "To translate 'withdraw,' I've compounded 𗷰 (refuse remove) with 𗳆 (lose), implying to remove and lose (a position, an item)."
+  },
+  {
+    "Modern Concept": "銷 (cancel)",
+    "Proposed Tangut Word": "𘒒𗷰",
+    "Literal Tangut Meaning": "Wipe Out Refuse Remove",
+    "Reasoning/Explanation": "To translate 'cancel,' I've compounded 𘒒 (wipe out) with 𗷰 (refuse remove), signifying to wipe out and remove."
+  },
+  {
+    "Modern Concept": "疫 (epidemic)",
+    "Proposed Tangut Word": "𗈎𗇦",
+    "Literal Tangut Meaning": "Disease Calamity",
+    "Reasoning/Explanation": "To translate 'epidemic,' I've compounded 𗈎 (disease) with 𗇦 (calamity disaster), signifying a widespread disease."
+  },
+  {
+    "Modern Concept": "秒 (second)",
+    "Proposed Tangut Word": "𘓊𘅍",
+    "Literal Tangut Meaning": "Tiny Time",
+    "Reasoning/Explanation": "The Tangut word 'second' (as in time) has been previously defined as 𘓊𘅍 (tiny time)."
+  },
+  {
+    "Modern Concept": "駐 (station)",
+    "Proposed Tangut Word": "𗸀𗃿",
+    "Literal Tangut Meaning": "Appoint Place name",
+    "Reasoning/Explanation": "To translate 'station' (as in to be stationed), I've compounded 𗸀 (appoint) with 𗃿 (place name), signifying an appointed place."
+  },
+  {
+    "Modern Concept": "悄 (quietly)",
+    "Proposed Tangut Word": "𘔪𘙥",
+    "Literal Tangut Meaning": "Quiet Slowly Gently",
+    "Reasoning/Explanation": "To translate 'quietly,' I've compounded 𘔪 (quiet) with 𘙥 (slowly gently)."
+  },
+  {
+    "Modern Concept": "埠 (port)",
+    "Proposed Tangut Word": "𗊂𗵈",
+    "Literal Tangut Meaning": "Boat Market",
+    "Reasoning/Explanation": "To translate 'port,' I've compounded 𗊂 (boat) with 𗵈 (market), signifying a market for boats."
+  },
+  {
+    "Modern Concept": "程 (journey)",
+    "Proposed Tangut Word": "𗵘𗰧",
+    "Literal Tangut Meaning": "Road Unit of Length",
+    "Reasoning/Explanation": "To translate 'journey,' I've compounded 𗵘 (road; way) with 𗰧 (unit of length), signifying a length of road or path."
+  },
+  {
+    "Modern Concept": "碰 (collide)",
+    "Proposed Tangut Word": "𘄏𘄩",
+    "Literal Tangut Meaning": "Meet Beat",
+    "Reasoning/Explanation": "To translate 'collide,' I've compounded 𘄏 (meet) with 𘄩 (beat), signifying to meet and hit."
+  },
+  {
+    "Modern Concept": "撞 (collide)",
+    "Proposed Tangut Word": "𘄏𘄩",
+    "Literal Tangut Meaning": "Meet Beat",
+    "Reasoning/Explanation": "Same as for 碰 pèng, using 𘄏𘄩 (meet beat) for 'collide.'"
+  },
+  {
+    "Modern Concept": "批 (batch)",
+    "Proposed Tangut Word": "𘒝𘜔",
+    "Literal Tangut Meaning": "Group Numeral",
+    "Reasoning/Explanation": "To translate 'batch' (as in a group or quantity), I've compounded 𘒝 (group) with 𘜔 (numeral plural indicator), signifying a numbered group."
+  },
+  {
+    "Modern Concept": "忽 (ignore)",
+    "Proposed Tangut Word": "𗈐𘟀",
+    "Literal Tangut Meaning": "Nothing See",
+    "Reasoning/Explanation": "To translate 'ignore,' I've compounded 𗈐 (nothing not) with 𘟀 (see), signifying not to see or pay attention."
+  },
+  {
+    "Modern Concept": "參 (participate)",
+    "Proposed Tangut Word": "𗁀𘅫",
+    "Literal Tangut Meaning": "Join Work",
+    "Reasoning/Explanation": "To translate 'participate,' I've compounded 𗁀 (join) with 𘅫 (work), signifying to join in work."
+  },
+  {
+    "Modern Concept": "副 (deputy)",
+    "Proposed Tangut Word": "𗀎𘈑",
+    "Literal Tangut Meaning": "Nearness People",
+    "Reasoning/Explanation": "To translate 'deputy,' I've compounded 𗀎 (nearness; side) with 𘈑 (people), signifying a person at the side or near the main figure."
+  },
+  {
+    "Modern Concept": "警 (warn)",
+    "Proposed Tangut Word": "𗟲𗕐",
+    "Literal Tangut Meaning": "Speech Fear",
+    "Reasoning/Explanation": "To translate 'warn,' I've compounded 𗟲 (speech say talk) with 𗕐 (fear dread), signifying speech that causes fear."
+  },
+  {
+    "Modern Concept": "貴 (valuable)",
+    "Proposed Tangut Word": "𗴽𘅣",
+    "Literal Tangut Meaning": "Rich Matter affair thing",
+    "Reasoning/Explanation": "To translate 'valuable,' I've compounded 𗴽 (rich) with 𘅣 (matter affair thing), signifying a rich thing, similar to Chinese 貴 guì."
+  },
+  {
+    "Modern Concept": "層 (layer)",
+    "Proposed Tangut Word": "𗗔𘒆",
+    "Literal Tangut Meaning": "Flat Pile up",
+    "Reasoning/Explanation": "To translate 'layer,' I've compounded 𗗔 (flat; level) with 𘒆 (pile up accumulate), signifying flat piled-up sections."
+  },
+  {
+    "Modern Concept": "謝 (thank)",
+    "Proposed Tangut Word": "𗖍𗘷",
+    "Literal Tangut Meaning": "Praise Good",
+    "Reasoning/Explanation": "To translate 'thank,' I've compounded 𗖍 (praise eulogise) with 𗘷 (good), signifying to praise for goodness."
+  },
+  {
+    "Modern Concept": "游 (swim)",
+    "Proposed Tangut Word": "𗋽𗇾",
+    "Literal Tangut Meaning": "Water Move",
+    "Reasoning/Explanation": "The Tangut word 'swim' has been previously defined as 𗋽𗇾 (water move)."
+  },
+  {
+    "Modern Concept": "泳 (swim)",
+    "Proposed Tangut Word": "𗋽𗇾",
+    "Literal Tangut Meaning": "Water Move",
+    "Reasoning/Explanation": "Same as for 游 yóu, using 𗋽𗇾 (water move) for 'swim.'"
+  },
+  {
+    "Modern Concept": "攀 (climb)",
+    "Proposed Tangut Word": "𗕰𗵣",
+    "Literal Tangut Meaning": "Pull out Top",
+    "Reasoning/Explanation": "To translate 'climb,' I've compounded 𗕰 (pull out) with 𗵣 (top), signifying to pull oneself upwards."
+  },
+  {
+    "Modern Concept": "購 (buy)",
+    "Proposed Tangut Word": "𗗣𗵲",
+    "Literal Tangut Meaning": "Trade Gain",
+    "Reasoning/Explanation": "To translate 'buy,' I've compounded 𗗣 (buying and selling deal) with 𗵲 (get gain), signifying to gain through trade."
+  },
+  {
+    "Modern Concept": "豚 (piglet)",
+    "Proposed Tangut Word": "𗗾𗀹",
+    "Literal Tangut Meaning": "Pig Little Young (bird)",
+    "Reasoning/Explanation": "To translate 'piglet,' I've compounded 𗗾 (pig) with 𗀹 (little young (bird)), signifying a young pig."
+  },
+  {
+    "Modern Concept": "噁 (nauseating)",
+    "Proposed Tangut Word": "𘟋𘕊",
+    "Literal Tangut Meaning": "Bitter Taste",
+    "Reasoning/Explanation": "To translate 'nauseating,' I've compounded 𘟋 (hot; bitter) with 𘕊 (smell taste), signifying a bitter taste/smell that causes sickness."
+  },
+  {
+    "Modern Concept": "霉 (mold)",
+    "Proposed Tangut Word": "𗇡𘞵",
+    "Literal Tangut Meaning": "Deviate Grow",
+    "Reasoning/Explanation": "To translate 'mold,' I've compounded 𗇡 (deviate slanting) with 𘞵 (grow), signifying something that grows irregularly, often associated with decay."
+  },
+  {
+    "Modern Concept": "呼 (exhale)",
+    "Proposed Tangut Word": "𗙑𗨛",
+    "Literal Tangut Meaning": "Breath Go Out",
+    "Reasoning/Explanation": "To translate 'exhale,' I've compounded 𗙑 (breath gaseous) with 𗨛 (go go out), signifying breath going out."
+  },
+  {
+    "Modern Concept": "蘊 (contain)",
+    "Proposed Tangut Word": "𘅬𗅁",
+    "Literal Tangut Meaning": "Enclose Inner Inside",
+    "Reasoning/Explanation": "To translate 'contain,' I've compounded 𘅬 (enclose) with 𗅁 (inner inside), signifying to hold within."
+  },
+  {
+    "Modern Concept": "剋 (overcome)",
+    "Proposed Tangut Word": "𗀇𗷼",
+    "Literal Tangut Meaning": "Strong Defeat",
+    "Reasoning/Explanation": "To translate 'overcome,' I've compounded 𗀇 (strong) with 𗷼 (defeat), signifying to defeat strongly."
+  },
+  {
+    "Modern Concept": "緻 (fine)",
+    "Proposed Tangut Word": "𘘯𘑷",
+    "Literal Tangut Meaning": "Thin Skilful",
+    "Reasoning/Explanation": "To translate 'fine' (as in delicate or precise), I've compounded 𘘯 (thin) with 𘑷 (skilful clever), signifying thin and skilfully made."
+  },
+  {
+    "Modern Concept": "耐 (patient)",
+    "Proposed Tangut Word": "𗀅𘜀",
+    "Literal Tangut Meaning": "Undergo Robust",
+    "Reasoning/Explanation": "To translate 'patient' (as in enduring), I've compounded 𗀅 (undergo) with 𘜀 (strong robust), signifying to robustly undergo or endure."
+  },
+  {
+    "Modern Concept": "筏 (raft)",
+    "Proposed Tangut Word": "𗝠𗬵",
+    "Literal Tangut Meaning": "Tree Float",
+    "Reasoning/Explanation": "To translate 'raft,' I've compounded 𗝠 (tree) with 𗬵 (float), signifying floating wood."
+  },
+  {
+    "Modern Concept": "鱈 (cod)",
+    "Proposed Tangut Word": "𘑙𗴂",
+    "Literal Tangut Meaning": "Fish White",
+    "Reasoning/Explanation": "To translate 'cod,' I've compounded 𘑙 (fish) with 𗴂 (white), signifying white fish."
+  },
+  {
+    "Modern Concept": "蟎 (mite)",
+    "Proposed Tangut Word": "𘟥𘓊",
+    "Literal Tangut Meaning": "Insect Tiny",
+    "Reasoning/Explanation": "To translate 'mite,' I've compounded 𘟥 (insect maggot) with 𘓊 (few little tiny), signifying a tiny insect."
+  },
+  {
+    "Modern Concept": "魷 (squid)",
+    "Proposed Tangut Word": "𗋾𗰞",
+    "Literal Tangut Meaning": "Fish Dark",
+    "Reasoning/Explanation": "To translate 'squid,' I've compounded 𗋾 (fish) with 𗰞 (dark; black), signifying a dark fish (due to ink)."
+  },
+  {
+    "Modern Concept": "哞 (moo)",
+    "Proposed Tangut Word": "𗵊𗙏",
+    "Literal Tangut Meaning": "Ox Sound",
+    "Reasoning/Explanation": "To translate 'moo,' I've compounded 𗵊 (ox) with 𗙏 (sound voice), signifying the sound an ox makes."
+  },
+  {
+    "Modern Concept": "蠻 (barbarian)",
+    "Proposed Tangut Word": "𘈑𗡯",
+    "Literal Tangut Meaning": "People Strange",
+    "Reasoning/Explanation": "To translate 'barbarian,' I've compounded 𘈑 (people) with 𗡯 (strange), signifying strange people."
+  },
+  {
+    "Modern Concept": "鮭 (salmon)",
+    "Proposed Tangut Word": "𗋾𘔐",
+    "Literal Tangut Meaning": "Fish Red",
+    "Reasoning/Explanation": "To translate 'salmon,' I've compounded 𗋾 (fish) with 𘔐 (red), signifying a red fish."
+  },
+  {
+    "Modern Concept": "蠹 (woodworm)",
+    "Proposed Tangut Word": "𘙬𗠇",
+    "Literal Tangut Meaning": "Insect Eat",
+    "Reasoning/Explanation": "Same as for 蛀 zhù, using 𘙬𗠇 (insect eat) for 'woodworm.'"
+  },
+  {
+    "Modern Concept": "濺 (splash)",
+    "Proposed Tangut Word": "𗋽𗃊",
+    "Literal Tangut Meaning": "Water Sprinkle",
+    "Reasoning/Explanation": "To translate 'splash,' I've compounded 𗋽 (water) with 𗃊 (sprinkle), signifying to sprinkle water."
+  },
+  {
+    "Modern Concept": "鰭 (fin)",
+    "Proposed Tangut Word": "𗋾𘝋",
+    "Literal Tangut Meaning": "Fish Wing",
+    "Reasoning/Explanation": "To translate 'fin,' I've compounded 𗋾 (fish) with 𘝋 (wing), signifying a fish's wing."
+  },
+  {
+    "Modern Concept": "鯛 (sea bream)",
+    "Proposed Tangut Word": "𗋾𗡳",
+    "Literal Tangut Meaning": "Fish Beautiful",
+    "Reasoning/Explanation": "To translate 'sea bream,' I've compounded 𗋾 (fish) with 𗡳 (beautiful), signifying a beautiful fish."
+  },
+  {
+    "Modern Concept": "䲁 (eel)",
+    "Proposed Tangut Word": "𗀋𗋾",
+    "Literal Tangut Meaning": "Snake Fish",
+    "Reasoning/Explanation": "To translate 'eel,' I've compounded 𗀋 (snake) with 𗋾 (fish), signifying a snake-like fish."
+  },
+  {
+    "Modern Concept": "笛 (flute)",
+    "Proposed Tangut Word": "𗝕𗽻",
+    "Literal Tangut Meaning": "Bamboo Flute Tool",
+    "Reasoning/Explanation": "The Tangut word 𗝕 (bamboo flute) is a direct match, and 𗽻 (tool) is implied to be part of the concept."
+  },
+  {
+    "Modern Concept": "鮁 (mackerel)",
+    "Proposed Tangut Word": "𗋾𗕔",
+    "Literal Tangut Meaning": "Fish Big",
+    "Reasoning/Explanation": "To translate 'mackerel,' I've compounded 𗋾 (fish) with 𗕔 (big), signifying a big fish."
+  },
+  {
+    "Modern Concept": "魨 (pufferfish)",
+    "Proposed Tangut Word": "𗋾𗍦",
+    "Literal Tangut Meaning": "Fish Swelling",
+    "Reasoning/Explanation": "To translate 'pufferfish,' I've compounded 𗋾 (fish) with 𗍦 (swelling), signifying a fish that swells."
+  },
+  {
+    "Modern Concept": "鬚 (beard)",
+    "Proposed Tangut Word": "𘜂𗐄",
+    "Literal Tangut Meaning": "Face Hair",
+    "Reasoning/Explanation": "The Tangut word 'beard' has been previously defined as 𘜂𗐄 (face hair)."
+  },
+  {
+    "Modern Concept": "貝 (shell)",
+    "Proposed Tangut Word": "𘔮𗀫",
+    "Literal Tangut Meaning": "Wealth Cover",
+    "Reasoning/Explanation": "A specific word for 'shell' is not available. I've compounded 𘔮 (wealth property thing) with 𗀫 (cover), signifying a covering that is a valuable thing (as shells were often used as currency or ornaments)."
+  },
+  {
+    "Modern Concept": "羚 (antelope)",
+    "Proposed Tangut Word": "𗈟𗁳",
+    "Literal Tangut Meaning": "Goat Horn",
+    "Reasoning/Explanation": "To translate 'antelope,' I've compounded 𗈟 (goat) with 𗁳 (horn), signifying a horned goat."
+  },
+  {
+    "Modern Concept": "礁 (reef)",
+    "Proposed Tangut Word": "𗗚𗱸",
+    "Literal Tangut Meaning": "Sea Stone",
+    "Reasoning/Explanation": "To translate 'reef,' I've compounded 𗗚 (sea) with 𗱸 (stone), signifying a stone in the sea."
+  },
+  {
+    "Modern Concept": "典 (classic)",
+    "Proposed Tangut Word": "𗹙𘕁",
+    "Literal Tangut Meaning": "Law Note Record",
+    "Reasoning/Explanation": "To translate 'classic' (as in a classic text or work), I've compounded 𗹙 (law) with 𘕁 (note record), signifying a recorded law or principle, similar to Chinese 典 diǎn."
+  },
+  {
+    "Modern Concept": "隧 (tunnel)",
+    "Proposed Tangut Word": "𗃒𗵘",
+    "Literal Tangut Meaning": "Hole Road",
+    "Reasoning/Explanation": "To translate 'tunnel,' I've compounded 𗃒 (hole) with 𗵘 (road), signifying a road through a hole."
+  },
+  {
+    "Modern Concept": "括 (include)",
+    "Proposed Tangut Word": "𗉥𗅁",
+    "Literal Tangut Meaning": "Full Inner Inside",
+    "Reasoning/Explanation": "To translate 'include,' I've compounded 𗉥 (full) with 𗅁 (inner inside), signifying to bring fully inside."
+  },
+  {
+    "Modern Concept": "鄰 (neighbor)",
+    "Proposed Tangut Word": "𗀎𗎭𘈑",
+    "Literal Tangut Meaning": "Nearness House People",
+    "Reasoning/Explanation": "The Tangut word 'neighbor' has been previously defined as 𗀎𗎭𘈑 (nearness house people)."
+  },
+  {
+    "Modern Concept": "站 (station)",
+    "Proposed Tangut Word": "𗸀𗃿",
+    "Literal Tangut Meaning": "Appoint Place name",
+    "Reasoning/Explanation": "The Tangut word 'station' has been previously defined as 𗸀𗃿 (appoint place name)."
+  },
+  {
+    "Modern Concept": "簡 (simple)",
+    "Proposed Tangut Word": "𗧙𗆗",
+    "Literal Tangut Meaning": "Easy Short",
+    "Reasoning/Explanation": "To translate 'simple,' I've compounded 𗧙 (easy) with 𗆗 (short), signifying easy and not complex."
+  },
+  {
+    "Modern Concept": "饋 (offer food)",
+    "Proposed Tangut Word": "𗵰𗣣",
+    "Literal Tangut Meaning": "Sacrifice Food",
+    "Reasoning/Explanation": "To translate 'offer food,' I've compounded 𗵰 (sacrifice) with 𗣣 (food), signifying an offering of food."
+  },
+  {
+    "Modern Concept": "嶼 (island)",
+    "Proposed Tangut Word": "𗋽𗼻",
+    "Literal Tangut Meaning": "Water Land",
+    "Reasoning/Explanation": "The Tangut word 'island' has been previously defined as 𗋽𗼻 (water land)."
+  },
+  {
+    "Modern Concept": "份 (portion)",
+    "Proposed Tangut Word": "𗮝𗷳",
+    "Literal Tangut Meaning": "Piece Measure",
+    "Reasoning/Explanation": "To translate 'portion,' I've compounded 𗮝 (piece cube) with 𗷳 (measure), signifying a measured piece."
+  },
+  {
+    "Modern Concept": "稿 (draft)",
+    "Proposed Tangut Word": "𘅤𗧪",
+    "Literal Tangut Meaning": "Write First Born",
+    "Reasoning/Explanation": "To translate 'draft' (as a first version), I've compounded 𘅤 (write) with 𗧪 (first born), signifying a first written version."
+  },
+  {
+    "Modern Concept": "勵 (encourage)",
+    "Proposed Tangut Word": "𗖂𗸆",
+    "Literal Tangut Meaning": "Advise Strong",
+    "Reasoning/Explanation": "To translate 'encourage,' I've compounded 𗖂 (advise urge) with 𗸆 (strong powerful), signifying to strongly advise."
+  },
+  {
+    "Modern Concept": "涉 (involve)",
+    "Proposed Tangut Word": "𘃽𗅁",
+    "Literal Tangut Meaning": "Enter Inner Inside",
+    "Reasoning/Explanation": "To translate 'involve,' I've compounded 𘃽 (enter) with 𗅁 (inner inside), signifying to enter within or be part of."
+  },
+  {
+    "Modern Concept": "褻 (desecrate)",
+    "Proposed Tangut Word": "𗗡𗈅",
+    "Literal Tangut Meaning": "Dirty Return",
+    "Reasoning/Explanation": "To translate 'desecrate,' I've compounded 𗗡 (dirty filthy) with 𗈅 (return roll), implying to make dirty or defile."
+  },
+  {
+    "Modern Concept": "描 (describe)",
+    "Proposed Tangut Word": "𘅤𗡬",
+    "Literal Tangut Meaning": "Write Looks Appearance",
+    "Reasoning/Explanation": "To translate 'describe,' I've compounded 𘅤 (write) with 𗡬 (looks appearance), signifying to write how something looks."
+  },
+  {
+    "Modern Concept": "霸 (dominate)",
+    "Proposed Tangut Word": "𗀇𗹤",
+    "Literal Tangut Meaning": "Strong Victory",
+    "Reasoning/Explanation": "To translate 'dominate,' I've compounded 𗀇 (strong) with 𗹤 (victory), signifying strong victory or control."
+  },
+  {
+    "Modern Concept": "社 (society)",
+    "Proposed Tangut Word": "𘈑𗀊",
+    "Literal Tangut Meaning": "People Gather",
+    "Reasoning/Explanation": "To translate 'society,' I've compounded 𘈑 (people) with 𗀊 (gather), signifying a gathering of people."
+  },
+  {
+    "Modern Concept": "恢 (restore)",
+    "Proposed Tangut Word": "𗸁𗱌",
+    "Literal Tangut Meaning": "Firm Free oneself from",
+    "Reasoning/Explanation": "To translate 'restore,' I've compounded 𗸁 (firm) with 𗱌 (free oneself from), implying to make firm again or bring back."
+  },
+  {
+    "Modern Concept": "腥 (foul-smelling)",
+    "Proposed Tangut Word": "𘊃𗁮",
+    "Literal Tangut Meaning": "Stink Meat",
+    "Reasoning/Explanation": "To translate 'foul-smelling' (especially of meat), I've compounded 𘊃 (stink; bitter) with 𗁮 (meat), similar to Chinese 腥 xīng."
+  },
+  {
+    "Modern Concept": "侮 (insult)",
+    "Proposed Tangut Word": "𗖕𘈑",
+    "Literal Tangut Meaning": "Abuse Swear People",
+    "Reasoning/Explanation": "To translate 'insult,' I've compounded 𗖕 (abuse swear) with 𘈑 (people), signifying to abuse a person."
+  },
+  {
+    "Modern Concept": "夾 (clip)",
+    "Proposed Tangut Word": "𗉋𗁀",
+    "Literal Tangut Meaning": "Gather Join",
+    "Reasoning/Explanation": "To translate 'clip' (as in to hold together), I've compounded 𗉋 (gather assemble) with 𗁀 (join), signifying to gather and join together."
+  },
+  {
+    "Modern Concept": "蘋 (apple)",
+    "Proposed Tangut Word": "𗗘𘗰",
+    "Literal Tangut Meaning": "Sweet Fruit",
+    "Reasoning/Explanation": "The Tangut word 'apple' has been previously defined as 𗗘𘗰 (sweet fruit)."
+  },
+  {
+    "Modern Concept": "鉚 (rivet)",
+    "Proposed Tangut Word": "𘟪𘇉",
+    "Literal Tangut Meaning": "Iron Tie",
+    "Reasoning/Explanation": "To translate 'rivet,' I've compounded 𘟪 (iron) with 𘇉 (tie), signifying to tie with iron."
+  },
+  {
+    "Modern Concept": "納 (accept)",
+    "Proposed Tangut Word": "𗒐𗅁",
+    "Literal Tangut Meaning": "Receive Inner Inside",
+    "Reasoning/Explanation": "To translate 'accept,' I've compounded 𗒐 (receive accept) with 𗅁 (inner inside), signifying to receive something within."
+  },
+  {
+    "Modern Concept": "燧 (flint)",
+    "Proposed Tangut Word": "𘓼𗱸",
+    "Literal Tangut Meaning": "Fire Stone",
+    "Reasoning/Explanation": "To translate 'flint,' I've compounded 𘓼 (fire) with 𗱸 (stone), signifying a stone that produces fire."
+  },
+  {
+    "Modern Concept": "摯 (cordial)",
+    "Proposed Tangut Word": "𗡹𗤶",
+    "Literal Tangut Meaning": "Affection Love Heart",
+    "Reasoning/Explanation": "To translate 'cordial,' I've compounded 𗡹 (affection love) with 𗤶 (heart mind), signifying a loving heart."
+  },
+  {
+    "Modern Concept": "凡 (ordinary)",
+    "Proposed Tangut Word": "𘅲𘈑",
+    "Literal Tangut Meaning": "General Universal People",
+    "Reasoning/Explanation": "To translate 'ordinary,' I've compounded 𘅲 (general universal) with 𘈑 (people), signifying general people."
+  },
+  {
+    "Modern Concept": "惜 (pity)",
+    "Proposed Tangut Word": "𘟠𗈁",
+    "Literal Tangut Meaning": "Love Sad",
+    "Reasoning/Explanation": "To translate 'pity,' I've compounded 𘟠 (love like) with 𗈁 (sad sorrowful), signifying to love sadly."
+  },
+  {
+    "Modern Concept": "瞬 (instant)",
+    "Proposed Tangut Word": "𘅍𗙜",
+    "Literal Tangut Meaning": "Time Very Fast Rapidly",
+    "Reasoning/Explanation": "To translate 'instant,' I've compounded 𘅍 (time) with 𗙜 (very fast rapidly), signifying a very fast moment in time."
+  },
+  {
+    "Modern Concept": "摸 (touch)",
+    "Proposed Tangut Word": "𗁅𘄩",
+    "Literal Tangut Meaning": "Hand Beat",
+    "Reasoning/Explanation": "To translate 'touch,' I've compounded 𗁅 (hand) with 𘄩 (beat), signifying to make contact with the hand."
+  },
+  {
+    "Modern Concept": "演 (perform)",
+    "Proposed Tangut Word": "𗟃𗏴",
+    "Literal Tangut Meaning": "Play Show",
+    "Reasoning/Explanation": "To translate 'perform,' I've compounded 𗟃 (play have fun) with 𗏴 (show appear), signifying to show by playing."
+  },
+  {
+    "Modern Concept": "奏 (play music)",
+    "Proposed Tangut Word": "𗐽𗖟",
+    "Literal Tangut Meaning": "Music Song Sing",
+    "Reasoning/Explanation": "The Tangut word 𗐽 (music) and 𗖟 (song sing) can be combined to mean 'play music.'"
+  },
+  {
+    "Modern Concept": "叮 (ding)",
+    "Proposed Tangut Word": "𗙗𗙏",
+    "Literal Tangut Meaning": "Chime Sound",
+    "Reasoning/Explanation": "To translate 'ding' (a sound), I've compounded 𗙗 (chime) with 𗙏 (sound voice)."
+  },
+  {
+    "Modern Concept": "噹 (clang)",
+    "Proposed Tangut Word": "𗙗𗙏",
+    "Literal Tangut Meaning": "Chime Sound",
+    "Reasoning/Explanation": "Same as for 叮 dīng, using 𗙗𗙏 (chime sound) for 'clang.'"
+  },
+  {
+    "Modern Concept": "嗡 (buzz)",
+    "Proposed Tangut Word": "𗿡𗙏",
+    "Literal Tangut Meaning": "Bee Sound",
+    "Reasoning/Explanation": "To translate 'buzz,' I've compounded 𗿡 (bee) with 𗙏 (sound voice), implying the sound a bee makes."
+  },
+  {
+    "Modern Concept": "啪 (snap)",
+    "Proposed Tangut Word": "𗷷𗙏",
+    "Literal Tangut Meaning": "Snap Sound",
+    "Reasoning/Explanation": "To translate 'snap' (a sound), I've compounded 𗷷 (break snap) with 𗙏 (sound voice)."
+  },
+  {
+    "Modern Concept": "咔 (snap)",
+    "Proposed Tangut Word": "𗷷𗙏",
+    "Literal Tangut Meaning": "Snap Sound",
+    "Reasoning/Explanation": "Same as for 啪 pā, using 𗷷𗙏 (break snap sound) for 'snap.'"
+  },
+  {
+    "Modern Concept": "嗒 (tap)",
+    "Proposed Tangut Word": "𘄩𗙏",
+    "Literal Tangut Meaning": "Beat Sound",
+    "Reasoning/Explanation": "To translate 'tap' (a sound), I've compounded 𘄩 (beat) with 𗙏 (sound voice)."
+  },
+  {
+    "Modern Concept": "咕 (gurgle)",
+    "Proposed Tangut Word": "𗋽𗙏",
+    "Literal Tangut Meaning": "Water Sound",
+    "Reasoning/Explanation": "To translate 'gurgle,' I've compounded 𗋽 (water) with 𗙏 (sound voice), signifying a water sound."
+  },
+  {
+    "Modern Concept": "噥 (mutter)",
+    "Proposed Tangut Word": "𗟲𘙂",
+    "Literal Tangut Meaning": "Speech Low",
+    "Reasoning/Explanation": "To translate 'mutter,' I've compounded 𗟲 (speech say talk) with 𘙂 (low inferior), signifying low speech."
+  },
+  {
+    "Modern Concept": "吱 (squeak)",
+    "Proposed Tangut Word": "𘈁𗙏",
+    "Literal Tangut Meaning": "Wren Sound",
+    "Reasoning/Explanation": "A specific word for 'squeak' is not available. I've used 𘈁 (wren) with 𗙏 (sound voice), implying a small bird-like sound."
+  },
+  {
+    "Modern Concept": "喘 (gasp)",
+    "Proposed Tangut Word": "𗙑𗣓",
+    "Literal Tangut Meaning": "Breath Hard",
+    "Reasoning/Explanation": "To translate 'gasp,' I've compounded 𗙑 (breath gaseous) with 𗣓 (hard difficult), signifying hard breath."
+  },
+  {
+    "Modern Concept": "浸 (soak)",
+    "Proposed Tangut Word": "𗋽𗱥",
+    "Literal Tangut Meaning": "Water Moist",
+    "Reasoning/Explanation": "To translate 'soak,' I've compounded 𗋽 (water) with 𗱥 (moist damp), signifying to make moist with water."
+  },
+  {
+    "Modern Concept": "嵌 (inlay)",
+    "Proposed Tangut Word": "𘐏𘟪",
+    "Literal Tangut Meaning": "Place Iron",
+    "Reasoning/Explanation": "Same as for 鑲 xiāng, using 𘐏 (place put set up) with 𘟪 (iron) for 'inlay.'"
+  },
+  {
+    "Modern Concept": "颼 (whistle)",
+    "Proposed Tangut Word": "𗍄𗙏",
+    "Literal Tangut Meaning": "Wind Sound",
+    "Reasoning/Explanation": "To translate 'whistle,' I've compounded 𗍄 (wind) with 𗙏 (sound voice), signifying a wind-like sound."
+  },
+  {
+    "Modern Concept": "嘶 (hiss)",
+    "Proposed Tangut Word": "𗀋𗙏",
+    "Literal Tangut Meaning": "Snake Sound",
+    "Reasoning/Explanation": "To translate 'hiss,' I've compounded 𗀋 (snake) with 𗙏 (sound voice), signifying a snake-like sound."
+  },
+  {
+    "Modern Concept": "咯 (click)",
+    "Proposed Tangut Word": "𗙏𗷷",
+    "Literal Tangut Meaning": "Sound Snap",
+    "Reasoning/Explanation": "To translate 'click' (a sound), I've compounded 𗙏 (sound voice) with 𗷷 (break snap), signifying a snapping sound."
+  },
+  {
+    "Modern Concept": "嚕 (mutter)",
+    "Proposed Tangut Word": "𗟲𘙂",
+    "Literal Tangut Meaning": "Speech Low",
+    "Reasoning/Explanation": "Same as for 噥 nóng, using 𗟲𘙂 (speech low) for 'mutter.'"
+  },
+  {
+    "Modern Concept": "窺 (peep)",
+    "Proposed Tangut Word": "𘟀𗶇",
+    "Literal Tangut Meaning": "See Hidden Secret",
+    "Reasoning/Explanation": "To translate 'peep,' I've compounded 𘟀 (see) with 𗶇 (hidden secret), signifying to see secretly."
+  },
+  {
+    "Modern Concept": "蜷 (curl)",
+    "Proposed Tangut Word": "𗋇𗫚",
+    "Literal Tangut Meaning": "Bent Circle",
+    "Reasoning/Explanation": "To translate 'curl,' I've compounded 𗋇 (bent) with 𗫚 (circle), signifying to bend into a circle."
+  },
+  {
+    "Modern Concept": "翔 (soar)",
+    "Proposed Tangut Word": "𘝃𗵣",
+    "Literal Tangut Meaning": "Fly Top",
+    "Reasoning/Explanation": "To translate 'soar,' I've compounded 𘝃 (fly) with 𗵣 (top), signifying to fly high."
+  },
+  {
+    "Modern Concept": "划 (row)",
+    "Proposed Tangut Word": "𗊂𗇾",
+    "Literal Tangut Meaning": "Boat Move",
+    "Reasoning/Explanation": "To translate 'row,' I've compounded 𗊂 (boat) with 𗇾 (move stir), signifying to move a boat."
+  },
+  {
+    "Modern Concept": "搐 (spasm)",
+    "Proposed Tangut Word": "𗈎𗇾",
+    "Literal Tangut Meaning": "Disease Move",
+    "Reasoning/Explanation": "To translate 'spasm,' I've compounded 𗈎 (disease) with 𗇾 (move stir), signifying an involuntary movement due to illness."
+  },
+  {
+    "Modern Concept": "啾 (chirp)",
+    "Proposed Tangut Word": "𗩀𗙏",
+    "Literal Tangut Meaning": "Bird Sound",
+    "Reasoning/Explanation": "To translate 'chirp,' I've compounded 𗩀 (bird) with 𗙏 (sound voice), signifying a bird sound."
+  },
+  {
+    "Modern Concept": "嘀 (drip)",
+    "Proposed Tangut Word": "𗋽𗱥",
+    "Literal Tangut Meaning": "Water Moist",
+    "Reasoning/Explanation": "The Tangut word 'drip' has been previously defined as 𗋽𗱥 (water moist)."
+  },
+  {
+    "Modern Concept": "呱 (croak)",
+    "Proposed Tangut Word": "𘈓𗙏",
+    "Literal Tangut Meaning": "Frog Sound",
+    "Reasoning/Explanation": "To translate 'croak,' I've compounded 𘈓 (frog) with 𗙏 (sound voice), signifying the sound a frog makes."
+  },
+  {
+    "Modern Concept": "噴 (spray)",
+    "Proposed Tangut Word": "𗠣𗃊",
+    "Literal Tangut Meaning": "Eat Sprinkle",
+    "Reasoning/Explanation": "To translate 'spray,' I've compounded 𗠣 (eat) (for 'expel from mouth') with 𗃊 (sprinkle), signifying to expel something like a sprinkle."
+  },
+  {
+    "Modern Concept": "咩 (baa)",
+    "Proposed Tangut Word": "𘄃𗙏",
+    "Literal Tangut Meaning": "Sheep Lamb Sound",
+    "Reasoning/Explanation": "To translate 'baa,' I've compounded 𘄃 (sheep lamb) with 𗙏 (sound voice), signifying the sound a sheep makes."
+  },
+  {
+    "Modern Concept": "哼 (hum)",
+    "Proposed Tangut Word": "𗙏𘙂",
+    "Literal Tangut Meaning": "Sound Low",
+    "Reasoning/Explanation": "To translate 'hum,' I've compounded 𗙏 (sound voice) with 𘙂 (low inferior), signifying a low sound."
+  },
+  {
+    "Modern Concept": "卸 (unload)",
+    "Proposed Tangut Word": "𗷰𘓤",
+    "Literal Tangut Meaning": "Refuse Remove Load",
+    "Reasoning/Explanation": "To translate 'unload,' I've compounded 𗷰 (refuse remove) with 𘓤 (load), signifying to remove a load."
+  },
+  {
+    "Modern Concept": "隆 (rumble)",
+    "Proposed Tangut Word": "𗷠𗙏",
+    "Literal Tangut Meaning": "Thunder Sound",
+    "Reasoning/Explanation": "To translate 'rumble,' I've compounded 𗷠 (thunder) with 𗙏 (sound voice), signifying a thunder sound."
+  },
+  {
+    "Modern Concept": "哐 (clank)",
+    "Proposed Tangut Word": "𗙏𘟪",
+    "Literal Tangut Meaning": "Sound Iron",
+    "Reasoning/Explanation": "To translate 'clank,' I've compounded 𗙏 (sound voice) with 𘟪 (iron), signifying a sound of metal."
+  },
+  {
+    "Modern Concept": "啷 (clank)",
+    "Proposed Tangut Word": "𗙏𘟪",
+    "Literal Tangut Meaning": "Sound Iron",
+    "Reasoning/Explanation": "Same as for 哐 kuāng, using 𗙏𘟪 (sound iron) for 'clank.'"
+  },
+  {
+    "Modern Concept": "癢 (itch)",
+    "Proposed Tangut Word": "𗀩𘘱",
+    "Literal Tangut Meaning": "Ache Skin",
+    "Reasoning/Explanation": "To translate 'itch,' I've compounded 𗀩 (ache) with 𘘱 (skin), signifying an ache on the skin."
+  },
+  {
+    "Modern Concept": "嗞 (sizzle)",
+    "Proposed Tangut Word": "𘟉𗙏",
+    "Literal Tangut Meaning": "Steaming Sound",
+    "Reasoning/Explanation": "To translate 'sizzle,' I've compounded 𘟉 (steaming seething) with 𗙏 (sound voice), signifying a steaming sound."
+  },
+  {
+    "Modern Concept": "睫 (eyelash)",
+    "Proposed Tangut Word": "𗑉𗐄",
+    "Literal Tangut Meaning": "Eye Hair",
+    "Reasoning/Explanation": "To translate 'eyelash,' I've compounded 𗑉 (eye) with 𗐄 (hair), signifying hair around the eye."
+  },
+  {
+    "Modern Concept": "鏗 (clank)",
+    "Proposed Tangut Word": "𗙏𘟪",
+    "Literal Tangut Meaning": "Sound Iron",
+    "Reasoning/Explanation": "Same as for 哐 kuāng and 啷 lāng, using 𗙏𘟪 (sound iron) for 'clank.'"
+  },
+  {
+    "Modern Concept": "鏘 (clank)",
+    "Proposed Tangut Word": "𗙏𘟪",
+    "Literal Tangut Meaning": "Sound Iron",
+    "Reasoning/Explanation": "Same as for 哐 kuāng and 啷 lāng, using 𗙏𘟪 (sound iron) for 'clank.'"
+  },
+  {
+    "Modern Concept": "顧 (look after)",
+    "Proposed Tangut Word": "𗵱𗗄",
+    "Literal Tangut Meaning": "Observe Manager",
+    "Reasoning/Explanation": "To translate 'look after,' I've compounded 𗵱 (observe) with 𗗄 (manager), signifying to observe and manage."
+  },
+  {
+    "Modern Concept": "介 (intermediate)",
+    "Proposed Tangut Word": "𗀎𘇂",
+    "Literal Tangut Meaning": "Nearness Middle",
+    "Reasoning/Explanation": "To translate 'intermediate,' I've compounded 𗀎 (nearness; side) with 𘇂 (middle among), signifying something in the middle or between."
+  },
+  {
+    "Modern Concept": "付 (pay)",
+    "Proposed Tangut Word": "𘓯𗵜",
+    "Literal Tangut Meaning": "Give Money",
+    "Reasoning/Explanation": "To translate 'pay,' I've compounded 𘓯 (give grant) with 𗵜 (money), signifying to give money, similar to Chinese 付 fù."
+  },
+  {
+    "Modern Concept": "共 (together)",
+    "Proposed Tangut Word": "𗁀𗳦",
+    "Literal Tangut Meaning": "Join Alike",
+    "Reasoning/Explanation": "To translate 'together,' I've compounded 𗁀 (join) with 𗳦 (alike), signifying to join alike."
+  },
+  {
+    "Modern Concept": "列 (list)",
+    "Proposed Tangut Word": "𗫫𘕁",
+    "Literal Tangut Meaning": "Ranks Record",
+    "Reasoning/Explanation": "To translate 'list,' I've compounded 𗫫 (ranks) with 𘕁 (note record), signifying recorded ranks or items."
+  },
+  {
+    "Modern Concept": "哨 (whistle)",
+    "Proposed Tangut Word": "𗍄𗙏",
+    "Literal Tangut Meaning": "Wind Sound",
+    "Reasoning/Explanation": "Same as for 颼 sōu, using 𗍄𗙏 (wind sound) for 'whistle'."
+  },
+  {
+    "Modern Concept": "島 (island)",
+    "Proposed Tangut Word": "𗋽𗼻",
+    "Literal Tangut Meaning": "Water Land",
+    "Reasoning/Explanation": "The Tangut word 'island' has been previously defined as 𗋽𗼻 (water land)."
+  },
+  {
+    "Modern Concept": "慣 (accustomed)",
+    "Proposed Tangut Word": "𗷻𘅫",
+    "Literal Tangut Meaning": "Equal Work",
+    "Reasoning/Explanation": "To translate 'accustomed,' I've compounded 𗷻 (equal) with 𘅫 (work), signifying to work or be equal to something repeatedly."
+  },
+  {
+    "Modern Concept": "汐 (tide)",
+    "Proposed Tangut Word": "𗗚𗋽",
+    "Literal Tangut Meaning": "Sea Water",
+    "Reasoning/Explanation": "To translate 'tide,' I've compounded 𗗚 (sea) with 𗋽 (water), signifying sea water (affected by moon)."
+  },
+  {
+    "Modern Concept": "潮 (tide)",
+    "Proposed Tangut Word": "𗗚𗋽",
+    "Literal Tangut Meaning": "Sea Water",
+    "Reasoning/Explanation": "Same as for 汐 xī, using 𗗚𗋽 (sea water) for 'tide.'"
+  },
+  {
+    "Modern Concept": "玻 (glass)",
+    "Proposed Tangut Word": "𘄂𗱸",
+    "Literal Tangut Meaning": "Clear Stone",
+    "Reasoning/Explanation": "The Tangut word 'glass' has been previously defined as 𘄂𗱸 (clear stone)."
+  },
+  {
+    "Modern Concept": "磁 (magnetic)",
+    "Proposed Tangut Word": "𘟪𗥫",
+    "Literal Tangut Meaning": "Iron Light",
+    "Reasoning/Explanation": "To translate 'magnetic,' I've compounded 𘟪 (iron) with 𗥫 (light), signifying iron that has a specific (perhaps glowing or attractive) property. This is a conceptual stretch based on the common perception of magnetism."
+  },
+  {
+    "Modern Concept": "祝 (bless)",
+    "Proposed Tangut Word": "𗟦𗘷",
+    "Literal Tangut Meaning": "Lucky Good",
+    "Reasoning/Explanation": "To translate 'bless,' I've compounded 𗟦 (lucky fortune) with 𗘷 (good), signifying good fortune."
+  },
+  {
+    "Modern Concept": "腥 (foul-smelling)",
+    "Proposed Tangut Word": "𘊃𗁮",
+    "Literal Tangut Meaning": "Stink Meat",
+    "Reasoning/Explanation": "The Tangut word 'foul-smelling' has been previously defined as 𘊃𗁮 (stink meat)."
+  },
+  {
+    "Modern Concept": "蔭 (shade)",
+    "Proposed Tangut Word": "𗇮𘞄",
+    "Literal Tangut Meaning": "Shadow Flag",
+    "Reasoning/Explanation": "To translate 'shade,' I've compounded 𗇮 (shadow reflection) with 𘞄 (flag) (semantically extended to 'cover'), signifying a covering that creates shadow."
+  },
+  {
+    "Modern Concept": "蚌 (mussel)",
+    "Proposed Tangut Word": "𘅈𗋾",
+    "Literal Tangut Meaning": "Fish Shell",
+    "Reasoning/Explanation": "A specific word for 'mussel' isn't available. I've compounded an approximate Chinese sound bàng with 𗋾 (fish). Without a clearer \"shell\" morpheme for animals, 𘅈 could be a transliteration for bàng."
+  },
+  {
+    "Modern Concept": "袖 (sleeve)",
+    "Proposed Tangut Word": "𘃯𗣨",
+    "Literal Tangut Meaning": "Dress Clothing",
+    "Reasoning/Explanation": "To translate 'sleeve,' I've compounded 𘃯 (dress) with 𗣨 (clothing clothes), signifying part of a dress/clothing."
+  },
+  {
+    "Modern Concept": "覺 (feel)",
+    "Proposed Tangut Word": "𘑬𗸬",
+    "Literal Tangut Meaning": "Consciousness Hear",
+    "Reasoning/Explanation": "The Tangut word 'feel' has been previously defined as 𘑬𗸬 (consciousness hear)."
+  },
+  {
+    "Modern Concept": "譯 (translate)",
+    "Proposed Tangut Word": "𗯝𗗕",
+    "Literal Tangut Meaning": "Translate Vary",
+    "Reasoning/Explanation": "To translate 'translate,' I've compounded 𗯝 (translate vary) with 𗗕 (change), signifying to change language."
+  },
+  {
+    "Modern Concept": "買 (buy)",
+    "Proposed Tangut Word": "𗗣𗵲",
+    "Literal Tangut Meaning": "Trade Gain",
+    "Reasoning/Explanation": "The Tangut word 'buy' has been previously defined as 𗗣𗵲 (trade gain)."
+  },
+  {
+    "Modern Concept": "鍛 (forge)",
+    "Proposed Tangut Word": "𘟪𘅫",
+    "Literal Tangut Meaning": "Iron Work",
+    "Reasoning/Explanation": "To translate 'forge,' I've compounded 𘟪 (iron) with 𘅫 (work), signifying to work with iron."
+  },
+  {
+    "Modern Concept": "閃 (flash)",
+    "Proposed Tangut Word": "𗬔𘚅",
+    "Literal Tangut Meaning": "Lightning Shine",
+    "Reasoning/Explanation": "To translate 'flash,' I've compounded 𗬔 (lightning sparkle glisten) with 𘚅 (shine), signifying a quick shine."
+  },
+  {
+    "Modern Concept": "降 (descend)",
+    "Proposed Tangut Word": "𗱢𗄖",
+    "Literal Tangut Meaning": "Down Go",
+    "Reasoning/Explanation": "To translate 'descend,' I've compounded 𗱢 (verb prefix directional marker - downwards) with 𗄖 (go), signifying to go downwards."
+  },
+  {
+    "Modern Concept": "隊 (team)",
+    "Proposed Tangut Word": "𘒝𘈑",
+    "Literal Tangut Meaning": "Group People",
+    "Reasoning/Explanation": "To translate 'team,' I've compounded 𘒝 (group) with 𘈑 (people), signifying a group of people."
+  },
+  {
+    "Modern Concept": "隸 (subordinate)",
+    "Proposed Tangut Word": "𘙂𘈑",
+    "Literal Tangut Meaning": "Low Inferior People",
+    "Reasoning/Explanation": "To translate 'subordinate,' I've compounded 𘙂 (low inferior) with 𘈑 (people), signifying low-ranking people."
+  },
+  {
+    "Modern Concept": "鞘 (scabbard)",
+    "Proposed Tangut Word": "𘟫𗀫",
+    "Literal Tangut Meaning": "Sword Cover",
+    "Reasoning/Explanation": "To translate 'scabbard,' I've compounded 𘟫 (sword) with 𗀫 (cover), signifying a sword cover."
+  },
+  {
+   "Modern Concept": "Doing",
+    "Proposed Tangut Word": "𘃡𗇋",
+    "Literal Tangut Meaning": "Do Nominaliser",
+    "Reasoning/Explanation": "To express 'doing' as an ongoing action or the act itself, Tangut often employs nominalization. 𘃡 (wji1) means 'do,' and 𗇋 (mjijr2) serves as a nominaliser (among other functions). Combining these two characters forms a compound that conveys 'the act of doing' or 'that which is done,' effectively capturing the continuous or substantive sense of 'doing' in Tangut grammar."
+  },
+  {
+  	"Modern Concept": "Use",
+    "Proposed Tangut Word": "𘃡𗕂",
+    "Literal Tangut Meaning": "Do Tool",
+    "Reasoning/Explanation": "To convey 'use' in the sense of 'to employ an implement or means,' I've compounded the general verb 𘃡 (wji1, 'do') with 𗕂 (giu2, 'tool, utensil'). This theoretical compound literally means 'to do/make [with a] tool' or 'to operate [a] tool,' which effectively expresses the concept of 'using' something for a purpose."
+  },
+  {
+    "Modern Concept": "Used",
+    "Proposed Tangut Word": "𗫿 (adjective); 𘃡𗕂𗡟 (past tense of 'use')",
+    "Literal Tangut Meaning": "Worn / Old (adjective); Did Tool (past tense of 'use')",
+    "Reasoning/Explanation": "'Used' has two primary senses. For the adjectival meaning of 'worn' or 'second-hand,' 𗫿 (kjwi1) is a direct match, meaning 'used, worn, old.' For 'used' as the past tense of 'to use,' Tangut typically conveys completed action through aspect markers rather than direct verb inflections. Thus, I've taken the theoretical verb for 'use' (𘃡𗕂, 'do tool') and appended 𗡟 (mjijr2), a Tangut perfective marker. This combination means 'did tool,' conveying the completed action of 'using.'"
+  },
+  {
+   "Modern Concept": "Using",
+    "Proposed Tangut Word": "𗳒",
+    "Literal Tangut Meaning": "Instrumental Particle",
+    "Reasoning/Explanation": "'Using' can often imply 'by means of' or 'with the aid of.' In Tangut, this instrumental or causative sense is directly conveyed by the auxiliary word 𗳒 (ŋwu2), which is described as an 'instrumental particle.' This character is a direct match for expressing that an action is performed 'by using' something."
+  },
+  {
+  "Modern Concept": "Input",
+      "Proposed Tangut Word": "𗜹𘝞",
+      "Literal Tangut Meaning": "Enter Writing",
+      "Reasoning/Explanation": "To represent 'input' in a digital context, I've combined 𗜹 (ljị1), meaning 'enter,' with 𘝞 (.jwɨr2), meaning 'writing' or 'that which is written.' This compound suggests data or information being entered into a system, paralleling how 'input' often refers to text or data provided to a computer."
+  },
+  {
+   "Modern Concept": "Output",
+    "Proposed Tangut Word": "𗣈𘝞",
+    "Literal Tangut Meaning": "Exit Writing",
+    "Reasoning/Explanation": "Following the logic for 'input,' 'output' is conceptualized as information exiting a system. I've used 𗣈 (lho), meaning 'come; to exit,' combined with 𘝞 (.jwɨr2), 'writing.' This forms a compound that means 'writing/data exiting,' which is a straightforward way to express digital output."
+  },
+  {
+  "Modern Concept": "System",
+      "Proposed Tangut Word": "𗹙𗳻",
+      "Literal Tangut Meaning": "Law Straight",
+      "Reasoning/Explanation": "To translate 'system,' I've compounded 𗹙 (law) with 𗳻 (straight). This calques the Chinese idea of a 'system' (制度 zhìdù - often implies 'rule'/'law' and 'order'/'straightness')."
+  },
+  {
+   "Modern Concept": "Process",
+    "Proposed Tangut Word": "𗀅𘐡",
+    "Literal Tangut Meaning": "Undergo Order",
+    "Reasoning/Explanation": "A 'process' implies a sequence of steps or an ordered transformation. I've chosen 𗀅 (zar2), meaning 'undergo' or 'to go through,' and combined it with 𘐡 (tśjɨ1), which means 'order' or 'sequence.' This compound conveys the idea of something being subjected to a particular ordered procedure, fitting the concept of a 'process.'"
+  },
+  {
+  "Modern Concept": "Processor",
+      "Proposed Tangut Word": "𗀅𘐡𗕂",
+      "Literal Tangut Meaning": "Undergo Order Tool",
+      "Reasoning/Explanation": "Building on the theoretical word for 'process' (𗀅𘐡, 'undergo order'), I've added 𗕂 (giu2), which means 'tool' or 'utensil.' This compound theoretically describes a 'processor' as 'a tool that undergoes or performs order/sequence,' accurately reflecting its function in managing and executing processes, especially in a computational context."
+  },
+  {
+   "Modern Concept": "Memory",
+    "Proposed Tangut Word": "𘑬𘃥",
+    "Literal Tangut Meaning": "Consciousness Store",
+    "Reasoning/Explanation": "For 'memory,' encompassing both the mental faculty and data storage, I've combined 𘑬 (dwewr2), meaning 'consciousness' or 'to know,' with 𘃥 (dju̲1), meaning 'store' or 'save.' This compound suggests a 'store of consciousness' or a 'place where knowledge/information is kept,' providing a broad semantic field that covers both psychological and computational memory concepts."
+  },
+  {
+  "Modern Concept": "Keyboard",
+      "Proposed Tangut Word": "𗲕𗝤",
+      "Literal Tangut Meaning": "Button Board",
+      "Reasoning/Explanation": "A 'keyboard' is fundamentally a board with buttons. I've used 𗲕 (tse1), meaning 'button,' and 𗝤 (rer2), meaning 'plate' or 'board.' This straightforward descriptive compound clearly conveys the physical nature of a keyboard."
+  },
+  {
+    "Modern Concept": "Central",
+    "Proposed Tangut Word": "𘒁",
+    "Literal Tangut Meaning": "Centre / Middle",
+    "Reasoning/Explanation": "The concept of 'central' is directly represented by 𘒁 (djụ1), which means 'centre,' 'middle,' or 'cross.' This character effectively conveys the idea of being at the core or heart of something."
+  },
+  {
+  "Modern Concept": "Random",
+      "Proposed Tangut Word": "𗉡",
+      "Literal Tangut Meaning": "Irregular / Uneven",
+      "Reasoning/Explanation": "'Random' implies a lack of order or predictability. 𗉡 (kiew2) directly means 'irregular' or 'uneven,' which captures the essence of randomness better than concepts of 'disorder' that might imply chaos. It suggests a lack of pattern or consistent arrangement."
+  },
+  {
+  	"Modern Concept": "Access",
+  	    "Proposed Tangut Word": "𗟝",
+  	    "Literal Tangut Meaning": "Get into",
+  	    "Reasoning/Explanation": "The word 'access' often means to 'gain entry' or 'get into' something. The Tangut character 𗟝 (ɣiej1) directly translates to 'get into,' providing a concise and appropriate theoretical word for the concept of 'access.'"
+  },
+  {
+  "Modern Concept": "Story",
+      "Proposed Tangut Word": "𗟲𗋀",
+      "Literal Tangut Meaning": "Speech Flow",
+      "Reasoning/Explanation": "A 'story' is a narrative, often told verbally or written, implying a progression of events. I've combined 𗟲 (ŋwu̲1), meaning 'speech' or 'say,' with 𗋀 (tśjɨ̣2), meaning 'flow' or 'pass.' This compound evokes the idea of a narrative 'flowing out' or 'passing on' through speech, fitting the nature of a story."
+  },
+  {
+    "Modern Concept": "Legend",
+    "Proposed Tangut Word": "𘈧𗟲",
+    "Literal Tangut Meaning": "Pass Speech / Biography Speech",
+    "Reasoning/Explanation": "A 'legend' is a traditional narrative often passed down through generations, sometimes having historical connotations. I've chosen 𘈧 (de̲j1), which means 'pass,' 'pass on,' and even 'biography,' and combined it with 𗟲 (ŋwu̲1), 'speech.' This compound suggests a 'speech' or 'narrative' that has been 'passed on,' aligning with the traditional and transmittable nature of a legend."
+  },
+  {
+    "Modern Concept": "Electric",
+    "Proposed Tangut Word": "𗬓𗪺",
+    "Literal Tangut Meaning": "Lightning Power",
+    "Reasoning/Explanation": "Many languages, especially older ones adapting to modern concepts, associate 'electric' with 'lightning.' I've adopted this calquing strategy, combining 𗬓 (tshjwu1), meaning 'lightning,' with 𗪺 (ɣie1), meaning 'power' or 'strength.' This forms 'lightning power,' an intuitive description for electricity."
+  }
+]

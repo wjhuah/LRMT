@@ -1,1 +1,1 @@
-# LRMT_tangut
+# LRMT

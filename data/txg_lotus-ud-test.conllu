@@ -1,0 +1,2330 @@
+# sent_id = lotus_sutra_0001
+# text，lzh = 妙法蓮華經觀世音菩薩普門品。
+# text = 𗤓𗹙𗤻𗑗𗖰𗚩𗯨𗙏𘝯𘋢𗥤𗫡𘗠𘄿。
+1	𗤓	𗤓	ADJ	ADJ	_	2	amod	_	Gloss=beautiful, wonderful|LTranslit=thjo̲1|SpaceAfter=No
+2	𗹙	𗹙	NOUN	NOUN	_	5	nmod	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+3	𗤻	𗤻	NOUN	NOUN	_	5	nmod	_	Gloss=flower, blossom|LTranslit=wjạ1|OrigLang=lzh|SpaceAfter=No
+4	𗑗	𗑗	ADJ	ADJ	_	3	amod	_	Gloss=clean, quiet|LTranslit=sej1|SpaceAfter=No
+5	𗖰𗚩	𗖰𗚩	NOUN	NOUN	_	10	nmod	_	Gloss=sutra|LTranslit=lwǝr2|lhejr2|SpaceAfter=No
+6	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	7	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+7	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	10	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+8	𗫡	𗫡	ADJ	ADJ	_	9	amod	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+9	𘗠	𘗠	NOUN	NOUN	_	10	nmod	_	Gloss=door, gate, room|LTranslit=ɣa1|SpaceAfter=No
+10	𘄿	𘄿	PROPN	PROPN	_	0	root	_	Gloss=class|LTranslit=tjij1|SpaceAfter=No
+11	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0002
+# text，lzh = 爾時無盡意菩薩。即從座起。偏袒右肩合掌向佛而作是言。世尊。觀世音菩薩。以何因緣。名觀世音。
+# text = 𗉘𘝨𗉣𗅋𗋃𘋢𗥤𗶠𘏚𗈪𗢵𗂈𘏈𘊱𗔛𗢳𗏣𘃎𘜼𘌽𗍊𘒣𘘥𗯨𗖻𗯨𗙏𘝯𘋢𗥤𘕣𗦫𘔼𗖵𗯨𗙏𘝯𘘥𘃞。
+1	𗉘	𗉘	DET	DET	_	2	det	_	Gloss=pronoun|LTranslit=tśhjɨ1|SpaceAfter=No
+2	𘝨	𘝨	NOUN	NOUN	_	20	obl	_	Gloss=time|LTranslit=zjọ2|SpaceAfter=No
+3	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	4	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	20	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗶠	𗶠	NOUN	NOUN	_	6	nmod	_	Gloss=sit|LTranslit=dzu̲2|OrigLang=lzh|SpaceAfter=No
+6	𘏚	𘏚	NOUN	NOUN	_	8	obl	_	Gloss=place; used in possible/impossible constructions|LTranslit=tjị2|OrigLang=lzh|SpaceAfter=No
+7	𗈪	𗈪	ADP	ADP	_	6	case	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+8	𗢵	𗢵	VERB	VERB	_	4	acl	_	Gloss=stand up|LTranslit=wor1|SpaceAfter=No
+9	𗂈	𗂈	ADJ	ADJ	_	10	amod	_	Gloss=the left|LTranslit=źjɨ̣1|OrigLang=lzh|SpaceAfter=No
+10	𘏈	𘏈	NOUN	NOUN	_	12	obj	_	Gloss=shoulder|LTranslit=wạ1|SpaceAfter=No
+11	𘊱	𘊱	ADV	ADV	_	12	advmod	_	Gloss=half, side|LTranslit=pha1|SpaceAfter=No
+12	𗔛	𗔛	VERB	VERB	_	4	acl	_	Gloss=dress, apparel|LTranslit=gjwi2|SpaceAfter=No
+13	𗢳	𗢳	PROPN	PROPN	_	16	iobj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+14	𗏣	𗏣	ADP	ADP	_	13	case	_	Gloss=in the direction of, towards; side|LTranslit=rjijr2|OrigLang=lzh|SpaceAfter=No
+15	𘃎	𘃎	NOUN	NOUN	_	16	obj	_	Gloss=palm|LTranslit=pjạ1|OrigLang=lzh|SpaceAfter=No
+16	𘜼	𘜼	VERB	VERB	_	4	acl	_	Gloss=gentle, mild, close|LTranslit=phjo̲2|SpaceAfter=No
+17	𘌽	𘌽	PRON	PRON	_	19	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+18	𗍊	𗍊	ADP	ADP	_	17	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+19	𘒣	𘒣	NOUN	NOUN	_	20	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+20	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+21	𗯨𗖻	𗯨𗖻	PROPN	PROPN	_	28	vocative	_	Gloss=world-honoured one|LTranslit=rjur1|pjụ1|OrigLang=lzh|SpaceAfter=No
+22	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	23	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+23	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	28	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+24	𘕣	𘕣	DET	DET	_	25	det	_	Gloss=how, what|LTranslit=wa2|SpaceAfter=No
+25	𗦫𘔼	𗦫𘔼	NOUN	NOUN	_	28	obl	_	Gloss=cause|LTranslit=.jiw1|nio̲w1|SpaceAfter=No
+26	𗖵	𗖵	ADP	ADP	_	25	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+27	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	28	xcomp	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+28	𘘥	𘘥	VERB	VERB	_	20	parataxis	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+29	𘃞	𘃞	PART	PART	_	28	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+30	。	。	PUNCT	PUNCT	_	20	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0003
+# text，lzh = 佛告無盡意菩薩。善男子。若有無量百千萬億眾生。受諸苦惱。聞是觀世音菩薩。一心稱名。觀世音菩薩。即時觀其音聲。皆得解脫。
+# text = 𗢳𗉣𗅋𗋃𘋢𗥤𗗙𘘥𗩴𗾖𘈷𗓱𘖑𗆄𘊝𗡞𗕑𗦲𘋢𗋐𗱕𘍔𗉛𗨙𘅍𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗓁𗤶𗨳𗳒𘆖𗌭𗉘𗿳𗯨𗙏𘝯𘋢𗥤𗋕𗙏𘝯𗖵𗄊𗧐𗇘𗟻。
+1	𗢳	𗢳	PROPN	PROPN	_	5	nsubj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+2	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	3	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+3	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	5	iobj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+4	𗗙	𗗙	ADP	ADP	_	5	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+5	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+6	𗩴	𗩴	ADJ	ADJ	_	8	amod	_	Gloss=good, mercy|LTranslit=ne̲w2|OrigLang=lzh|SpaceAfter=No
+7	𗾖	𗾖	NOUN	NOUN	_	8	nmod	_	Gloss=man, male|LTranslit=go̲r1|SpaceAfter=No
+8	𘈷	𘈷	NOUN	NOUN	_	26	vocative	_	Gloss=son, child|LTranslit=gji2|SpaceAfter=No
+9	𗓱	𗓱	ADV	ADV	_	26	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+10	𘖑	𘖑	DET	DET	_	11	det	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+11	𗆄	𗆄	NOUN	NOUN	_	16	nmod	_	Gloss=measure, price|LTranslit=pjụ1|OrigLang=lzh|SpaceAfter=No
+12	𘊝	𘊝	NUM	NUM	_	16	nummod	_	Gloss=hundred|LTranslit=.jir2|OrigLang=lzh|SpaceAfter=No
+13	𗡞	𗡞	NUM	NUM	_	16	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+14	𗕑	𗕑	NUM	NUM	_	16	nummod	_	Gloss=ten thousand|LTranslit=khjɨ2|OrigLang=lzh|SpaceAfter=No
+15	𗦲	𗦲	NUM	NUM	_	16	nummod	_	Gloss=a hundred million|LTranslit=rjir2|SpaceAfter=No
+16	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	26	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+17	𗱕	𗱕	DET	DET	_	18	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+18	𘍔𗉛	𘍔𗉛	NOUN	NOUN	_	19	obj	_	Gloss=vexation|LTranslit=tśjị1|źjị1|SpaceAfter=No
+19	𗨙	𗨙	VERB	VERB	_	20	acl	_	Gloss=bear, suffer; to receive|LTranslit=lhjịj2|SpaceAfter=No
+20	𘅍	𘅍	NOUN	NOUN	_	26	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+21	𗋕	𗋕	DET	DET	_	23	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+22	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	23	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+23	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	25	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+24	𗗙	𗗙	ADP	ADP	_	23	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+25	𗦻	𗦻	NOUN	NOUN	_	26	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+26	𗓁	𗓁	VERB	VERB	_	5	parataxis	_	Gloss=listen, hear|LTranslit=mji1|SpaceAfter=No
+27	𗤶	𗤶	NOUN	NOUN	_	30	obl	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+28	𗨳	𗨳	ADJ	ADJ	_	27	amod	_	Gloss=return|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+29	𗳒	𗳒	ADP	ADP	_	27	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+30	𘆖	𘆖	VERB	VERB	_	26	conj	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+31	𗌭	𗌭	ADV	ADV	_	38	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+32	𗉘	𗉘	DET	DET	_	33	det	_	Gloss=pronoun|LTranslit=tśhjɨ1|SpaceAfter=No
+33	𗿳	𗿳	NOUN	NOUN	_	38	obl	_	Gloss=time, days|LTranslit=dzjɨj1|SpaceAfter=No
+34	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	35	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+35	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	38	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+36	𗋕	𗋕	DET	DET	_	37	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+37	𗙏	𗙏	NOUN	NOUN	_	38	obj	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+38	𘝯	𘝯	VERB	VERB	_	41	advcl	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+39	𗖵	𗖵	SCONJ	SCONJ	_	38	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+40	𗄊	𗄊	PRON	PRON	_	41	nsubj	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+41	𗧐𗇘	𗧐𗇘	VERB	VERB	_	26	parataxis	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+42	𗟻	𗟻	AUX	AUX	_	30	aux	_	Gloss=make; marker of causative construction|LTranslit=phji1|OrigLang=lzh|SpaceAfter=No
+43	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0004
+# text，lzh = 若有持是觀世音菩薩名者。設入大火。火不能燒。由是菩薩威神力故。
+# text = 𗓱𘓐𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗧯𗩱𗌭𗋕𘋢𗥤𗗙𘉡𗾈𗪺𗖵𗜐𘜶𘂤𘜪𘅍𗜐𗄨𘖑𗩱。
+1	𗓱	𗓱	ADV	ADV	_	7	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘓐	𘓐	NOUN	NOUN	_	7	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	6	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗗙	𗗙	ADP	ADP	_	4	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+6	𗦻	𗦻	NOUN	NOUN	_	7	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+7	𗧯	𗧯	VERB	VERB	_	0	root	_	Gloss=hold|LTranslit=.ji̲j1|OrigLang=lzh|SpaceAfter=No
+8	𗩱	𗩱	AUX	AUX	_	7	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+9	𗌭	𗌭	ADV	ADV	_	20	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+10	𗋕	𗋕	DET	DET	_	11	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+11	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	13	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+12	𗗙	𗗙	ADP	ADP	_	11	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+13	𘉡	𘉡	NOUN	NOUN	_	22	obl	_	Gloss=power, might|LTranslit=pjụ1|SpaceAfter=No
+14	𗾈𗪺	𗾈𗪺	NOUN	NOUN	_	13	appos	_	Gloss=supernatural might|LTranslit=me̲2|ɣie1|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	13	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	𗜐	𗜐	NOUN	NOUN	_	19	obl	_	Gloss=fire|LTranslit=mǝ̲1|OrigLang=lzh|SpaceAfter=No
+17	𘜶	𘜶	ADJ	ADJ	_	16	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+18	𘂤	𘂤	ADP	ADP	_	16	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+19	𘜪	𘜪	VERB	VERB	_	20	acl	_	Gloss=to fall; to sink; to drown|LTranslit=.jijr1|SpaceAfter=No
+20	𘅍	𘅍	NOUN	NOUN	_	22	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+21	𗜐	𗜐	NOUN	NOUN	_	22	nsubj	_	Gloss=fire|LTranslit=mǝ̲1|OrigLang=lzh|SpaceAfter=No
+22	𗄨	𗄨	VERB	VERB	_	7	parataxis	_	Gloss=burn, ignite, light|LTranslit=lu2|OrigLang=lzh|SpaceAfter=No
+23	𘖑	𘖑	PART	PART	_	22	advmod:neg	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+24	𗩱	𗩱	AUX	AUX	_	22	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+25	。	。	PUNCT	PUNCT	_	7	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0005
+# text，lzh = 若為大水所漂。稱其名號。即得淺處。
+# text = 𗓱𗋽𘜶𘂤𗛧𗋭𘅍𗋕𗦻𘆖𗌭𗋽𗼗𗯩𗬁𘜘。
+1	𗓱	𗓱	ADV	ADV	_	9	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗋽	𗋽	NOUN	NOUN	_	5	obl	_	Gloss=water; river|LTranslit=zjɨ̲r2|OrigLang=lzh|SpaceAfter=No
+3	𘜶	𘜶	ADJ	ADJ	_	2	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+4	𘂤	𘂤	ADP	ADP	_	2	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+5	𗛧𗋭	𗛧𗋭	VERB	VERB	_	6	acl	_	Gloss=float|LTranslit=ljụ1|djị1|SpaceAfter=No
+6	𘅍	𘅍	NOUN	NOUN	_	9	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+7	𗋕	𗋕	DET	DET	_	8	nmod	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+8	𗦻	𗦻	NOUN	NOUN	_	9	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+9	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+10	𗌭	𗌭	ADV	ADV	_	14	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+11	𗋽	𗋽	NOUN	NOUN	_	13	nmod	_	Gloss=water; river|LTranslit=zjɨ̲r2|OrigLang=lzh|SpaceAfter=No
+12	𗼗	𗼗	ADJ	ADJ	_	11	amod	_	Gloss=shallow|LTranslit=djɨj1|OrigLang=lzh|SpaceAfter=No
+13	𗯩	𗯩	NOUN	NOUN	_	14	obl	_	Gloss=each, place; nominaliser|LTranslit=twụ1|OrigLang=lzh|SpaceAfter=No
+14	𗬁	𗬁	VERB	VERB	_	9	parataxis	_	Gloss=stop, cease|LTranslit=djɨj2|SpaceAfter=No
+15	𘜘	𘜘	AUX	AUX	_	14	aux	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+16	。	。	PUNCT	PUNCT	_	9	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0006
+# text，lzh = 若有百千萬億眾生。為求金、銀、琉璃、硨磲、瑪瑙、珊瑚、琥珀、真珠等寶。入於大海。假使黑風吹其船舫。飄墮羅剎鬼國。
+# text = 𘎤𗓱𘊝𗡞𗕑𗦲𘋢𗋐𗵒𘊟𗋡𗍥𘙮𘁫𗊏𘛩𗻤𗅎𘚰𗿠𗊏𗒘𘆄𘏨𗴿𘔼𘜶𗗚𗅁𗶷𘚶𗰞𘝦𘃡𗛚𗊂𘔶𗂹𗓽𗽇𗢛𗂧𗅁𗈀。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	22	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𘊝	𘊝	NUM	NUM	_	6	nummod	_	Gloss=hundred|LTranslit=.jir2|OrigLang=lzh|SpaceAfter=No
+3	𗡞	𗡞	NUM	NUM	_	6	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+4	𗕑	𗕑	NUM	NUM	_	6	nummod	_	Gloss=ten thousand|LTranslit=khjɨ2|OrigLang=lzh|SpaceAfter=No
+5	𗦲	𗦲	NUM	NUM	_	6	nummod	_	Gloss=a hundred million|LTranslit=rjir2|SpaceAfter=No
+6	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	22	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+7	𗵒	𗵒	NOUN	NOUN	_	17	obj	_	Gloss=gold|LTranslit=kiẹ1|OrigLang=lzh|SpaceAfter=No
+8	𘊟	𘊟	NOUN	NOUN	_	7	conj	_	Gloss=silver (Ag)|LTranslit=ŋwo2|SpaceAfter=No
+9	𗋡𗍥	𗋡𗍥	NOUN	NOUN	_	7	conj	_	Gloss=coloured glaze|LTranslit=nia̲2|ɣjɨ1|SpaceAfter=No
+10	𘙮𘁫	𘙮𘁫	NOUN	NOUN	_	7	conj	_	Gloss=giant clam|LTranslit=lew2|nji̲j1|SpaceAfter=No
+11	𗊏𘛩	𗊏𘛩	NOUN	NOUN	_	7	conj	_	Gloss=agate|LTranslit=njị2|kjɨ̲1|SpaceAfter=No
+12	𗻤𗅎	𗻤𗅎	NOUN	NOUN	_	7	conj	_	Gloss=coral|LTranslit=śiwǝ1|khiwǝ1|SpaceAfter=No
+13	𘚰𗿠	𘚰𗿠	NOUN	NOUN	_	7	conj	_	Gloss=amber|LTranslit=ljɨ1|tśjwiw2|SpaceAfter=No
+14	𗊏𗒘	𗊏𗒘	NOUN	NOUN	_	7	conj	_	Gloss=pearl|LTranslit=njị2|ɣiej1|SpaceAfter=No
+15	𘆄	𘆄	CCONJ	CCONJ	_	7	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+16	𘏨	𘏨	NOUN	NOUN	_	7	conj	_	Gloss=treasure|LTranslit=ljɨ̣1|SpaceAfter=No
+17	𗴿	𗴿	VERB	VERB	_	18	acl	_	Gloss=pray|LTranslit=kjụ1|SpaceAfter=No
+18	𘔼	𘔼	NOUN	NOUN	_	22	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nio̲w1|OrigLang=lzh|SpaceAfter=No
+19	𘜶	𘜶	ADJ	ADJ	_	20	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+20	𗗚	𗗚	NOUN	NOUN	_	22	obl	_	Gloss=sea|LTranslit=ŋjow2|OrigLang=lzh|SpaceAfter=No
+21	𗅁	𗅁	ADP	ADP	_	20	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+22	𗶷	𗶷	VERB	VERB	_	0	root	_	Gloss=go, toward|LTranslit=śjɨ1|SpaceAfter=No
+23	𘚶	𘚶	NOUN	NOUN	_	28	nsubj	_	Gloss=wind|LTranslit=ljɨ1|SpaceAfter=No
+24	𗰞	𗰞	ADJ	ADJ	_	23	amod	_	Gloss=dark; black|LTranslit=nja̲1|OrigLang=lzh|SpaceAfter=No
+25	𘝦	𘝦	NOUN	NOUN	_	26	obj	_	Gloss=skill, art; ergative marker|LTranslit=dźjɨ|SpaceAfter=No
+26	𘃡	𘃡	VERB	VERB	_	23	acl	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+27	𗛚𗊂	𗛚𗊂	NOUN	NOUN	_	28	obj	_	Gloss=ferry, boat, ship|LTranslit=dzjịj2|dzjwɨ̣1|SpaceAfter=No
+28	𘔶𗂹	𘔶𗂹	VERB	VERB	_	22	parataxis	_	Gloss=blow|LTranslit=khwụ2|lhjɨ̣1|SpaceAfter=No
+29	𗓽𗽇	𗓽𗽇	NOUN	NOUN	_	31	nmod	_	Gloss=Rakshasa|LTranslit=lo1|tśhia1|SpaceAfter=No
+30	𗢛	𗢛	NOUN	NOUN	_	29	nmod	_	Gloss=ghost, spirit|LTranslit=.ju1|SpaceAfter=No
+31	𗂧	𗂧	NOUN	NOUN	_	33	obl	_	Gloss=country, national|LTranslit=lhjịj2|OrigLang=lzh|SpaceAfter=No
+32	𗅁	𗅁	ADP	ADP	_	31	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+33	𗈀	𗈀	VERB	VERB	_	28	parataxis	_	Gloss=fall, sink|LTranslit=ljɨ1|SpaceAfter=No
+34	。	。	PUNCT	PUNCT	_	22	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0007
+# text，lzh = 其中若有乃至一人。稱觀世音菩薩名者。是諸人等。皆得解脫羅剎之難。以是因緣。名觀世音。
+# text = 𗳱𘂤𘙇𗫡𗈪𘓐𗰣𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗌭𗋕𗱕𘓐𘆄𗓽𗽇𗢛𗧹𗄊𗧐𗇘𘜘𘌽𗦫𘔼𗖵𘘦𗯨𗙏𘝯𘘥𘃞。
+1	𗳱	𗳱	PRON	PRON	_	12	obl	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+2	𘂤	𘂤	ADP	ADP	_	1	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+3	𘙇	𘙇	ADV	ADV	_	12	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rjɨr2|SpaceAfter=No
+4	𗫡	𗫡	ADV	ADV	_	12	advmod	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+5	𗈪	𗈪	NUM	NUM	_	6	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+6	𘓐	𘓐	NOUN	NOUN	_	12	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+7	𗰣	𗰣	ADJ	ADJ	_	6	amod	_	Gloss=how many, how much, approx. indicator|LTranslit=zjịj1|SpaceAfter=No
+8	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	9	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+9	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	11	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+10	𗗙	𗗙	ADP	ADP	_	9	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+11	𗦻	𗦻	NOUN	NOUN	_	12	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+12	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+13	𗌭	𗌭	ADV	ADV	_	22	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+14	𗋕	𗋕	DET	DET	_	16	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+15	𗱕	𗱕	DET	DET	_	16	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+16	𘓐	𘓐	NOUN	NOUN	_	22	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+17	𘆄	𘆄	CCONJ	CCONJ	_	16	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+18	𗓽𗽇	𗓽𗽇	NOUN	NOUN	_	20	nmod	_	Gloss=Rakshasa|LTranslit=lo1|tśhia1|SpaceAfter=No
+19	𗢛	𗢛	NOUN	NOUN	_	18	nmod	_	Gloss=ghost, spirit|LTranslit=.ju1|SpaceAfter=No
+20	𗧹	𗧹	NOUN	NOUN	_	22	obl	_	Gloss=disaster, calamity|LTranslit=ŋjir1|SpaceAfter=No
+21	𗄊	𗄊	ADV	ADV	_	22	advmod	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+22	𗧐𗇘	𗧐𗇘	VERB	VERB	_	12	parataxis	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+23	𘜘	𘜘	AUX	AUX	_	22	aux	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+24	𘌽	𘌽	DET	DET	_	25	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+25	𗦫𘔼	𗦫𘔼	NOUN	NOUN	_	28	obl	_	Gloss=cause|LTranslit=.jiw1|nio̲w1|SpaceAfter=No
+26	𗖵𘘦	𗖵𘘦	ADP	ADP	_	25	case	_	Gloss=because of|LTranslit=bju1|tśhjwo1|SpaceAfter=No
+27	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	28	xcomp	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+28	𘘥	𘘥	VERB	VERB	_	22	parataxis	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+29	𘃞	𘃞	PART	PART	_	28	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+30	。	。	PUNCT	PUNCT	_	12	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0008
+# text，lzh = 若復有人。臨當被害。稱觀世音菩薩名者。彼所執刀杖。尋段段壞。而得解脫。
+# text = 𘎤𗓱𘓐𗖌𘉑𘝦𘃡𗜍𗈙𗗟𘅍𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗌭𗈙𗭪𘟞𘐬𗷷𗺴𗺴𗨻𗉮𘃛𗧐𗇘。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	15	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𘓐	𘓐	NOUN	NOUN	_	15	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+3	𗖌	𗖌	NUM	NUM	_	2	nummod	_	Gloss=one; indefinite article|LTranslit=gjɨ2|SpaceAfter=No
+4	𘉑	𘉑	PRON	PRON	_	7	nsubj	_	Gloss=he, it|LTranslit=mjɨ1|SpaceAfter=No
+5	𘝦	𘝦	NOUN	NOUN	_	6	obj	_	Gloss=skill, art; ergative marker|LTranslit=dźjɨ|SpaceAfter=No
+6	𘃡	𘃡	VERB	VERB	_	4	acl	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+7	𗜍𗈙	𗜍𗈙	VERB	VERB	_	9	acl	_	Gloss=kill|LTranslit=sja1|tśju̲1|SpaceAfter=No
+8	𗗟	𗗟	AUX	AUX	_	7	aux	_	Gloss=will, shall; future tense marker|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+9	𘅍	𘅍	NOUN	NOUN	_	15	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+10	𗋕	𗋕	DET	DET	_	11	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+11	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	12	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+12	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	14	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	11	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗦻	𗦻	NOUN	NOUN	_	15	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+15	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+16	𗌭	𗌭	ADV	ADV	_	24	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+17	𗈙	𗈙	NOUN	NOUN	_	18	nmod	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+18	𗭪	𗭪	NOUN	NOUN	_	24	nsubj	_	Gloss=auxiliary word; perfective marker|LTranslit=sji2|SpaceAfter=No
+19	𘟞	𘟞	NOUN	NOUN	_	18	conj	_	Gloss=knife, sword|LTranslit=bjɨr1|OrigLang=lzh|SpaceAfter=No
+20	𘐬	𘐬	NOUN	NOUN	_	18	conj	_	Gloss=cane, stick|LTranslit=bo2|OrigLang=lzh|SpaceAfter=No
+21	𗷷	𗷷	ADJ	ADJ	_	24	xcomp	_	Gloss=break, snap|LTranslit=lhjị2|SpaceAfter=No
+22	𗺴	𗺴	NOUN	NOUN	_	24	obl	_	Gloss=section, break|LTranslit=thọ1|OrigLang=lzh|SpaceAfter=No
+23	𗺴	𗺴	NOUN	NOUN	_	24	obl	_	Gloss=section, break|LTranslit=thọ1|OrigLang=lzh|SpaceAfter=No
+24	𗨻	𗨻	VERB	VERB	_	15	parataxis	_	Gloss=do|LTranslit=we2|SpaceAfter=No
+25	𗉮𘃛	𗉮𘃛	ADV	ADV	_	26	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+26	𗧐𗇘	𗧐𗇘	VERB	VERB	_	24	parataxis	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+27	。	。	PUNCT	PUNCT	_	15	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0009
+# text，lzh = 若三千大千國土。滿中夜叉羅剎。欲來惱人。聞其稱觀世音菩薩名者。是諸惡鬼。尚不能以惡眼視之。況復加害。
+# text = 𘎤𗓱𘕕𗡞𘜶𗡞𗂧𘍞𗅁𗥫𘀺𗓽𗽇𗱠𘏋𘓐𗗙𗈙𗄼𗧠𘅍𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗢼𗓁𗌭𗱕𗢛𘊄𘆄𗋕𘓐𗏣𗑉𘝱𘂆𘖑𘜕𗅉𗈙𗰓𘃦。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	22	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𘕕	𘕕	NUM	NUM	_	3	nummod	_	Gloss=three|LTranslit=sọ1|SpaceAfter=No
+3	𗡞	𗡞	NUM	NUM	_	6	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+4	𘜶	𘜶	ADJ	ADJ	_	5	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+5	𗡞	𗡞	NUM	NUM	_	6	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+6	𗂧𘍞	𗂧𘍞	NOUN	NOUN	_	11	obl	_	Gloss=state's territory|LTranslit=lhjịj2|iọ1|SpaceAfter=No
+7	𗅁	𗅁	ADP	ADP	_	6	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+8	𗥫𘀺	𗥫𘀺	NOUN	NOUN	_	11	nsubj:pass	_	Gloss=yaksa|LTranslit=.jij1|khja2|SpaceAfter=No
+9	𗓽𗽇	𗓽𗽇	NOUN	NOUN	_	8	conj	_	Gloss=Rakshasa|LTranslit=lo1|tśhia1|SpaceAfter=No
+10	𗱠	𗱠	ADV	ADV	_	11	advmod	_	Gloss=pure, refined|LTranslit=dźjij1|OrigLang=lzh|SpaceAfter=No
+11	𘏋	𘏋	VERB	VERB	_	17	acl	_	Gloss=full, filled, packed|LTranslit=sǝ1|SpaceAfter=No
+12	𘓐	𘓐	NOUN	NOUN	_	14	obj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗈙	𗈙	VERB	VERB	_	15	xcomp	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+15	𗄼	𗄼	AUX	AUX	_	11	xcomp	_	Gloss=come|LTranslit=lja1|SpaceAfter=No
+16	𗧠	𗧠	AUX	AUX	_	15	aux	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+17	𘅍	𘅍	NOUN	NOUN	_	22	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+18	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	19	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+19	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	21	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+20	𗗙	𗗙	ADP	ADP	_	19	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+21	𗦻	𗦻	NOUN	NOUN	_	22	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+22	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+23	𗢼	𗢼	ADV	ADV	_	24	advmod	_	Gloss=honest, upright|LTranslit=zjịj2|SpaceAfter=No
+24	𗓁	𗓁	VERB	VERB	_	22	conj	_	Gloss=listen, hear|LTranslit=mji1|SpaceAfter=No
+25	𗌭	𗌭	ADV	ADV	_	34	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+26	𗱕	𗱕	DET	DET	_	27	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+27	𗢛	𗢛	NOUN	NOUN	_	34	nsubj	_	Gloss=ghost, spirit|LTranslit=.ju1|SpaceAfter=No
+28	𘊄	𘊄	ADJ	ADJ	_	27	amod	_	Gloss=evil, vice|LTranslit=niow2|SpaceAfter=No
+29	𘆄	𘆄	CCONJ	CCONJ	_	27	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+30	𗋕	𗋕	DET	DET	_	31	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+31	𘓐	𘓐	NOUN	NOUN	_	32	nmod	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+32	𗏣	𗏣	NOUN	NOUN	_	34	obl	_	Gloss=in the direction of, towards; side|LTranslit=rjijr2|OrigLang=lzh|SpaceAfter=No
+33	𗑉	𗑉	NOUN	NOUN	_	34	obj	_	Gloss=eye|LTranslit=mej1|OrigLang=lzh|SpaceAfter=No
+34	𘝱	𘝱	VERB	VERB	_	22	parataxis	_	Gloss=open|LTranslit=khjo̲1|SpaceAfter=No
+35	𘂆	𘂆	ADV	ADV	_	34	advmod	_	Gloss=small, little, too|LTranslit=tsjɨ1|OrigLang=lzh|SpaceAfter=No
+36	𘖑	𘖑	PART	PART	_	34	advmod:neg	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+37	𘜕	𘜕	AUX	AUX	_	34	aux	_	Gloss=dare|LTranslit=kjir2|SpaceAfter=No
+38	𗅉	𗅉	ADV	ADV	_	39	advmod	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+39	𗈙	𗈙	VERB	VERB	_	34	parataxis	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+40	𗰓	𗰓	ADV	ADV	_	39	advmod	_	Gloss=how, where; rhetorical question particle|LTranslit=ljọ2|OrigLang=lzh|SpaceAfter=No
+41	𘃦	𘃦	AUX	AUX	_	39	aux	_	Gloss=do, act|LTranslit=ljɨ̲1|SpaceAfter=No
+42	。	。	PUNCT	PUNCT	_	22	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0010
+# text，lzh = 設復有人。若有罪。若無罪。杻械枷鎖。檢繫其身。稱觀世音菩薩名者。皆悉斷壞。即得解脫。
+# text = 𗓱𘓐𘕋𘂬𗅋𘂬𗦇𗤋𗝠𗒕𘟪𘅩𗭑𗁂𗳒𘛽𗆂𗇖𘅍𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗌭𗋕𗡶𘝪𗈜𗄊𗺴𗺴𗈀𗉮𘃛𗧐𗇘。
+1	𗓱	𗓱	ADV	ADV	_	23	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘓐	𘓐	NOUN	NOUN	_	23	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+3	𘕋	𘕋	NOUN	NOUN	_	4	obj	_	Gloss=fault, crime, guilt|LTranslit=dźjar2|SpaceAfter=No
+4	𘂬	𘂬	VERB	VERB	_	2	acl	_	Gloss=hang, join; to be|LTranslit=.o1|SpaceAfter=No
+5	𗅋	𗅋	PART	PART	_	6	advmod:neg	_	Gloss=no, not|LTranslit=mji1|SpaceAfter=No
+6	𘂬	𘂬	VERB	VERB	_	4	conj	_	Gloss=hang, join; to be|LTranslit=.o1|SpaceAfter=No
+7	𗦇	𗦇	AUX	AUX	_	6	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+8	𗤋	𗤋	PART	PART	_	6	advmod:neg	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+9	𗝠	𗝠	NOUN	NOUN	_	10	nmod	_	Gloss=tree|LTranslit=sji1|SpaceAfter=No
+10	𗒕	𗒕	NOUN	NOUN	_	17	obl	_	Gloss=neck|LTranslit=ljwịj1|SpaceAfter=No
+11	𘟪	𘟪	NOUN	NOUN	_	12	nmod	_	Gloss=iron (Fe)|LTranslit=śjow1|SpaceAfter=No
+12	𘅩	𘅩	NOUN	NOUN	_	10	conj	_	Gloss=rope|LTranslit=tsjịj1|SpaceAfter=No
+13	𗭑	𗭑	NOUN	NOUN	_	10	conj	_	Gloss=fetters|LTranslit=śju1|SpaceAfter=No
+14	𗁂	𗁂	NOUN	NOUN	_	10	conj	_	Gloss=wooden handcuffs|LTranslit=dzjiw2|SpaceAfter=No
+15	𗳒	𗳒	ADP	ADP	_	10	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+16	𘛽	𘛽	NOUN	NOUN	_	17	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+17	𗆂𗇖	𗆂𗇖	VERB	VERB	_	18	acl	_	Gloss=tie up, truss up, restrict|LTranslit=phej1|tśjɨ̲r2|SpaceAfter=No
+18	𘅍	𘅍	NOUN	NOUN	_	23	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+19	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	20	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+20	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	22	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+21	𗗙	𗗙	ADP	ADP	_	20	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+22	𗦻	𗦻	NOUN	NOUN	_	23	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+23	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+24	𗌭	𗌭	ADV	ADV	_	32	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+25	𗋕	𗋕	PROPN	PROPN	_	27	nsubj:pass	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+26	𗡶	𗡶	ADV	ADV	_	27	advmod	_	Gloss=along, along the surface|LTranslit=śjij1|OrigLang=lzh|SpaceAfter=No
+27	𘝪𗈜	𘝪𗈜	VERB	VERB	_	32	advcl	_	Gloss=separate, sever|LTranslit=dźjow1|ka2|SpaceAfter=No
+28	𗄊	𗄊	ADV	ADV	_	30	advmod	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+29	𗺴𗺴	𗺴𗺴	NOUN	NOUN	_	30	obl	_	Gloss=section, part|LTranslit=thọ1|thọ1|SpaceAfter=No
+30	𗈀	𗈀	VERB	VERB	_	27	conj	_	Gloss=fall, sink|LTranslit=ljɨ1|SpaceAfter=No
+31	𗉮𘃛	𗉮𘃛	ADV	ADV	_	32	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+32	𗧐𗇘	𗧐𗇘	VERB	VERB	_	23	parataxis	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+33	。	。	PUNCT	PUNCT	_	23	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0011
+# text，lzh = 若三千大千國土。滿中怨賊。有一商主。將諸商人。齎持重寶。經過險路。
+# text = 𘎤𗓱𘕕𗡞𘜶𗡞𗂧𘍞𗅁𘂭𘝚𗱠𘏋𗿳𗗥𗦳𗖌𗱕𗗥𗇋𗀚𘏨𘔮𘄽𗝿𗲐𗵘𗅁𗦎。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	19	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𘕕	𘕕	NUM	NUM	_	3	nummod	_	Gloss=three|LTranslit=sọ1|SpaceAfter=No
+3	𗡞	𗡞	NUM	NUM	_	6	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+4	𘜶	𘜶	ADJ	ADJ	_	5	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+5	𗡞	𗡞	NUM	NUM	_	6	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+6	𗂧𘍞	𗂧𘍞	NOUN	NOUN	_	11	obl	_	Gloss=state's territory|LTranslit=lhjịj2|iọ1|SpaceAfter=No
+7	𗅁	𗅁	ADP	ADP	_	6	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+8	𘂭	𘂭	NOUN	NOUN	_	11	nsubj:pass	_	Gloss=resentment|LTranslit=ljwịj1|SpaceAfter=No
+9	𘝚	𘝚	NOUN	NOUN	_	8	conj	_	Gloss=steal, pilfer, bottom LHS has two extra strokes filled in LFW|LTranslit=kjwɨr1|SpaceAfter=No
+10	𗱠	𗱠	ADV	ADV	_	11	advmod	_	Gloss=pure, refined|LTranslit=dźjij1|OrigLang=lzh|SpaceAfter=No
+11	𘏋	𘏋	VERB	VERB	_	12	acl	_	Gloss=full, filled, packed|LTranslit=sǝ1|SpaceAfter=No
+12	𗿳	𗿳	NOUN	NOUN	_	19	obl	_	Gloss=time, days|LTranslit=dzjɨj1|SpaceAfter=No
+13	𗗥	𗗥	NOUN	NOUN	_	14	nmod	_	Gloss=market, sell, marry|LTranslit=źjị2|SpaceAfter=No
+14	𗦳	𗦳	NOUN	NOUN	_	19	nsubj	_	Gloss=host|LTranslit=dzju2|SpaceAfter=No
+15	𗖌	𗖌	NUM	NUM	_	14	nummod	_	Gloss=one; indefinite article|LTranslit=gjɨ2|SpaceAfter=No
+16	𗱕	𗱕	DET	DET	_	18	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+17	𗗥	𗗥	NOUN	NOUN	_	18	nmod	_	Gloss=market, sell, marry|LTranslit=źjị2|SpaceAfter=No
+18	𗇋	𗇋	NOUN	NOUN	_	19	obj	_	Gloss=auxiliary word; 可以加在名词、动词和形容词后面，表示人或物; nominaliser|LTranslit=mjijr2|SpaceAfter=No
+19	𗀚	𗀚	VERB	VERB	_	0	root	_	Gloss=guide, lead|LTranslit=śio1|SpaceAfter=No
+20	𘏨	𘏨	NOUN	NOUN	_	23	obj	_	Gloss=treasure|LTranslit=ljɨ̣1|SpaceAfter=No
+21	𘔮	𘔮	NOUN	NOUN	_	20	conj	_	Gloss=wealth, property, thing|LTranslit=.war2|OrigLang=lzh|SpaceAfter=No
+22	𘄽	𘄽	ADJ	ADJ	_	20	amod	_	Gloss=good, kind|LTranslit=ŋạ2|SpaceAfter=No
+23	𗝿	𗝿	VERB	VERB	_	19	conj	_	Gloss=hold, grasp; to take away|LTranslit=tśhjij1|SpaceAfter=No
+24	𗲐	𗲐	ADJ	ADJ	_	25	amod	_	Gloss=dangerous, perilous|LTranslit=bjịj1|SpaceAfter=No
+25	𗵘	𗵘	NOUN	NOUN	_	27	obl	_	Gloss=road; way|LTranslit=tśja1|OrigLang=lzh|SpaceAfter=No
+26	𗅁	𗅁	ADP	ADP	_	25	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+27	𗦎	𗦎	VERB	VERB	_	19	conj	_	Gloss=flow|LTranslit=rar2|OrigLang=lzh|SpaceAfter=No
+28	。	。	PUNCT	PUNCT	_	19	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0012
+# text，lzh = 其中一人作是唱言。諸善男子。勿得恐怖。汝等應當一心稱觀世音菩薩名號。是菩薩能以無畏。施於眾生。汝等若稱名者。於此怨賊當得解脫。
+# text = 𗳱𘂤𘓐𗖌𘌽𗍊𘒣𘘥𗱕𗩴𗾖𘈷𗞞𘅇𗃬𗐱𗍳𘆄𗤶𗨳𗳒𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗦇𗋕𘋢𗥤𗫂𘋢𗋐𗗙𗃬𗤋𘈈𗩱𗍳𘆄𘎤𗓱𗳱𗗙𗦻𘆖𗩱𗌭𘌽𘂭𘝚𘂤𘙌𗅆𗧐𗇘𘜘𗐱𘘣。
+1	𗳱	𗳱	PRON	PRON	_	8	obl	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+2	𘂤	𘂤	ADP	ADP	_	1	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+3	𘓐	𘓐	NOUN	NOUN	_	8	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+4	𗖌	𗖌	NUM	NUM	_	3	nummod	_	Gloss=one; indefinite article|LTranslit=gjɨ2|SpaceAfter=No
+5	𘌽	𘌽	PRON	PRON	_	7	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+6	𗍊	𗍊	ADP	ADP	_	5	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+7	𘒣	𘒣	NOUN	NOUN	_	8	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+8	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+9	𗱕	𗱕	DET	DET	_	12	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+10	𗩴	𗩴	ADJ	ADJ	_	12	amod	_	Gloss=good, mercy|LTranslit=ne̲w2|OrigLang=lzh|SpaceAfter=No
+11	𗾖	𗾖	NOUN	NOUN	_	12	nmod	_	Gloss=man, male|LTranslit=go̲r1|SpaceAfter=No
+12	𘈷	𘈷	NOUN	NOUN	_	15	vocative	_	Gloss=son, child|LTranslit=gji2|SpaceAfter=No
+13	𗞞	𗞞	ADV	ADV	_	15	advmod	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=dja2|SpaceAfter=No
+14	𘅇	𘅇	PART	PART	_	15	advmod:neg	_	Gloss=respectful - same char as 1734 (prefix meaning no)|LTranslit=kwej1|SpaceAfter=No
+15	𗃬	𗃬	VERB	VERB	_	8	parataxis	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+16	𗐱	𗐱	ADV	ADV	_	15	advmod	_	Gloss=collective plural indicator|LTranslit=nji2|SpaceAfter=No
+17	𗍳	𗍳	PRON	PRON	_	26	nsubj	_	Gloss=you (formal)|LTranslit=nji2|SpaceAfter=No
+18	𘆄	𘆄	CCONJ	CCONJ	_	17	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+19	𗤶	𗤶	NOUN	NOUN	_	26	obl	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+20	𗨳	𗨳	ADJ	ADJ	_	19	amod	_	Gloss=return|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+21	𗳒	𗳒	ADP	ADP	_	19	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+22	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	23	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+23	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	25	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+24	𗗙	𗗙	ADP	ADP	_	23	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+25	𗦻	𗦻	NOUN	NOUN	_	26	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+26	𘆖	𘆖	VERB	VERB	_	15	parataxis	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+27	𗦇	𗦇	AUX	AUX	_	26	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+28	𗋕	𗋕	DET	DET	_	29	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+29	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	35	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+30	𗫂	𗫂	ADP	ADP	_	29	case	_	Gloss=affix, 者; uses co instead of ce in LFW; topic indicator|LTranslit=tja1|OrigLang=lzh|SpaceAfter=No
+31	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	35	iobj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+32	𗗙	𗗙	ADP	ADP	_	31	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+33	𗃬	𗃬	NOUN	NOUN	_	35	obj	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+34	𗤋	𗤋	DET	DET	_	33	det	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+35	𘈈	𘈈	VERB	VERB	_	26	parataxis	_	Gloss=grant, bestow|LTranslit=mji1|SpaceAfter=No
+36	𗩱	𗩱	AUX	AUX	_	35	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+37	𗍳	𗍳	NOUN	NOUN	_	43	nsubj	_	Gloss=you (formal)|LTranslit=nji2|SpaceAfter=No
+38	𘆄	𘆄	CCONJ	CCONJ	_	37	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+39	𘎤𗓱	𘎤𗓱	ADV	ADV	_	43	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+40	𗳱	𗳱	PRON	PRON	_	42	nmod	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+41	𗗙	𗗙	ADP	ADP	_	40	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+42	𗦻	𗦻	NOUN	NOUN	_	43	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+43	𘆖	𘆖	VERB	VERB	_	35	parataxis	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+44	𗩱	𗩱	AUX	AUX	_	43	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+45	𗌭	𗌭	ADV	ADV	_	52	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+46	𘌽	𘌽	DET	DET	_	47	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+47	𘂭	𘂭	NOUN	NOUN	_	52	obl	_	Gloss=resentment|LTranslit=ljwịj1|SpaceAfter=No
+48	𘝚	𘝚	NOUN	NOUN	_	47	conj	_	Gloss=steal, pilfer, bottom LHS has two extra strokes filled in LFW|LTranslit=kjwɨr1|SpaceAfter=No
+49	𘂤	𘂤	ADP	ADP	_	47	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+50	𘙌	𘙌	ADV	ADV	_	52	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kjɨ1|SpaceAfter=No
+51	𗅆	𗅆	ADV	ADV	_	52	advmod	_	Gloss=calm|LTranslit=djɨj2|SpaceAfter=No
+52	𗧐𗇘	𗧐𗇘	VERB	VERB	_	43	parataxis	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+53	𘜘	𘜘	AUX	AUX	_	52	aux	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+54	𗐱	𗐱	ADV	ADV	_	52	advmod	_	Gloss=collective plural indicator|LTranslit=nji2|SpaceAfter=No
+55	𘘣	𘘣	VERB	VERB	_	8	fixed	_	Gloss=say; to call|LTranslit=.jɨ2|OrigLang=lzh|SpaceAfter=No
+56	。	。	PUNCT	PUNCT	_	8	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0013
+# text，lzh = 眾商人聞。俱發聲言。南無觀世音菩薩。稱其名故。即得解脫。
+# text = 𗱕𗗥𗇋𘆄𗋕𘒣𗓁𗅉𗳦𗳦𗙏𗧊𗢰𘓩𗯨𗙏𘝯𘋢𗥤𘘣𗋕𗦻𘆖𗖵𗄊𗧐𗇘𘜘。
+1	𗱕	𗱕	DET	DET	_	3	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+2	𗗥	𗗥	NOUN	NOUN	_	3	nmod	_	Gloss=market, sell, marry|LTranslit=źjị2|SpaceAfter=No
+3	𗇋	𗇋	NOUN	NOUN	_	11	nsubj	_	Gloss=auxiliary word; 可以加在名词、动词和形容词后面，表示人或物; nominaliser|LTranslit=mjijr2|SpaceAfter=No
+4	𘆄	𘆄	CCONJ	CCONJ	_	3	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+5	𗋕	𗋕	PRON	PRON	_	6	nmod	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+6	𘒣	𘒣	NOUN	NOUN	_	7	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+7	𗓁	𗓁	VERB	VERB	_	11	advcl	_	Gloss=listen, hear|LTranslit=mji1|SpaceAfter=No
+8	𗅉	𗅉	SCONJ	SCONJ	_	7	mark	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+9	𗳦𗳦	𗳦𗳦	ADV	ADV	_	11	advmod	_	Gloss=together, at the same time, simultaneous|LTranslit=ka1|ka1|SpaceAfter=No
+10	𗙏	𗙏	NOUN	NOUN	_	11	obj	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+11	𗧊	𗧊	VERB	VERB	_	0	root	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to2|OrigLang=lzh|SpaceAfter=No
+12	𗢰𘓩	𗢰𘓩	VERB	VERB	_	11	parataxis	_	Gloss=Namo, take refuge in|LTranslit=na1|mu2|SpaceAfter=No
+13	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	14	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+14	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	12	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+15	𘘣	𘘣	VERB	VERB	_	11	fixed	_	Gloss=say; to call|LTranslit=.jɨ2|OrigLang=lzh|SpaceAfter=No
+16	𗋕	𗋕	PRON	PRON	_	17	nmod	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+17	𗦻	𗦻	NOUN	NOUN	_	18	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+18	𘆖	𘆖	VERB	VERB	_	21	advcl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+19	𗖵	𗖵	SCONJ	SCONJ	_	18	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+20	𗄊	𗄊	ADV	ADV	_	21	advmod	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+21	𗧐𗇘	𗧐𗇘	VERB	VERB	_	11	conj	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+22	𘜘	𘜘	AUX	AUX	_	21	aux	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+23	。	。	PUNCT	PUNCT	_	11	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0014
+# text，lzh = 佛告無盡意菩薩。觀世音菩薩摩訶薩。威神之力。巍巍如是。
+# text = 𗢳𗉣𗅋𗋃𘋢𗥤𗗙𘘣𘌽𗯨𗙏𘝯𘏞𗢈𗓚𘄽𗢈𘉡𗾈𗪺𗫂𘌽𗍊𗾟𘜶𘃞。
+1	𗢳	𗢳	NOUN	NOUN	_	5	nsubj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+2	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	3	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+3	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	5	iobj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+4	𗗙	𗗙	ADP	ADP	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+5	𘘣	𘘣	VERB	VERB	_	0	root	_	Gloss=say; to call|LTranslit=.jɨ2|OrigLang=lzh|SpaceAfter=No
+6	𘌽	𘌽	DET	DET	_	7	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+7	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	11	nmod	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+8	𘏞𗢈	𘏞𗢈	NOUN	NOUN	_	7	appos	_	Gloss=Bodhisattva|LTranslit=po1|tsa1|OrigLang=sa|SpaceAfter=No
+9	𗓚𘄽𗢈	𗓚𘄽𗢈	NOUN	NOUN	_	7	appos	_	Gloss=mahāsattva|LTranslit=ma2|ŋạ2|tsa1|OrigLang=sa|SpaceAfter=No
+10	𘉡	𘉡	NOUN	NOUN	_	11	nmod	_	Gloss=power, might|LTranslit=pjụ1|SpaceAfter=No
+11	𗾈𗪺	𗾈𗪺	NOUN	NOUN	_	15	nsubj	_	Gloss=supernatural might|LTranslit=me̲2|ɣie1|SpaceAfter=No
+12	𗫂	𗫂	ADP	ADP	_	11	case	_	Gloss=affix, 者; uses co instead of ce in LFW; topic indicator|LTranslit=tja1|OrigLang=lzh|SpaceAfter=No
+13	𘌽	𘌽	NOUN	NOUN	_	15	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+14	𗍊	𗍊	ADP	ADP	_	13	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+15	𗾟𘜶	𗾟𘜶	ADJ	ADJ	_	5	parataxis	_	Gloss=wide, vast, immense, large|LTranslit=wạ2|ljịj2|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+17	。	。	PUNCT	PUNCT	_	15	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0015
+# text，lzh = 若有眾生。爱生贪欲时。常念恭敬觀世音菩薩。便得離欲。
+# text = 𘎤𗓱𘋢𗋐𗅴𗧠𗄈𘟠𘅍𗏹𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗅉𗼋𗧋𗌭𗉮𘃛𗧠𗈜。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	11	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	11	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+3	𗅴𗧠	𗅴𗧠	NOUN	NOUN	_	4	obj	_	Gloss=greed, selfish, hungry for mean|LTranslit=lẹj2|kiẹj2|SpaceAfter=No
+4	𗄈𘟠	𗄈𘟠	VERB	VERB	_	5	acl	_	Gloss=arise love|LTranslit=sjwo1|dzu1|SpaceAfter=No
+5	𘅍	𘅍	NOUN	NOUN	_	11	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+6	𗏹	𗏹	ADV	ADV	_	11	advmod	_	Gloss=frequently, often; continually|LTranslit=.ju2|SpaceAfter=No
+7	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	8	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+8	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	10	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+9	𗗙	𗗙	ADP	ADP	_	8	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+10	𗦻	𗦻	NOUN	NOUN	_	11	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+11	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+12	𗅉	𗅉	CCONJ	CCONJ	_	11	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+13	𗼋𗧋	𗼋𗧋	VERB	VERB	_	11	conj	_	Gloss=respect|LTranslit=dzjwɨ̣1|lhejr2|SpaceAfter=No
+14	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+15	𗉮𘃛	𗉮𘃛	ADV	ADV	_	17	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+16	𗧠	𗧠	NOUN	NOUN	_	17	obl	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+17	𗈜	𗈜	VERB	VERB	_	11	parataxis	_	Gloss=sever|LTranslit=ka2|OrigLang=lzh|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	11	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0016
+# text，lzh = 若多瞋恚。常念恭敬觀世音菩薩。便得離瞋。
+# text = 𗓱𗕣𗔊𗄈𘟠𘅍𗏹𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗅉𗼋𗧋𗌭𗉮𘃛𗕣𗈜。
+1	𗓱	𗓱	ADV	ADV	_	10	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗕣𗔊	𗕣𗔊	NOUN	NOUN	_	3	obj	_	Gloss=anger, fury, rage|LTranslit=tshjạ1|kwow2|SpaceAfter=No
+3	𗄈𘟠	𗄈𘟠	VERB	VERB	_	4	acl	_	Gloss=arise love|LTranslit=sjwo1|dzu1|SpaceAfter=No
+4	𘅍	𘅍	NOUN	NOUN	_	10	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+5	𗏹	𗏹	ADV	ADV	_	10	advmod	_	Gloss=frequently, often; continually|LTranslit=.ju2|SpaceAfter=No
+6	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	7	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+7	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	9	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+8	𗗙	𗗙	ADP	ADP	_	7	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+9	𗦻	𗦻	NOUN	NOUN	_	10	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+10	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+11	𗅉	𗅉	CCONJ	CCONJ	_	10	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+12	𗼋𗧋	𗼋𗧋	VERB	VERB	_	10	conj	_	Gloss=respect|LTranslit=dzjwɨ̣1|lhejr2|SpaceAfter=No
+13	𗌭	𗌭	ADV	ADV	_	16	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+14	𗉮𘃛	𗉮𘃛	ADV	ADV	_	16	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+15	𗕣	𗕣	NOUN	NOUN	_	16	obj	_	Gloss=angry|LTranslit=tshjạ1|SpaceAfter=No
+16	𗈜	𗈜	VERB	VERB	_	10	parataxis	_	Gloss=sever|LTranslit=ka2|OrigLang=lzh|SpaceAfter=No
+17	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0017
+# text，lzh = 若多愚癡。常念恭敬觀世音菩薩。便得離癡。
+# text = 𗓱𗭩𘚠𗄈𘟠𘅍𗏹𗯨𗙏𘝯𘋢𗥤𗗙𗦻𘆖𗅉𗼋𗧋𗌭𗉮𘃛𗭩𘚠𗈜𘃞。
+1	𗓱	𗓱	ADV	ADV	_	10	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗭩𘚠	𗭩𘚠	NOUN	NOUN	_	3	obj	_	Gloss=stupid, go crazy|LTranslit=wẹ1|lǝ|SpaceAfter=No
+3	𗄈𘟠	𗄈𘟠	VERB	VERB	_	4	acl	_	Gloss=arise love|LTranslit=sjwo1|dzu1|SpaceAfter=No
+4	𘅍	𘅍	NOUN	NOUN	_	10	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+5	𗏹	𗏹	ADV	ADV	_	10	advmod	_	Gloss=frequently, often; continually|LTranslit=.ju2|SpaceAfter=No
+6	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	7	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+7	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	9	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+8	𗗙	𗗙	ADP	ADP	_	7	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+9	𗦻	𗦻	NOUN	NOUN	_	10	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+10	𘆖	𘆖	VERB	VERB	_	0	root	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+11	𗅉	𗅉	CCONJ	CCONJ	_	10	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+12	𗼋𗧋	𗼋𗧋	VERB	VERB	_	10	conj	_	Gloss=respect|LTranslit=dzjwɨ̣1|lhejr2|SpaceAfter=No
+13	𗌭	𗌭	ADV	ADV	_	16	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+14	𗉮𘃛	𗉮𘃛	ADV	ADV	_	16	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+15	𗭩𘚠	𗭩𘚠	NOUN	NOUN	_	16	obl	_	Gloss=stupid, go crazy|LTranslit=wẹ1|lǝ|SpaceAfter=No
+16	𗈜	𗈜	VERB	VERB	_	10	parataxis	_	Gloss=sever|LTranslit=ka2|OrigLang=lzh|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0018
+# text，lzh = 無盡意。觀世音菩薩。有如是等大威神力。多所饒益。是故眾生。常應心念。
+# text = 𗉣𗅋𗋃𗋕𗯨𗙏𘝯𘋢𗥤𘌽𗍊𘆄𘜶𘉡𗾈𗪺𗿷𗖵𗮅𘇚𗼜𗩱𘌽𘔼𘋢𗋐𗏹𗤶𗨳𗳒𗆫𗦇。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	16	vocative	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𗋕	𗋕	DET	DET	_	4	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	16	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𘌽	𘌽	PRON	PRON	_	10	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+6	𗍊	𗍊	ADP	ADP	_	5	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+7	𘆄	𘆄	CCONJ	CCONJ	_	5	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+8	𘜶	𘜶	ADJ	ADJ	_	10	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+9	𘉡	𘉡	ADJ	ADJ	_	10	amod	_	Gloss=power, might|LTranslit=pjụ1|SpaceAfter=No
+10	𗾈𗪺	𗾈𗪺	NOUN	NOUN	_	11	obj	_	Gloss=supernatural might|LTranslit=me̲2|ɣie1|SpaceAfter=No
+11	𗿷	𗿷	VERB	VERB	_	16	advcl	_	Gloss=have, possess|LTranslit=dźjij2|SpaceAfter=No
+12	𗖵	𗖵	SCONJ	SCONJ	_	11	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+13	𗮅	𗮅	ADJ	ADJ	_	15	nmod	_	Gloss=many, much, more|LTranslit=rejr2|SpaceAfter=No
+14	𘇚	𘇚	ADJ	ADJ	_	15	amod	_	Gloss=administer, manage|LTranslit=mji̲2|OrigLang=lzh|SpaceAfter=No
+15	𗼜	𗼜	NOUN	NOUN	_	16	obj	_	Gloss=interests, benefit|LTranslit=ɣie2|SpaceAfter=No
+16	𗩱	𗩱	VERB	VERB	_	0	root	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+17	𘌽	𘌽	DET	DET	_	18	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+18	𘔼	𘔼	NOUN	NOUN	_	24	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nio̲w1|OrigLang=lzh|SpaceAfter=No
+19	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	24	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+20	𗏹	𗏹	ADV	ADV	_	24	advmod	_	Gloss=frequently, often; continually|LTranslit=.ju2|SpaceAfter=No
+21	𗤶	𗤶	NOUN	NOUN	_	24	obl	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+22	𗨳	𗨳	ADJ	ADJ	_	21	amod	_	Gloss=return|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+23	𗳒	𗳒	ADP	ADP	_	21	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+24	𗆫	𗆫	VERB	VERB	_	16	parataxis	_	Gloss=|LTranslit=ljɨ̲r2|SpaceAfter=No
+25	𗦇	𗦇	AUX	AUX	_	24	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+26	。	。	PUNCT	PUNCT	_	16	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0019
+# text，lzh = 若有女人。設欲求男。禮拜供養觀世音菩薩。便生福德智慧之男。
+# text = 𘎤𗓱𗡸𘓐𘄄𗴿𗧠𘅍𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗍺𘐔𗴿𗒀𗌭𗉮𘃛𗼕𗣼𘄡𘟛𘈷𘎳。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	12	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𗡸	𗡸	NOUN	NOUN	_	3	nmod	_	Gloss=son's wife; woman|LTranslit=sji2|SpaceAfter=No
+3	𘓐	𘓐	NOUN	NOUN	_	12	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+4	𘄄	𘄄	NOUN	NOUN	_	5	obj	_	Gloss=man, male|LTranslit=zji1|SpaceAfter=No
+5	𗴿	𗴿	VERB	VERB	_	7	acl	_	Gloss=pray|LTranslit=kjụ1|SpaceAfter=No
+6	𗧠	𗧠	AUX	AUX	_	5	aux	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+7	𘅍	𘅍	NOUN	NOUN	_	12	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+8	𗋕	𗋕	DET	DET	_	10	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+9	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	10	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+10	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	12	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+11	𗗙	𗗙	ADP	ADP	_	10	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+12	𗍺𘐔	𗍺𘐔	VERB	VERB	_	0	root	_	Gloss=pay respect, bow to|LTranslit=tśja1|tshwew1|SpaceAfter=No
+13	𗴿	𗴿	VERB	VERB	_	12	conj	_	Gloss=pray|LTranslit=kjụ1|SpaceAfter=No
+14	𗒀	𗒀	VERB	VERB	_	12	conj	_	Gloss=make offerings to|LTranslit=tshwew1|SpaceAfter=No
+15	𗌭	𗌭	ADV	ADV	_	21	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+16	𗉮𘃛	𗉮𘃛	ADV	ADV	_	21	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+17	𗼕	𗼕	ADJ	ADJ	_	20	amod	_	Gloss=good fortune|LTranslit=ljo1|SpaceAfter=No
+18	𗣼	𗣼	ADJ	ADJ	_	17	conj	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+19	𘄡𘟛	𘄡𘟛	ADJ	ADJ	_	17	conj	_	Gloss=wisdom, knowledge, intellect mind|LTranslit=sjịj2|źjɨr1|SpaceAfter=No
+20	𘈷	𘈷	NOUN	NOUN	_	21	obj	_	Gloss=son, child|LTranslit=gji2|SpaceAfter=No
+21	𘎳	𘎳	VERB	VERB	_	12	parataxis	_	Gloss=give birth to, bear|LTranslit=we̲1|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	12	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0020
+# text，lzh = 設欲求女。便生端正有相之女。宿植德本。眾人愛敬。
+# text = 𗓱𗕪𗴿𗧠𘅍𗉮𘃛𗡮𗵽𘍦𘄽𗕪𘎳𗖏𗣼𗰜𗽈𗖵𗿷𘓐𘟠𗼋𘃞。
+1	𗓱	𗓱	ADV	ADV	_	11	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗕪	𗕪	NOUN	NOUN	_	3	obj	_	Gloss=woman, female|LTranslit=mjịj1|OrigLang=lzh|SpaceAfter=No
+3	𗴿	𗴿	VERB	VERB	_	5	acl	_	Gloss=pray|LTranslit=kjụ1|SpaceAfter=No
+4	𗧠	𗧠	AUX	AUX	_	3	aux	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+5	𘅍	𘅍	NOUN	NOUN	_	11	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+6	𗉮𘃛	𗉮𘃛	ADV	ADV	_	11	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+7	𗡮𗵽	𗡮𗵽	ADJ	ADJ	_	10	amod	_	Gloss=beautiful|LTranslit=śjwo2|lju̲2|SpaceAfter=No
+8	𘍦	𘍦	NOUN	NOUN	_	9	nmod	_	Gloss=look, appearance|LTranslit=.jij1|SpaceAfter=No
+9	𘄽	𘄽	ADJ	ADJ	_	10	amod	_	Gloss=good, kind|LTranslit=ŋạ2|SpaceAfter=No
+10	𗕪	𗕪	NOUN	NOUN	_	11	obj	_	Gloss=woman, female|LTranslit=mjịj1|OrigLang=lzh|SpaceAfter=No
+11	𘎳	𘎳	VERB	VERB	_	0	root	_	Gloss=give birth to, bear|LTranslit=we̲1|SpaceAfter=No
+12	𗖏	𗖏	ADJ	ADJ	_	13	amod	_	Gloss=former times|LTranslit=njwo2|SpaceAfter=No
+13	𗣼	𗣼	NOUN	NOUN	_	14	nmod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+14	𗰜	𗰜	NOUN	NOUN	_	15	obj	_	Gloss=basic, cardinal|LTranslit=mǝr2|OrigLang=lzh|SpaceAfter=No
+15	𗽈	𗽈	VERB	VERB	_	10	acl	_	Gloss=till, cultivate|LTranslit=ljị1|OrigLang=lzh|SpaceAfter=No
+16	𗖵	𗖵	ADP	ADP	_	15	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	𗿷	𗿷	DET	DET	_	18	det	_	Gloss=have, possess|LTranslit=dźjij2|SpaceAfter=No
+18	𘓐	𘓐	NOUN	NOUN	_	19	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+19	𘟠𗼋	𘟠𗼋	VERB	VERB	_	10	acl	_	Gloss=love, honor, revere, admire|LTranslit=dzu1|dzjwɨ̣1|SpaceAfter=No
+20	𘃞	𘃞	PART	PART	_	19	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	11	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0021
+# text，lzh = 無盡意。觀世音菩薩有如是力。
+# text = 𗉣𗅋𗋃𗋕𗯨𗙏𘝯𘋢𗥤𘌽𗍊𗪺。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	7	vocative	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𗋕	𗋕	DET	DET	_	4	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	7	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𘌽	𘌽	PRON	PRON	_	7	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+6	𗍊	𗍊	ADP	ADP	_	5	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+7	𗪺	𗪺	NOUN	NOUN	_	0	root	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+8	。	。	PUNCT	PUNCT	_	7	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0022
+# text，lzh = 若有眾生恭敬禮拜觀世音菩薩。福不唐捐。
+# text = 𘎤𗓱𘋢𗋐𗯨𗙏𘝯𘋢𗥤𗗙𗼋𗧋𗍺𘐔𗌭𗼕𗅩𗅋𗈀。
+1	𘎤𗓱	𘎤𗓱	ADV	ADV	_	6	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+2	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	6	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	6	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗗙	𗗙	ADP	ADP	_	4	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+6	𗼋𗧋	𗼋𗧋	VERB	VERB	_	0	root	_	Gloss=respect|LTranslit=dzjwɨ̣1|lhejr2|SpaceAfter=No
+7	𗍺𘐔	𗍺𘐔	VERB	VERB	_	6	conj	_	Gloss=pay respect, bow to|LTranslit=tśja1|tshwew1|SpaceAfter=No
+8	𗌭	𗌭	ADV	ADV	_	12	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+9	𗼕	𗼕	NOUN	NOUN	_	12	nsubj:pass	_	Gloss=good fortune|LTranslit=ljo1|SpaceAfter=No
+10	𗅩	𗅩	ADV	ADV	_	12	advmod	_	Gloss=absurd|LTranslit=lwow1|SpaceAfter=No
+11	𗅋	𗅋	PART	PART	_	12	advmod:neg	_	Gloss=no, not|LTranslit=mji1|SpaceAfter=No
+12	𗈀	𗈀	VERB	VERB	_	6	parataxis	_	Gloss=fall, sink|LTranslit=ljɨ1|SpaceAfter=No
+13	。	。	PUNCT	PUNCT	_	6	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0023
+# text，lzh = 是故眾生。皆應受持觀世音菩薩名號。
+# text = 𘌽𘔼𘋢𗋐𗄊𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗒐𗧯𗦇。
+1	𘌽	𘌽	DET	DET	_	2	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+2	𘔼	𘔼	NOUN	NOUN	_	9	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nio̲w1|OrigLang=lzh|SpaceAfter=No
+3	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	9	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+4	𗄊	𗄊	ADV	ADV	_	9	advmod	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+5	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	6	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+6	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	8	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+7	𗗙	𗗙	ADP	ADP	_	6	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+8	𗦻	𗦻	NOUN	NOUN	_	9	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+9	𗒐𗧯	𗒐𗧯	VERB	VERB	_	0	root	_	Gloss=receive, hold, guard of the Buddha's teaching|LTranslit=ɣiwej1|.ji̲j1|SpaceAfter=No
+10	𗦇	𗦇	AUX	AUX	_	9	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+11	。	。	PUNCT	PUNCT	_	9	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0024
+# text，lzh = 無盡意。若有人受持六十二億恆河沙菩薩名字。復盡形供養飲食衣服臥具醫藥。於汝意云何。是善男子善女人。功德多不。
+# text = 𗉣𗅋𗋃𗓱𘓐𗤁𗰗𗍫𗦲𗣋𘀺𘔏𘜔𘋢𗥤𗗙𗦻𗧯𗅉𗠇𗡄𗓈𘋳𗫠𗶤𗩜𗿧𗳒𗈪𘗽𗋕𘆄𗗙𗏺𗴿𗒀𗭪𘗐𘟂𗍳𗉣𘕿𘝶𗦜𗋕𗩴𗾖𘈷𗩴𗡸𘓐𗗙𗣼𘉐𗫂𗈪𗉘𗮅𘃞。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	49	vocative	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𗓱	𗓱	ADV	ADV	_	14	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+3	𘓐	𘓐	NOUN	NOUN	_	14	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+4	𗤁	𗤁	NUM	NUM	_	5	nummod	_	Gloss=six|LTranslit=tśhjiw1|OrigLang=lzh|SpaceAfter=No
+5	𗰗	𗰗	NUM	NUM	_	6	nummod	_	Gloss=ten|LTranslit=ɣạ2|OrigLang=lzh|SpaceAfter=No
+6	𗍫	𗍫	NUM	NUM	_	7	nummod	_	Gloss=two|LTranslit=njɨ̲1|SpaceAfter=No
+7	𗦲	𗦲	NUM	NUM	_	10	nummod	_	Gloss=a hundred million|LTranslit=rjir2|SpaceAfter=No
+8	𗣋𘀺	𗣋𘀺	NOUN	NOUN	_	9	nmod	_	Gloss=Gang River|LTranslit=khjã2|khja2|SpaceAfter=No
+9	𘔏	𘔏	NOUN	NOUN	_	10	nmod	_	Gloss=sand; grit|LTranslit=bẹ1|OrigLang=lzh|SpaceAfter=No
+10	𘜔	𘜔	NOUN	NOUN	_	11	nmod	_	Gloss=number, numeral, plural indicator; several|LTranslit=ŋewr2|OrigLang=lzh|SpaceAfter=No
+11	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	13	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+12	𗗙	𗗙	ADP	ADP	_	11	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+13	𗦻	𗦻	NOUN	NOUN	_	14	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+14	𗧯	𗧯	VERB	VERB	_	49	advcl	_	Gloss=hold|LTranslit=.ji̲j1|OrigLang=lzh|SpaceAfter=No
+15	𗅉	𗅉	CCONJ	CCONJ	_	14	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+16	𗠇𗡄	𗠇𗡄	NOUN	NOUN	_	28	obl	_	Gloss=food and drink|LTranslit=tjị1|dzji2|SpaceAfter=No
+17	𗓈𘋳	𗓈𘋳	NOUN	NOUN	_	16	conj	_	Gloss=clothing|LTranslit=lhwu1|gjwi2|SpaceAfter=No
+18	𗫠𗶤	𗫠𗶤	NOUN	NOUN	_	16	conj	_	Gloss=bedding|LTranslit=gjwɨr1|lju1|SpaceAfter=No
+19	𗩜𗿧	𗩜𗿧	NOUN	NOUN	_	16	conj	_	Gloss=medicinal brew, remedy|LTranslit=tser1|tsǝ̣1|SpaceAfter=No
+20	𗳒	𗳒	ADP	ADP	_	16	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+21	𗈪	𗈪	ADJ	ADJ	_	22	amod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+22	𘗽	𘗽	NOUN	NOUN	_	28	obl	_	Gloss=longevity; life|LTranslit=zjọ2|SpaceAfter=No
+23	𗋕	𗋕	PROPN	PROPN	_	22	nmod	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+24	𘆄	𘆄	CCONJ	CCONJ	_	23	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+25	𗗙	𗗙	ADP	ADP	_	23	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+26	𗏺	𗏺	VERB	VERB	_	14	conj	_	Gloss=auxiliary verb; verb prefix optative marker - direction not found|LTranslit=rjijr1|SpaceAfter=No
+27	𗴿	𗴿	VERB	VERB	_	14	conj	_	Gloss=pray|LTranslit=kjụ1|SpaceAfter=No
+28	𗒀	𗒀	VERB	VERB	_	14	conj	_	Gloss=make offerings to|LTranslit=tshwew1|SpaceAfter=No
+29	𗭪	𗭪	SCONJ	SCONJ	_	14	mark	_	Gloss=auxiliary word; perfective marker|LTranslit=sji2|SpaceAfter=No
+30	𘗐	𘗐	SCONJ	SCONJ	_	31	mark	_	Gloss=an auxiliary verb; 能源词; verb prefix optative marker - towards or away from the speaker|LTranslit=djij2|SpaceAfter=No
+31	𘟂	𘟂	VERB	VERB	_	49	parataxis	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu2|OrigLang=lzh|SpaceAfter=No
+32	𗍳	𗍳	PRON	PRON	_	33	det	_	Gloss=you (formal)|LTranslit=nji2|SpaceAfter=No
+33	𗉣	𗉣	NOUN	NOUN	_	36	nsubj:pass	_	Gloss=meaning, idea|LTranslit=phji1|SpaceAfter=No
+34	𘕿	𘕿	ADP	ADP	_	33	case	_	Gloss=locative particle in (the sky, the heart); on, around|LTranslit=ɣa2|SpaceAfter=No
+35	𘝶	𘝶	NOUN	NOUN	_	36	obl	_	Gloss=why|LTranslit=thjij2|SpaceAfter=No
+36	𗦜	𗦜	VERB	VERB	_	31	ccomp	_	Gloss=say|LTranslit=sjo2|SpaceAfter=No
+37	𗋕	𗋕	DET	DET	_	40	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+38	𗩴	𗩴	ADJ	ADJ	_	40	amod	_	Gloss=good, mercy|LTranslit=ne̲w2|OrigLang=lzh|SpaceAfter=No
+39	𗾖	𗾖	NOUN	NOUN	_	40	nmod	_	Gloss=man, male|LTranslit=go̲r1|SpaceAfter=No
+40	𘈷	𘈷	NOUN	NOUN	_	45	nmod	_	Gloss=son, child|LTranslit=gji2|SpaceAfter=No
+41	𗩴	𗩴	ADJ	ADJ	_	43	amod	_	Gloss=good, mercy|LTranslit=ne̲w2|OrigLang=lzh|SpaceAfter=No
+42	𗡸	𗡸	NOUN	NOUN	_	43	nmod	_	Gloss=son's wife; woman|LTranslit=sji2|SpaceAfter=No
+43	𘓐	𘓐	NOUN	NOUN	_	40	conj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+44	𗗙	𗗙	ADP	ADP	_	40	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+45	𗣼𘉐	𗣼𘉐	NOUN	NOUN	_	49	nsubj	_	Gloss=service, feat|LTranslit=tśhja2|.iow1|SpaceAfter=No
+46	𗫂	𗫂	ADP	ADP	_	45	case	_	Gloss=affix, 者; uses co instead of ce in LFW; topic indicator|LTranslit=tja1|OrigLang=lzh|SpaceAfter=No
+47	𗈪	𗈪	PART	PART	_	49	discourse	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+48	𗉘	𗉘	PART	PART	_	49	discourse	_	Gloss=pronoun|LTranslit=tśhjɨ1|SpaceAfter=No
+49	𗮅	𗮅	ADJ	ADJ	_	0	root	_	Gloss=many, much, more|LTranslit=rejr2|SpaceAfter=No
+50	𘃞	𘃞	PART	PART	_	49	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+51	。	。	PUNCT	PUNCT	_	49	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0025
+# text，lzh = 無盡意言。甚多。世尊。
+# text = 𗉣𗅋𗋃𘒣𗮅𘃞𗯨𗖻。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	2	nsubj	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𘒣	𘒣	VERB	VERB	_	0	root	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+3	𗮅	𗮅	ADJ	ADJ	_	2	parataxis	_	Gloss=many, much, more|LTranslit=rejr2|SpaceAfter=No
+4	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+5	𗯨𗖻	𗯨𗖻	PROPN	PROPN	_	3	vocative	_	Gloss=world-honoured one|LTranslit=rjur1|pjụ1|OrigLang=lzh|SpaceAfter=No
+6	。	。	PUNCT	PUNCT	_	2	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0026
+# text，lzh = 佛言。若復有人。受持觀世音菩薩名號。乃至一時禮拜供養。是二人福。正等無異。於百千萬億劫不可窮盡。
+# text = 𗢳𘒣𘎤𗓱𘓐𗖌𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗧯𘙇𗫡𗈪𗿳𗡪𘅍𗍺𘐔𗴿𗒀𗌭𘌽𘓐𗗙𗼕𗫂𗪘𗑠𗈪𗅲𘊝𗡞𗕑𗦲𗑱𗘯𗀅𘂆𗞞𗋃𗼕𗤋。
+1	𗢳	𗢳	PROPN	PROPN	_	2	nsubj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+2	𘒣	𘒣	VERB	VERB	_	0	root	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+3	𘎤𗓱	𘎤𗓱	ADV	ADV	_	11	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+4	𘓐	𘓐	NOUN	NOUN	_	11	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+5	𗖌	𗖌	NUM	NUM	_	4	nummod	_	Gloss=one; indefinite article|LTranslit=gjɨ2|SpaceAfter=No
+6	𗋕	𗋕	DET	DET	_	8	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+7	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	8	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+8	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	10	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+9	𗗙	𗗙	ADP	ADP	_	8	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+10	𗦻	𗦻	NOUN	NOUN	_	11	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+11	𗧯	𗧯	VERB	VERB	_	2	parataxis	_	Gloss=hold|LTranslit=.ji̲j1|OrigLang=lzh|SpaceAfter=No
+12	𘙇	𘙇	ADV	ADV	_	18	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rjɨr2|SpaceAfter=No
+13	𗫡	𗫡	ADV	ADV	_	18	advmod	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+14	𗈪	𗈪	NUM	NUM	_	15	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+15	𗿳	𗿳	NOUN	NOUN	_	18	obl	_	Gloss=time, days|LTranslit=dzjɨj1|SpaceAfter=No
+16	𗡪	𗡪	ADJ	ADJ	_	17	amod	_	Gloss=limit|LTranslit=tsew2|OrigLang=lzh|SpaceAfter=No
+17	𘅍	𘅍	NOUN	NOUN	_	18	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+18	𗍺𘐔	𗍺𘐔	VERB	VERB	_	11	conj	_	Gloss=pay respect, bow to|LTranslit=tśja1|tshwew1|SpaceAfter=No
+19	𗴿𗒀	𗴿𗒀	VERB	VERB	_	18	conj	_	Gloss=feed, maintain, sacrifice|LTranslit=kjụ1|tshwew1|SpaceAfter=No
+20	𗌭	𗌭	ADV	ADV	_	36	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+21	𘌽	𘌽	DET	DET	_	22	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+22	𘓐	𘓐	NOUN	NOUN	_	24	nmod	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+23	𗗙	𗗙	ADP	ADP	_	22	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+24	𗼕	𗼕	NOUN	NOUN	_	36	nsubj	_	Gloss=good fortune|LTranslit=ljo1|SpaceAfter=No
+25	𗫂	𗫂	ADP	ADP	_	24	case	_	Gloss=affix, 者; uses co instead of ce in LFW; topic indicator|LTranslit=tja1|OrigLang=lzh|SpaceAfter=No
+26	𗪘	𗪘	ADV	ADV	_	29	advmod	_	Gloss=before, former times|LTranslit=śji1|OrigLang=lzh|SpaceAfter=No
+27	𗑠	𗑠	CCONJ	CCONJ	_	29	cc	_	Gloss=same, and; comitative particle with|LTranslit=rjir2|SpaceAfter=No
+28	𗈪	𗈪	NUM	NUM	_	29	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+29	𗅲	𗅲	NOUN	NOUN	_	24	conj	_	Gloss=ceremony|LTranslit=tjɨ̣j2|SpaceAfter=No
+30	𘊝	𘊝	NUM	NUM	_	34	nummod	_	Gloss=hundred|LTranslit=.jir2|OrigLang=lzh|SpaceAfter=No
+31	𗡞	𗡞	NUM	NUM	_	34	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+32	𗕑	𗕑	NUM	NUM	_	34	nummod	_	Gloss=ten thousand|LTranslit=khjɨ2|OrigLang=lzh|SpaceAfter=No
+33	𗦲	𗦲	NUM	NUM	_	34	nummod	_	Gloss=a hundred million|LTranslit=rjir2|SpaceAfter=No
+34	𗑱	𗑱	NOUN	NOUN	_	36	obl	_	Gloss=rob, steps|LTranslit=kja2|SpaceAfter=No
+35	𗘯	𗘯	AUX	AUX	_	36	aux	_	Gloss=verb prefix optative marker - there, outside, further|LTranslit=wjij2|SpaceAfter=No
+36	𗀅	𗀅	VERB	VERB	_	11	parataxis	_	Gloss=undergo|LTranslit=zar2|SpaceAfter=No
+37	𘂆	𘂆	ADV	ADV	_	41	advmod	_	Gloss=small, little, too|LTranslit=tsjɨ1|OrigLang=lzh|SpaceAfter=No
+38	𗞞	𗞞	ADV	ADV	_	41	advmod	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=dja2|SpaceAfter=No
+39	𗋃	𗋃	ADJ	ADJ	_	40	amod	_	Gloss=limit, end|LTranslit=sji1|SpaceAfter=No
+40	𗼕	𗼕	NOUN	NOUN	_	41	obj	_	Gloss=good fortune|LTranslit=ljo1|SpaceAfter=No
+41	𗤋	𗤋	VERB	VERB	_	36	parataxis	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+42	。	。	PUNCT	PUNCT	_	2	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0027
+# text，lzh = 無盡意。受持觀世音菩薩名號。得如是無量無邊福德之利。
+# text = 𗉣𗅋𗋃𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗦻𗒐𗧋𗖵𘌽𗍊𘖑𗆄𗎘𗤋𗼕𗣼𘞙𗼜𘜘𘃞。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	18	vocative	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𗋕	𗋕	DET	DET	_	3	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	6	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗗙	𗗙	ADP	ADP	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+6	𗦻	𗦻	NOUN	NOUN	_	7	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+7	𗒐	𗒐	VERB	VERB	_	18	advcl	_	Gloss=receive, accept|LTranslit=ɣiwej1|OrigLang=lzh|SpaceAfter=No
+8	𗧋	𗧋	VERB	VERB	_	7	compound	_	Gloss=respectful|LTranslit=lhejr2|SpaceAfter=No
+9	𗖵	𗖵	SCONJ	SCONJ	_	7	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+10	𘌽	𘌽	PRON	PRON	_	16	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+11	𗍊	𗍊	ADP	ADP	_	10	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+12	𘖑	𘖑	DET	DET	_	13	det	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+13	𗆄	𗆄	NOUN	NOUN	_	16	nmod	_	Gloss=measure, price|LTranslit=pjụ1|OrigLang=lzh|SpaceAfter=No
+14	𗎘	𗎘	NOUN	NOUN	_	16	nmod	_	Gloss=border|LTranslit=bju2|SpaceAfter=No
+15	𗤋	𗤋	DET	DET	_	14	det	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+16	𗼕𗣼	𗼕𗣼	NOUN	NOUN	_	18	obj	_	Gloss=kind's deed, happiness|LTranslit=ljo1|tśhja2|SpaceAfter=No
+17	𘞙𗼜	𘞙𗼜	NOUN	NOUN	_	16	conj	_	Gloss=use, profit, gain, kindness|LTranslit=gjịj1|ɣie2|SpaceAfter=No
+18	𘜘	𘜘	VERB	VERB	_	0	root	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+19	𘃞	𘃞	PART	PART	_	18	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	18	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0028
+# text，lzh = 無盡意菩薩白佛言。世尊。觀世音菩薩。云何遊此娑婆世界。云何而為眾生說法。方便之力。其事云何。
+# text = 𗉣𗅋𗋃𘋢𗥤𗢳𗗙𘒣𘘥𗯨𗖻𗋕𗯨𗙏𘝯𘋢𗥤𘌽𗦗𗣧𗯨𗐯𗅁𘝶𗦜𘕧𘕂𗱕𘋢𗋐𗗙𘝶𗦜𗹙𘎪𗅉𗼄𘕤𗪺𗭍𗡶𘝶𗦜。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	6	nsubj	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	1	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+3	𗢳	𗢳	NOUN	NOUN	_	6	iobj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+4	𗗙	𗗙	ADP	ADP	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+5	𘒣	𘒣	NOUN	NOUN	_	6	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+6	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+7	𗯨𗖻	𗯨𗖻	PROPN	PROPN	_	16	vocative	_	Gloss=world-honoured one|LTranslit=rjur1|pjụ1|OrigLang=lzh|SpaceAfter=No
+8	𗋕	𗋕	DET	DET	_	10	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+9	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	10	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+10	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	16	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+11	𘌽	𘌽	DET	DET	_	12	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+12	𗦗𗣧	𗦗𗣧	NOUN	NOUN	_	17	obl	_	Gloss=Saha, universal|LTranslit=so2|pho1|SpaceAfter=No
+13	𗯨𗐯	𗯨𗐯	NOUN	NOUN	_	12	nmod	_	Gloss=world, universe, instances|LTranslit=rjur1|kiẹj2|SpaceAfter=No
+14	𗅁	𗅁	ADP	ADP	_	12	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+15	𘝶	𘝶	NOUN	NOUN	_	16	obl	_	Gloss=why|LTranslit=thjij2|SpaceAfter=No
+16	𗦜	𗦜	VERB	VERB	_	17	advcl	_	Gloss=say|LTranslit=sjo2|SpaceAfter=No
+17	𘕧𘕂	𘕧𘕂	VERB	VERB	_	6	parataxis	_	Gloss=walk, roam, rove|LTranslit=da̲2|dźjij1|SpaceAfter=No
+18	𗱕	𗱕	DET	DET	_	19	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+19	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	17	iobj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+20	𗗙	𗗙	ADP	ADP	_	19	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+21	𘝶	𘝶	NOUN	NOUN	_	22	obl	_	Gloss=why|LTranslit=thjij2|SpaceAfter=No
+22	𗦜	𗦜	VERB	VERB	_	17	advcl	_	Gloss=say|LTranslit=sjo2|SpaceAfter=No
+23	𗹙	𗹙	NOUN	NOUN	_	17	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+24	𘎪	𘎪	VERB	VERB	_	17	conj	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+25	𗅉	𗅉	CCONJ	CCONJ	_	17	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+26	𗼄𘕤	𗼄𘕤	VERB	VERB	_	27	acl	_	Gloss=comfortable|LTranslit=tśier1|.ju2|SpaceAfter=No
+27	𗪺	𗪺	NOUN	NOUN	_	28	obj	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+28	𗭍	𗭍	VERB	VERB	_	31	xcomp	_	Gloss=go, send|LTranslit=dźjịj1|SpaceAfter=No
+29	𗡶	𗡶	ADV	ADV	_	28	advmod	_	Gloss=along, along the surface|LTranslit=śjij1|OrigLang=lzh|SpaceAfter=No
+30	𘝶	𘝶	NOUN	NOUN	_	31	obl	_	Gloss=why|LTranslit=thjij2|SpaceAfter=No
+31	𗦜	𗦜	VERB	VERB	_	17	conj	_	Gloss=say|LTranslit=sjo2|SpaceAfter=No
+32	。	。	PUNCT	PUNCT	_	6	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0029
+# text，lzh = 佛告無盡意菩薩。善男子。若有國土眾生。應以佛身得度者。觀世音菩薩。即現佛身而為說法。
+# text = 𗢳𗉣𗅋𗋃𘋢𗥤𗗙𘘥𗩴𗾖𘈷𗓱𗂧𘍞𗅁𘋢𗋐𗢳𘛽𗜓𗳒𗌗𗰛𗟭𗌭𗯨𗙏𘝯𘋢𗥤𗢳𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗢳	𗢳	PROPN	PROPN	_	5	nsubj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+2	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	3	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+3	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	5	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+4	𗗙	𗗙	ADP	ADP	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+5	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+6	𗩴	𗩴	ADJ	ADJ	_	8	amod	_	Gloss=good, mercy|LTranslit=ne̲w2|OrigLang=lzh|SpaceAfter=No
+7	𗾖	𗾖	NOUN	NOUN	_	8	nmod	_	Gloss=man, male|LTranslit=go̲r1|SpaceAfter=No
+8	𘈷	𘈷	NOUN	NOUN	_	17	vocative	_	Gloss=son, child|LTranslit=gji2|SpaceAfter=No
+9	𗓱	𗓱	ADV	ADV	_	17	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+10	𗂧𘍞	𗂧𘍞	NOUN	NOUN	_	17	obl	_	Gloss=state's territory|LTranslit=lhjịj2|iọ1|SpaceAfter=No
+11	𗅁	𗅁	ADP	ADP	_	10	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+12	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	17	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+13	𗢳	𗢳	NOUN	NOUN	_	14	nmod	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+14	𘛽	𘛽	NOUN	NOUN	_	15	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+15	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+16	𗳒	𗳒	SCONJ	SCONJ	_	15	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+17	𗌗𗰛	𗌗𗰛	VERB	VERB	_	5	parataxis	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+18	𗟭	𗟭	AUX	AUX	_	17	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+19	𗌭	𗌭	ADV	ADV	_	31	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+20	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	21	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+21	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	31	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+22	𗢳	𗢳	NOUN	NOUN	_	23	nmod	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+23	𘛽	𘛽	NOUN	NOUN	_	24	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+24	𗜓	𗜓	VERB	VERB	_	31	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+25	𗳒	𗳒	SCONJ	SCONJ	_	24	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+26	𗳱	𗳱	PRON	PRON	_	30	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+27	𗗙	𗗙	ADP	ADP	_	26	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+28	𗣼	𗣼	ADJ	ADJ	_	29	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+29	𗹙	𗹙	NOUN	NOUN	_	30	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+30	𘎪	𘎪	VERB	VERB	_	31	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+31	𘃡	𘃡	VERB	VERB	_	17	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+32	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0030
+# text，lzh = 應以辟支佛身得度者。即現辟支佛身而為說法。
+# text = 𗓱𘞪𗫨𘛽𗳒𗌗𗰛𗟭𗌭𘞪𗫨𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘞪𗫨	𘞪𗫨	NOUN	NOUN	_	3	nmod	_	Gloss=Pratyeka-buddha, solitary buddha, buddha on their own|LTranslit=tjịj1|dwewr2|OrigLang=sa|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𘞪𗫨	𘞪𗫨	NOUN	NOUN	_	9	nmod	_	Gloss=Pratyeka-buddha, solitary buddha, buddha on their own|LTranslit=tjịj1|dwewr2|OrigLang=sa|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0031
+# text，lzh = 應以聲聞身得度者。即現聲聞身而為說法。
+# text = 𗓱𗙏𗓁𘛽𗳒𗌗𗰛𗟭𗌭𗙏𗓁𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗙏𗓁	𗙏𗓁	NOUN	NOUN	_	3	nmod	_	Gloss=Śrāvaka, sound-hearer|LTranslit=ɣiẹ2|mji1|OrigLang=sa|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𗙏𗓁	𗙏𗓁	NOUN	NOUN	_	9	nmod	_	Gloss=Śrāvaka, sound-hearer|LTranslit=ɣiẹ2|mji1|OrigLang=sa|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0032
+# text，lzh = 應以梵王身得度者。即現梵王身而為說法
+# text = 𗓱𗏆𘟙𘛽𗳒𗌗𗰛𗟭𗌭𗏆𘟙𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	6	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗏆	𗏆	NOUN	NOUN	_	3	nmod	_	Gloss=transliteration; Sanskrit|LTranslit=xiwã1|SpaceAfter=No
+3	𘟙	𘟙	NOUN	NOUN	_	4	nmod	_	Gloss=king, monarch|LTranslit=njij2|OrigLang=lzh|SpaceAfter=No
+4	𘛽	𘛽	NOUN	NOUN	_	6	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+5	𗳒	𗳒	ADP	ADP	_	4	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+6	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+7	𗟭	𗟭	AUX	AUX	_	6	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+8	𗌭	𗌭	ADV	ADV	_	19	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+9	𗏆	𗏆	NOUN	NOUN	_	10	nmod	_	Gloss=transliteration; Sanskrit|LTranslit=xiwã1|SpaceAfter=No
+10	𘟙	𘟙	NOUN	NOUN	_	11	nmod	_	Gloss=king, monarch|LTranslit=njij2|OrigLang=lzh|SpaceAfter=No
+11	𘛽	𘛽	NOUN	NOUN	_	12	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+12	𗜓	𗜓	VERB	VERB	_	19	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+13	𗳒	𗳒	SCONJ	SCONJ	_	12	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+14	𗳱	𗳱	PRON	PRON	_	18	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+15	𗗙	𗗙	ADP	ADP	_	14	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+16	𗣼	𗣼	ADJ	ADJ	_	17	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+17	𗹙	𗹙	NOUN	NOUN	_	18	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+18	𘎪	𘎪	VERB	VERB	_	19	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+19	𘃡	𘃡	VERB	VERB	_	6	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	6	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0033
+# text，lzh = 應以帝釋身得度者。即現帝釋身而為說法。
+# text = 𗷅𘋨𘛽𗳒𗌗𗰛𗟭𗌭𗷅𘋨𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗷅𘋨	𗷅𘋨	NOUN	NOUN	_	2	nmod	_	Gloss=Lord Indra|LTranslit=śjɨ2|dzjwɨ1|OrigLang=sa|SpaceAfter=No
+2	𘛽	𘛽	NOUN	NOUN	_	4	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+3	𗳒	𗳒	ADP	ADP	_	2	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+4	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+5	𗟭	𗟭	AUX	AUX	_	4	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+6	𗌭	𗌭	ADV	ADV	_	16	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+7	𗷅𘋨	𗷅𘋨	NOUN	NOUN	_	8	nmod	_	Gloss=Lord Indra|LTranslit=śjɨ2|dzjwɨ1|OrigLang=sa|SpaceAfter=No
+8	𘛽	𘛽	NOUN	NOUN	_	9	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+9	𗜓	𗜓	VERB	VERB	_	16	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+10	𗳒	𗳒	SCONJ	SCONJ	_	9	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+11	𗳱	𗳱	PRON	PRON	_	15	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+12	𗗙	𗗙	ADP	ADP	_	11	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+13	𗣼	𗣼	ADJ	ADJ	_	14	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+14	𗹙	𗹙	NOUN	NOUN	_	15	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+15	𘎪	𘎪	VERB	VERB	_	16	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+16	𘃡	𘃡	VERB	VERB	_	4	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+17	。	。	PUNCT	PUNCT	_	4	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0034
+# text，lzh = 應以自在天身得度者。即現自在天身而為說法。
+# text = 𗓱𘝵𗦳𗹦𘛽𗳒𗌗𗰛𗟭𗌭𘝵𗦳𗹦𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘝵𗦳𗹦	𘝵𗦳𗹦	NOUN	NOUN	_	3	nmod	_	Gloss=Maheśvara, Self-Existent Deva|LTranslit=.jij1|dzju2|mǝ1|OrigLang=sa|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𘝵𗦳𗹦	𘝵𗦳𗹦	NOUN	NOUN	_	9	nmod	_	Gloss=Maheśvara, Self-Existent Deva|LTranslit=.jij1|dzju2|mǝ1|OrigLang=sa|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0035
+# text，lzh = 應以大自在天身得度者。即現大自在天身而為說法。
+# text = 𗓱𘜶𘝵𗦳𗹦𘛽𗳒𗌗𗰛𗟭𗌭𘜶𘝵𗦳𗹦𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	6	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘜶	𘜶	ADJ	ADJ	_	3	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+3	𘝵𗦳𗹦	𘝵𗦳𗹦	NOUN	NOUN	_	4	nmod	_	Gloss=Maheśvara, Self-Existent Deva|LTranslit=.jij1|dzju2|mǝ1|OrigLang=sa|SpaceAfter=No
+4	𘛽	𘛽	NOUN	NOUN	_	6	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+5	𗳒	𗳒	ADP	ADP	_	4	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+6	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+7	𗟭	𗟭	AUX	AUX	_	6	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+8	𗌭	𗌭	ADV	ADV	_	19	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+9	𘜶	𘜶	ADJ	ADJ	_	10	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+10	𘝵𗦳𗹦	𘝵𗦳𗹦	NOUN	NOUN	_	11	nmod	_	Gloss=Maheśvara, Self-Existent Deva|LTranslit=.jij1|dzju2|mǝ1|OrigLang=sa|SpaceAfter=No
+11	𘛽	𘛽	NOUN	NOUN	_	12	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+12	𗜓	𗜓	VERB	VERB	_	19	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+13	𗳒	𗳒	SCONJ	SCONJ	_	11	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+14	𗳱	𗳱	PRON	PRON	_	18	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+15	𗗙	𗗙	ADP	ADP	_	14	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+16	𗣼	𗣼	ADJ	ADJ	_	17	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+17	𗹙	𗹙	NOUN	NOUN	_	18	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+18	𘎪	𘎪	VERB	VERB	_	19	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+19	𘃡	𘃡	VERB	VERB	_	6	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	6	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0036
+# text，lzh = 應以天大將軍身得度者。即現天大將軍身而為說法。
+# text = 𗓱𗹦𘜶𘒏𗦳𘛽𗳒𗌗𗰛𗟭𗌭𗹦𘜶𘒏𗦳𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗹦𘜶𘒏𗦳	𗹦𘜶𘒏𗦳	NOUN	NOUN	_	3	nmod	_	Gloss=Heaven's Great General|LTranslit=mǝ1|ljịj2|gia1|dzju2|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𗹦𘜶𘒏𗦳	𗹦𘜶𘒏𗦳	NOUN	NOUN	_	9	nmod	_	Gloss=Heaven's Great General|LTranslit=mǝ1|ljịj2|gia1|dzju2|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0037
+# text，lzh = 應以毘沙門身得度者。即現毘沙門身而為說法。
+# text = 𗓱𗁡𗉺𗐺𘛽𗳒𗌗𗰛𗟭𗌭𗁡𗉺𗐺𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗁡𗉺𗐺	𗁡𗉺𗐺	NOUN	NOUN	_	3	nmod	_	Gloss=Vaiśravaṇa, Prince All-Hearing|LTranslit=phji1|śia1|mẽ1|OrigLang=sa|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𗁡𗉺𗐺	𗁡𗉺𗐺	NOUN	NOUN	_	9	nmod	_	Gloss=Vaiśravaṇa, Prince All-Hearing|LTranslit=phji1|śia1|mẽ1|OrigLang=sa|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0038
+# text，lzh = 應以小王身得度者。即現小王身而為說法。
+# text = 𗓱𘟙𗣫𘛽𗳒𗌗𗰛𗟭𗌭𘟙𗣫𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	6	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘟙	𘟙	NOUN	NOUN	_	4	nmod	_	Gloss=king, monarch|LTranslit=njij2|OrigLang=lzh|SpaceAfter=No
+3	𗣫	𗣫	ADJ	ADJ	_	2	amod	_	Gloss=small, little, young|LTranslit=tsǝj1|SpaceAfter=No
+4	𘛽	𘛽	NOUN	NOUN	_	6	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+5	𗳒	𗳒	ADP	ADP	_	4	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+6	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+7	𗟭	𗟭	AUX	AUX	_	6	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+8	𗌭	𗌭	ADV	ADV	_	19	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+9	𘟙	𘟙	NOUN	NOUN	_	11	nmod	_	Gloss=king, monarch|LTranslit=njij2|OrigLang=lzh|SpaceAfter=No
+10	𗣫	𗣫	ADJ	ADJ	_	9	amod	_	Gloss=small, little, young|LTranslit=tsǝj1|SpaceAfter=No
+11	𘛽	𘛽	NOUN	NOUN	_	12	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+12	𗜓	𗜓	VERB	VERB	_	19	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+13	𗳒	𗳒	SCONJ	SCONJ	_	12	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+14	𗳱	𗳱	PRON	PRON	_	18	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+15	𗗙	𗗙	ADP	ADP	_	14	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+16	𗣼	𗣼	ADJ	ADJ	_	17	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+17	𗹙	𗹙	NOUN	NOUN	_	18	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+18	𘎪	𘎪	VERB	VERB	_	19	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+19	𘃡	𘃡	VERB	VERB	_	6	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	6	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0039
+# text，lzh = 應以長者身得度者。即現長者身而為說法。
+# text = 𗓱𗥗𗁆𘛽𗳒𗌗𗰛𗟭𗌭𗥗𗁆𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗥗𗁆	𗥗𗁆	NOUN	NOUN	_	3	nmod	_	Gloss=elder, noble, respected|LTranslit=phǝ1|bjịj1|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𗥗𗁆	𗥗𗁆	NOUN	NOUN	_	9	nmod	_	Gloss=elder, noble, respected|LTranslit=phǝ1|bjịj1|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0040
+# text，lzh = 應以居士身得度者。即現居士身而為說法。
+# text = 𗓱𘗠𗖻𘛽𗳒𗌗𗰛𗟭𗌭𘗠𗖻𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘗠𗖻	𘗠𗖻	NOUN	NOUN	_	3	nmod	_	Gloss=hermit|LTranslit=ɣa1|pjụ1|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𘗠𗖻	𘗠𗖻	NOUN	NOUN	_	9	nmod	_	Gloss=hermit|LTranslit=ɣa1|pjụ1|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0041
+# text，lzh = 應以宰官身得度者。即現宰官身而為說法。
+# text = 𗓱𗂸𗂅𘛽𗳒𗌗𗰛𗟭𗌭𗂸𗂅𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗂸𗂅	𗂸𗂅	NOUN	NOUN	_	3	nmod	_	Gloss=government official, dignitary, minister|LTranslit=bji2|mjijr2|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𗂸𗂅	𗂸𗂅	NOUN	NOUN	_	9	nmod	_	Gloss=government official, dignitary, minister|LTranslit=bji2|mjijr2|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	10	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0042
+# text，lzh = 應以婆羅門身得度者。即現婆羅門身而為說法。
+# text = 𗓱𗣧𗓽𗐺𘛽𗳒𗌗𗰛𗟭𗌭𗣧𗓽𗐺𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗣧𗓽𗐺	𗣧𗓽𗐺	NOUN	NOUN	_	3	nmod	_	Gloss=Brahmā|LTranslit=pho1|lo1|mẽ1|OrigLang=sa|SpaceAfter=No
+3	𘛽	𘛽	NOUN	NOUN	_	5	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+4	𗳒	𗳒	ADP	ADP	_	3	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+5	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+6	𗟭	𗟭	AUX	AUX	_	5	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+7	𗌭	𗌭	ADV	ADV	_	17	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+8	𗣧𗓽𗐺	𗣧𗓽𗐺	NOUN	NOUN	_	9	nmod	_	Gloss=Brahmā|LTranslit=pho1|lo1|mẽ1|OrigLang=sa|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𗜓	𗜓	VERB	VERB	_	17	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+11	𗳒	𗳒	SCONJ	SCONJ	_	9	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+12	𗳱	𗳱	PRON	PRON	_	16	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗣼	𗣼	ADJ	ADJ	_	15	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𘎪	𘎪	VERB	VERB	_	17	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+17	𘃡	𘃡	VERB	VERB	_	5	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+18	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0043
+# text，lzh = 應以比丘、比丘尼、優婆塞、優婆夷身得度者。即現比丘、比丘尼、優婆塞、優婆夷身而為說法。
+# text = 𗓱𘜉𗴼𘜉𗴼𘆵𗰨𗣧𗁸𗰨𗣧𗱪𘛽𗳒𗌗𗰛𗟭𗌭𘜉𗴼𘜉𗴼𘆵𗰨𗣧𗁸𗰨𗣧𗱪𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	8	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘜉𗴼	𘜉𗴼	NOUN	NOUN	_	6	nmod	_	Gloss=bhikṣu|LTranslit=phji2|khjiw2|OrigLang=sa|SpaceAfter=No
+3	𘜉𗴼𘆵	𘜉𗴼𘆵	NOUN	NOUN	_	2	conj	_	Gloss=bhikṣuṇī|LTranslit=phji2|khjiw2|nji1|OrigLang=sa|SpaceAfter=No
+4	𗰨𗣧𗁸	𗰨𗣧𗁸	NOUN	NOUN	_	2	conj	_	Gloss=Upāsaka|LTranslit=.jiw2|pho1|se2|OrigLang=sa|SpaceAfter=No
+5	𗰨𗣧𗱪	𗰨𗣧𗱪	NOUN	NOUN	_	2	conj	_	Gloss=Upāsikā|LTranslit=.jiw2|pho1|.ji1|OrigLang=sa|SpaceAfter=No
+6	𘛽	𘛽	NOUN	NOUN	_	8	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+7	𗳒	𗳒	ADP	ADP	_	6	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+8	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+9	𗟭	𗟭	AUX	AUX	_	8	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+10	𗌭	𗌭	ADV	ADV	_	23	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+11	𘜉𗴼	𘜉𗴼	NOUN	NOUN	_	15	nmod	_	Gloss=bhikṣu|LTranslit=phji2|khjiw2|OrigLang=sa|SpaceAfter=No
+12	𘜉𗴼𘆵	𘜉𗴼𘆵	NOUN	NOUN	_	11	conj	_	Gloss=bhikṣuṇī|LTranslit=phji2|khjiw2|nji1|OrigLang=sa|SpaceAfter=No
+13	𗰨𗣧𗁸	𗰨𗣧𗁸	NOUN	NOUN	_	11	conj	_	Gloss=Upāsaka|LTranslit=.jiw2|pho1|se2|OrigLang=sa|SpaceAfter=No
+14	𗰨𗣧𗱪	𗰨𗣧𗱪	NOUN	NOUN	_	11	conj	_	Gloss=Upāsikā|LTranslit=.jiw2|pho1|.ji1|OrigLang=sa|SpaceAfter=No
+15	𘛽	𘛽	NOUN	NOUN	_	16	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+16	𗜓	𗜓	VERB	VERB	_	23	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+17	𗳒	𗳒	SCONJ	SCONJ	_	16	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+18	𗳱	𗳱	PRON	PRON	_	22	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+19	𗗙	𗗙	ADP	ADP	_	18	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+20	𗣼	𗣼	ADJ	ADJ	_	21	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+21	𗹙	𗹙	NOUN	NOUN	_	22	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+22	𘎪	𘎪	VERB	VERB	_	23	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+23	𘃡	𘃡	VERB	VERB	_	8	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+24	。	。	PUNCT	PUNCT	_	8	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0044
+# text，lzh = 應以長者、居士、宰官、婆羅門婦女身得度者。即現婦女身而為說法。
+# text = 𗥗𗁆𘗠𗖻𗂸𗂅𗣧𗓽𗐺𗡸𘛽𗳒𗌗𗰛𗟭𗌭𗡸𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗥗𗁆	𗥗𗁆	NOUN	NOUN	_	5	nmod	_	Gloss=elder, noble, respected|LTranslit=phǝ1|bjịj1|SpaceAfter=No
+2	𘗠𗖻	𘗠𗖻	NOUN	NOUN	_	1	conj	_	Gloss=hermit|LTranslit=ɣa1|pjụ1|SpaceAfter=No
+3	𗂸𗂅	𗂸𗂅	NOUN	NOUN	_	1	conj	_	Gloss=government official, dignitary, minister|LTranslit=bji2|mjijr2|SpaceAfter=No
+4	𗣧𗓽𗐺	𗣧𗓽𗐺	NOUN	NOUN	_	1	conj	_	Gloss=Brahmā|LTranslit=pho1|lo1|mẽ1|OrigLang=sa|SpaceAfter=No
+5	𗡸	𗡸	NOUN	NOUN	_	6	nmod	_	Gloss=son's wife; woman|LTranslit=sji2|SpaceAfter=No
+6	𘛽	𘛽	NOUN	NOUN	_	8	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+7	𗳒	𗳒	ADP	ADP	_	6	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+8	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+9	𗟭	𗟭	AUX	AUX	_	8	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+10	𗌭	𗌭	ADV	ADV	_	20	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+11	𗡸	𗡸	NOUN	NOUN	_	12	nmod	_	Gloss=son's wife; woman|LTranslit=sji2|SpaceAfter=No
+12	𘛽	𘛽	NOUN	NOUN	_	13	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+13	𗜓	𗜓	VERB	VERB	_	20	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+14	𗳒	𗳒	SCONJ	SCONJ	_	13	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+15	𗳱	𗳱	PRON	PRON	_	19	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+16	𗗙	𗗙	ADP	ADP	_	15	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+17	𗣼	𗣼	ADJ	ADJ	_	18	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+18	𗹙	𗹙	NOUN	NOUN	_	19	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+19	𘎪	𘎪	VERB	VERB	_	20	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+20	𘃡	𘃡	VERB	VERB	_	8	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	8	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0045
+# text，lzh = 應以童男、童女身得度者。即現童男、童女身而為說法。
+# text = 𗓱𘁛𘄄𘁛𗕪𘛽𗳒𗌗𗰛𗟭𗌭𘁛𘄄𘁛𗕪𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	8	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘁛	𘁛	NOUN	NOUN	_	3	nmod	_	Gloss=children|LTranslit=zjɨ̣1|SpaceAfter=No
+3	𘄄	𘄄	NOUN	NOUN	_	6	nmod	_	Gloss=man, male|LTranslit=zji1|SpaceAfter=No
+4	𘁛	𘁛	NOUN	NOUN	_	5	nmod	_	Gloss=children|LTranslit=zjɨ̣1|SpaceAfter=No
+5	𗕪	𗕪	NOUN	NOUN	_	3	conj	_	Gloss=woman, female|LTranslit=mjịj1|OrigLang=lzh|SpaceAfter=No
+6	𘛽	𘛽	NOUN	NOUN	_	8	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+7	𗳒	𗳒	ADP	ADP	_	6	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+8	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+9	𗟭	𗟭	AUX	AUX	_	8	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+10	𗌭	𗌭	ADV	ADV	_	23	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+11	𘁛	𘁛	NOUN	NOUN	_	12	nmod	_	Gloss=children|LTranslit=zjɨ̣1|SpaceAfter=No
+12	𘄄	𘄄	NOUN	NOUN	_	15	nmod	_	Gloss=man, male|LTranslit=zji1|SpaceAfter=No
+13	𘁛	𘁛	NOUN	NOUN	_	14	nmod	_	Gloss=children|LTranslit=zjɨ̣1|SpaceAfter=No
+14	𗕪	𗕪	NOUN	NOUN	_	12	conj	_	Gloss=woman, female|LTranslit=mjịj1|OrigLang=lzh|SpaceAfter=No
+15	𘛽	𘛽	NOUN	NOUN	_	16	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+16	𗜓	𗜓	VERB	VERB	_	23	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+17	𗳒	𗳒	SCONJ	SCONJ	_	16	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+18	𗳱	𗳱	PRON	PRON	_	22	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+19	𗗙	𗗙	ADP	ADP	_	18	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+20	𗣼	𗣼	ADJ	ADJ	_	21	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+21	𗹙	𗹙	NOUN	NOUN	_	22	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+22	𘎪	𘎪	VERB	VERB	_	23	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+23	𘃡	𘃡	VERB	VERB	_	8	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+24	。	。	PUNCT	PUNCT	_	8	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0046
+# text，lzh = 應以天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人、非人等身得度者。即皆現之而為說法。
+# text = 𗓱𘓱𗵃𗥫𘀺𗯊𗣩𗣧𗠝𘏱𗓽𗡝𗜪𗓽𗷭𗅾𗓽𘉒𗺹𗓽𘀺𘓐𗅋𘓐𘆄𘛽𗳒𗌗𗰛𗟭𗌭𗋕𘜔𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	15	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘓱	𘓱	NOUN	NOUN	_	13	nmod	_	Gloss=god|LTranslit=ŋwǝ1|SpaceAfter=No
+3	𗵃	𗵃	NOUN	NOUN	_	2	conj	_	Gloss=dragon, snake|LTranslit=we1|SpaceAfter=No
+4	𗥫𘀺	𗥫𘀺	NOUN	NOUN	_	2	conj	_	Gloss=yaksa|LTranslit=.jij1|khja2|SpaceAfter=No
+5	𗯊𗣩𗣧	𗯊𗣩𗣧	NOUN	NOUN	_	2	conj	_	Gloss=Gandharva|LTranslit=khjã2|tha2|pho1|OrigLang=sa|SpaceAfter=No
+6	𗠝𘏱𗓽	𗠝𘏱𗓽	NOUN	NOUN	_	2	conj	_	Gloss=Asura|LTranslit=.ja|sew2|lo1|OrigLang=sa|SpaceAfter=No
+7	𗡝𗜪𗓽	𗡝𗜪𗓽	NOUN	NOUN	_	2	conj	_	Gloss=Garuḍa|LTranslit=kja1|lew1|lo1|OrigLang=sa|SpaceAfter=No
+8	𗷭𗅾𗓽	𗷭𗅾𗓽	NOUN	NOUN	_	2	conj	_	Gloss=Kiṃnara|LTranslit=kjĩ1|no1|lo1|OrigLang=sa|SpaceAfter=No
+9	𘉒𗺹𗓽𘀺	𘉒𗺹𗓽𘀺	NOUN	NOUN	_	2	conj	_	Gloss=Mahoraga|LTranslit=mo2|xew1|lo1|khja2|OrigLang=sa|SpaceAfter=No
+10	𘓐	𘓐	NOUN	NOUN	_	2	conj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+11	𗅋𘓐	𗅋𘓐	NOUN	NOUN	_	2	conj	_	Gloss=amanuṣya|LTranslit=mji1|dzjwo2|OrigLang=sa|SpaceAfter=No
+12	𘆄	𘆄	CCONJ	CCONJ	_	2	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+13	𘛽	𘛽	NOUN	NOUN	_	15	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+14	𗳒	𗳒	ADP	ADP	_	13	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+15	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+16	𗟭	𗟭	AUX	AUX	_	15	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+17	𗌭	𗌭	ADV	ADV	_	28	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+18	𗋕	𗋕	PRON	PRON	_	20	nmod	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+19	𘜔	𘜔	ADJ	ADJ	_	20	amod	_	Gloss=number, numeral, plural indicator; several|LTranslit=ŋewr2|OrigLang=lzh|SpaceAfter=No
+20	𘛽	𘛽	NOUN	NOUN	_	21	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+21	𗜓	𗜓	VERB	VERB	_	28	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+22	𗳒	𗳒	SCONJ	SCONJ	_	21	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+23	𗳱	𗳱	PRON	PRON	_	27	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+24	𗗙	𗗙	ADP	ADP	_	23	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+25	𗣼	𗣼	ADJ	ADJ	_	26	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+26	𗹙	𗹙	NOUN	NOUN	_	27	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+27	𘎪	𘎪	VERB	VERB	_	28	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+28	𘃡	𘃡	VERB	VERB	_	15	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+29	。	。	PUNCT	PUNCT	_	15	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0047
+# text，lzh = 應以執金剛神得度者。即現執金剛神而為說法。
+# text = 𗓱𗵒𘗁𗧯𗼈𘛽𗳒𗌗𗰛𗟭𗌭𗵒𘗁𗧯𗼈𘛽𗜓𗳒𗳱𗗙𗣼𗹙𘎪𘃡。
+1	𗓱	𗓱	ADV	ADV	_	7	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗵒𘗁	𗵒𘗁	NOUN	NOUN	_	5	nmod	_	Gloss=vajra, diamond|LTranslit=kiẹ1|dźja2|OrigLang=sa|SpaceAfter=No
+3	𗧯	𗧯	NOUN	NOUN	_	2	compound	_	Gloss=hold|LTranslit=.ji̲j1|OrigLang=lzh|SpaceAfter=No
+4	𗼈	𗼈	NOUN	NOUN	_	2	compound	_	Gloss=god, deity|LTranslit=njạ1|SpaceAfter=No
+5	𘛽	𘛽	NOUN	NOUN	_	7	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+6	𗳒	𗳒	ADP	ADP	_	5	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+7	𗌗𗰛	𗌗𗰛	VERB	VERB	_	0	root	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+8	𗟭	𗟭	AUX	AUX	_	7	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+9	𗌭	𗌭	ADV	ADV	_	21	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+10	𗵒𘗁	𗵒𘗁	NOUN	NOUN	_	13	nmod	_	Gloss=vajra, diamond|LTranslit=kiẹ1|dźja2|OrigLang=sa|SpaceAfter=No
+11	𗧯	𗧯	NOUN	NOUN	_	10	compound	_	Gloss=hold|LTranslit=.ji̲j1|OrigLang=lzh|SpaceAfter=No
+12	𗼈	𗼈	NOUN	NOUN	_	10	compound	_	Gloss=god, deity|LTranslit=njạ1|SpaceAfter=No
+13	𘛽	𘛽	NOUN	NOUN	_	14	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+14	𗜓	𗜓	VERB	VERB	_	21	advcl	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+15	𗳒	𗳒	SCONJ	SCONJ	_	14	mark	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+16	𗳱	𗳱	PRON	PRON	_	20	iobj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+17	𗗙	𗗙	ADP	ADP	_	16	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+18	𗣼	𗣼	ADJ	ADJ	_	19	amod	_	Gloss=morals, virtue|LTranslit=tśhja2|SpaceAfter=No
+19	𗹙	𗹙	NOUN	NOUN	_	20	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+20	𘎪	𘎪	VERB	VERB	_	21	xcomp	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+21	𘃡	𘃡	VERB	VERB	_	7	parataxis	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	7	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0048
+# text，lzh = 無盡意。是觀世音菩薩。成就如是功德。以種種形。遊諸國土度脫眾生。是故汝等。應當一心供養觀世音菩薩。
+# text = 𗉣𗅋𗋃𗋕𗯨𗙏𘝯𘋢𗥤𘌽𗍊𗣼𘉐𗵆𗨄𗖵𘋠𘋠𘛽𗳒𗱕𗂧𗧥𘕂𘋢𗋐𗗙𗌗𗰛𗩱𗌭𘌽𘔼𗍳𘆄𗤶𗨳𗳒𗋕𗯨𗙏𘝯𘋢𗥤𗗙𗴿𗒀𗦇。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	16	vocative	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𗋕	𗋕	DET	DET	_	4	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	16	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𘌽	𘌽	PRON	PRON	_	7	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+6	𗍊	𗍊	ADP	ADP	_	5	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+7	𗣼𘉐	𗣼𘉐	NOUN	NOUN	_	8	obj	_	Gloss=service, feat|LTranslit=tśhja2|.iow1|SpaceAfter=No
+8	𗵆𗨄	𗵆𗨄	VERB	VERB	_	16	advcl	_	Gloss=success, grow|LTranslit=śjɨj1|.jiw2|SpaceAfter=No
+9	𗖵	𗖵	SCONJ	SCONJ	_	8	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+10	𘋠𘋠	𘋠𘋠	ADJ	ADJ	_	11	amod	_	Gloss=various, all sorts, all|LTranslit=mǝ2|mǝ2|SpaceAfter=No
+11	𘛽	𘛽	NOUN	NOUN	_	16	obl	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+12	𗳒	𗳒	ADP	ADP	_	11	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+13	𗱕	𗱕	DET	DET	_	14	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+14	𗂧	𗂧	NOUN	NOUN	_	16	obl	_	Gloss=country, national|LTranslit=lhjịj2|OrigLang=lzh|SpaceAfter=No
+15	𗧥	𗧥	ADV	ADV	_	16	advmod	_	Gloss=long|LTranslit=zjir2|SpaceAfter=No
+16	𘕂	𘕂	VERB	VERB	_	0	root	_	Gloss=go, parade|LTranslit=dźjij1|SpaceAfter=No
+17	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	19	obj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+18	𗗙	𗗙	ADP	ADP	_	17	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+19	𗌗𗰛	𗌗𗰛	VERB	VERB	_	16	conj	_	Gloss=give release from the wheel of transmigration, enlightenment|LTranslit=gju1|dzjịj1|SpaceAfter=No
+20	𗩱	𗩱	AUX	AUX	_	19	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+21	𗌭	𗌭	ADV	ADV	_	33	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+22	𘌽	𘌽	DET	DET	_	23	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+23	𘔼	𘔼	NOUN	NOUN	_	33	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nio̲w1|OrigLang=lzh|SpaceAfter=No
+24	𗍳	𗍳	PRON	PRON	_	33	nsubj	_	Gloss=you (formal)|LTranslit=nji2|SpaceAfter=No
+25	𘆄	𘆄	CCONJ	CCONJ	_	24	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+26	𗤶	𗤶	NOUN	NOUN	_	33	obl	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+27	𗨳	𗨳	ADJ	ADJ	_	26	amod	_	Gloss=return|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+28	𗳒	𗳒	ADP	ADP	_	26	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+29	𗋕	𗋕	DET	DET	_	31	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+30	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	31	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+31	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	33	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+32	𗗙	𗗙	ADP	ADP	_	31	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+33	𗴿𗒀	𗴿𗒀	VERB	VERB	_	16	parataxis	_	Gloss=feed, maintain, sacrifice|LTranslit=kjụ1|tshwew1|SpaceAfter=No
+34	𗦇	𗦇	AUX	AUX	_	33	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+35	。	。	PUNCT	PUNCT	_	33	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0049
+# text，lzh = 是觀世音菩薩摩訶薩。於怖畏急難之中能施無畏。是故此娑婆世界。皆號之為施無畏者。
+# text = 𗋕𗯨𗙏𘝯𘏞𗢈𗓚𘄽𗢈𗫂𗴒𗃬𗤺𗧹𘂤𗃬𗤋𘈈𗩱𗌭𘘦𘌽𗦗𗣧𗯨𗐯𗅁𗑷𗄊𗳱𗗙𗃬𗤋𘈈𗇋𘟂𘘥𘃞。
+1	𗋕	𗋕	DET	DET	_	2	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+2	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	13	nsubj	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+3	𘏞𗢈	𘏞𗢈	NOUN	NOUN	_	2	appos	_	Gloss=Bodhisattva|LTranslit=po1|tsa1|OrigLang=sa|SpaceAfter=No
+4	𗓚𘄽𗢈	𗓚𘄽𗢈	NOUN	NOUN	_	2	appos	_	Gloss=mahāsattva|LTranslit=ma2|ŋạ2|tsa1|OrigLang=sa|SpaceAfter=No
+5	𗫂	𗫂	ADP	ADP	_	2	case	_	Gloss=affix, 者; uses co instead of ce in LFW; topic indicator|LTranslit=tja1|OrigLang=lzh|SpaceAfter=No
+6	𗴒	𗴒	NOUN	NOUN	_	13	obl	_	Gloss=fear, dread|LTranslit=kjạ1|SpaceAfter=No
+7	𗃬	𗃬	NOUN	NOUN	_	6	conj	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+8	𗤺	𗤺	ADJ	ADJ	_	9	amod	_	Gloss=abrupt, sudden|LTranslit=lhjwɨ2|SpaceAfter=No
+9	𗧹	𗧹	NOUN	NOUN	_	6	conj	_	Gloss=disaster, calamity|LTranslit=ŋjir1|SpaceAfter=No
+10	𘂤	𘂤	ADP	ADP	_	6	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+11	𗃬	𗃬	NOUN	NOUN	_	13	obj	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+12	𗤋	𗤋	DET	DET	_	11	det	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+13	𘈈	𘈈	VERB	VERB	_	0	root	_	Gloss=grant, bestow|LTranslit=mji1|SpaceAfter=No
+14	𗩱	𗩱	AUX	AUX	_	13	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+15	𗌭	𗌭	ADV	ADV	_	29	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+16	𘘦	𘘦	SCONJ	SCONJ	_	29	mark	_	Gloss=an auxiliary word that indicates mood|LTranslit=tśhjwo1|SpaceAfter=No
+17	𘌽	𘌽	PRON	PRON	_	16	fixed	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+18	𗦗𗣧	𗦗𗣧	NOUN	NOUN	_	29	obl	_	Gloss=Saha, universal|LTranslit=so2|pho1|SpaceAfter=No
+19	𗯨𗐯	𗯨𗐯	NOUN	NOUN	_	18	nmod	_	Gloss=world, universe, instances|LTranslit=rjur1|kiẹj2|SpaceAfter=No
+20	𗅁	𗅁	ADP	ADP	_	18	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+21	𗑷𗄊	𗑷𗄊	PRON	PRON	_	29	nsubj	_	Gloss=all|LTranslit=to2|zji2|SpaceAfter=No
+22	𗳱	𗳱	PRON	PRON	_	29	obj	_	Gloss=it, he (third person pronoun)|LTranslit=thja2|OrigLang=lzh|SpaceAfter=No
+23	𗗙	𗗙	ADP	ADP	_	22	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+24	𗃬	𗃬	NOUN	NOUN	_	26	obj	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+25	𗤋	𗤋	DET	DET	_	24	det	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+26	𘈈	𘈈	VERB	VERB	_	27	acl	_	Gloss=grant, bestow|LTranslit=mji1|SpaceAfter=No
+27	𗇋	𗇋	NOUN	NOUN	_	28	obj	_	Gloss=auxiliary word; 可以加在名词、动词和形容词后面，表示人或物; nominaliser|LTranslit=mjijr2|SpaceAfter=No
+28	𘟂	𘟂	VERB	VERB	_	29	xcomp	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu2|OrigLang=lzh|SpaceAfter=No
+29	𘘥	𘘥	VERB	VERB	_	13	parataxis	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+30	𘃞	𘃞	PART	PART	_	29	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+31	。	。	PUNCT	PUNCT	_	13	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0050
+# text，lzh = 時無盡意菩薩白佛言。世尊。我今當供養觀世音菩薩。即解頸眾寶珠瓔珞。價值百千兩金。而以與之。作是言。仁者。受此法施。珍寶瓔珞。
+# text = 𗿳𗉣𗅋𗋃𘋢𗥤𗢳𗗙𘒣𘘥𗯨𗖻𗧓𗫈𗯨𗙏𘝯𘋢𗥤𗗙𗴿𗒀𗧓𗗟𘘥𗉮𘃛𗒕𘕿𘊝𗡞𗍬𗵒𗋐𗫔𘏨𗡦𗙲𗞞𗱌𗯨𗙏𘝯𗗙𗞞𘈈𘌽𗍊𘒣𘘥𘜶𗇋𘌽𗹙𘈈𘀭𘏨𗡦𗙲𗋚𘎨𘉞𘘥。
+1	𗿳	𗿳	NOUN	NOUN	_	7	obl	_	Gloss=time, days|LTranslit=dzjɨj1|SpaceAfter=No
+2	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	3	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+3	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	7	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+4	𗢳	𗢳	NOUN	NOUN	_	7	iobj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+5	𗗙	𗗙	ADP	ADP	_	4	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+6	𘒣	𘒣	NOUN	NOUN	_	7	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+7	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+8	𗯨𗖻	𗯨𗖻	PROPN	PROPN	_	14	vocative	_	Gloss=world-honoured one|LTranslit=rjur1|pjụ1|OrigLang=lzh|SpaceAfter=No
+9	𗧓	𗧓	PRON	PRON	_	14	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa2|SpaceAfter=No
+10	𗫈	𗫈	ADV	ADV	_	14	advmod	_	Gloss=morning; today, now|LTranslit=sjij1|SpaceAfter=No
+11	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	12	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+12	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	14	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	12	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗴿𗒀	𗴿𗒀	VERB	VERB	_	7	parataxis	_	Gloss=feed, maintain, sacrifice|LTranslit=kjụ1|tshwew1|SpaceAfter=No
+15	𗧓	𗧓	PRON	PRON	_	17	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa2|SpaceAfter=No
+16	𗗟	𗗟	AUX	AUX	_	17	aux	_	Gloss=will, shall; future tense marker|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+17	𘘥	𘘥	VERB	VERB	_	14	conj	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+18	𗉮𘃛	𗉮𘃛	ADV	ADV	_	30	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+19	𗒕	𗒕	NOUN	NOUN	_	30	obl	_	Gloss=neck|LTranslit=ljwịj1|SpaceAfter=No
+20	𘕿	𘕿	ADP	ADP	_	19	case	_	Gloss=locative particle in (the sky, the heart); on, around|LTranslit=ɣa2|SpaceAfter=No
+21	𘊝	𘊝	NUM	NUM	_	23	nummod	_	Gloss=hundred|LTranslit=.jir2|OrigLang=lzh|SpaceAfter=No
+22	𗡞	𗡞	NUM	NUM	_	23	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+23	𗍬	𗍬	NOUN	NOUN	_	24	nmod	_	Gloss=a unit of weight|LTranslit=lju2|SpaceAfter=No
+24	𗵒	𗵒	NOUN	NOUN	_	25	xcomp	_	Gloss=gold|LTranslit=kiẹ1|OrigLang=lzh|SpaceAfter=No
+25	𗋐	𗋐	VERB	VERB	_	28	acl	_	Gloss=contain|LTranslit=tśhju1|SpaceAfter=No
+26	𗫔	𗫔	ADJ	ADJ	_	27	amod	_	Gloss=many, numerous|LTranslit=.ji1|OrigLang=lzh|SpaceAfter=No
+27	𘏨	𘏨	NOUN	NOUN	_	28	nmod	_	Gloss=treasure|LTranslit=ljɨ̣1|SpaceAfter=No
+28	𗡦𗙲	𗡦𗙲	NOUN	NOUN	_	30	obj	_	Gloss=necklace from semiprecious stone|LTranslit=.jɨr2|rer2|SpaceAfter=No
+29	𗞞	𗞞	ADV	ADV	_	30	advmod	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=dja2|SpaceAfter=No
+30	𗱌	𗱌	VERB	VERB	_	14	conj	_	Gloss=free oneself from|LTranslit=thu2|OrigLang=lzh|SpaceAfter=No
+31	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	34	iobj	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+32	𗗙	𗗙	ADP	ADP	_	31	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+33	𗞞	𗞞	ADV	ADV	_	34	advmod	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=dja2|SpaceAfter=No
+34	𘈈	𘈈	VERB	VERB	_	30	xcomp	_	Gloss=grant, bestow|LTranslit=mji1|SpaceAfter=No
+35	𘌽	𘌽	PRON	PRON	_	37	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+36	𗍊	𗍊	ADP	ADP	_	35	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+37	𘒣	𘒣	NOUN	NOUN	_	38	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+38	𘘥	𘘥	VERB	VERB	_	34	conj	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+39	𘜶	𘜶	ADJ	ADJ	_	40	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+40	𗇋	𗇋	NOUN	NOUN	_	48	vocative	_	Gloss=auxiliary word; 可以加在名词、动词和形容词后面，表示人或物; nominaliser|LTranslit=mjijr2|SpaceAfter=No
+41	𘌽	𘌽	DET	DET	_	42	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+42	𗹙	𗹙	NOUN	NOUN	_	43	obj	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+43	𘈈	𘈈	VERB	VERB	_	46	acl	_	Gloss=grant, bestow|LTranslit=mji1|SpaceAfter=No
+44	𘀭	𘀭	ADJ	ADJ	_	45	amod	_	Gloss=true|LTranslit=kiwej2|OrigLang=lzh|SpaceAfter=No
+45	𘏨	𘏨	NOUN	NOUN	_	46	nmod	_	Gloss=treasure|LTranslit=ljɨ̣1|SpaceAfter=No
+46	𗡦𗙲	𗡦𗙲	NOUN	NOUN	_	48	obj	_	Gloss=necklace from semiprecious stone|LTranslit=.jɨr2|rer2|SpaceAfter=No
+47	𗋚	𗋚	ADV	ADV	_	48	advmod	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=wjɨ2|SpaceAfter=No
+48	𘎨	𘎨	VERB	VERB	_	38	parataxis	_	Gloss=bear, support|LTranslit=lhjị2|SpaceAfter=No
+49	𘉞	𘉞	AUX	AUX	_	48	aux	_	Gloss=auxilary word, second person indicator|LTranslit=nja2|SpaceAfter=No
+50	𘘥	𘘥	VERB	VERB	_	38	fixed	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+51	。	。	PUNCT	PUNCT	_	7	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0051
+# text，lzh = 時觀世音菩薩。不肯受之。
+# text = 𗿳𗯨𗙏𘝯𘋢𗥤𗒐𗨙𘖑𗳢。
+1	𗿳	𗿳	NOUN	NOUN	_	4	obl	_	Gloss=time, days|LTranslit=dzjɨj1|SpaceAfter=No
+2	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	3	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+3	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	4	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+4	𗒐𗨙	𗒐𗨙	VERB	VERB	_	0	root	_	Gloss=receive, bear|LTranslit=ɣiwej1|lhjịj2|SpaceAfter=No
+5	𘖑	𘖑	PART	PART	_	4	advmod:neg	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+6	𗳢	𗳢	AUX	AUX	_	4	aux	_	Gloss=agree, consent|LTranslit=dźjij|SpaceAfter=No
+7	。	。	PUNCT	PUNCT	_	4	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0052
+# text，lzh = 無盡意復白觀世音菩薩言。仁者。愍我等故。受此瓔珞。
+# text = 𗉣𗅋𗋃𗅉𗯨𗙏𘝯𘋢𗥤𗗙𘒣𘘥𘜶𗇋𗧓𘆄𗗙𗕿𘖛𗖵𘌽𗡦𗙲𗋚𘎨𘉞𘘣。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	7	nsubj	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𗅉	𗅉	ADV	ADV	_	7	advmod	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	7	iobj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗗙	𗗙	ADP	ADP	_	4	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+6	𘒣	𘒣	NOUN	NOUN	_	7	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+7	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+8	𘜶	𘜶	ADJ	ADJ	_	9	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+9	𗇋	𗇋	NOUN	NOUN	_	18	vocative	_	Gloss=auxiliary word; 可以加在名词、动词和形容词后面，表示人或物; nominaliser|LTranslit=mjijr2|SpaceAfter=No
+10	𗧓	𗧓	PRON	PRON	_	13	obj	_	Gloss=I, we (informal)|LTranslit=ŋa2|SpaceAfter=No
+11	𘆄	𘆄	CCONJ	CCONJ	_	10	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+12	𗗙	𗗙	ADP	ADP	_	10	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+13	𗕿𘖛	𗕿𘖛	VERB	VERB	_	18	advcl	_	Gloss=compassionate, have compassion, merciful|LTranslit=njij2|śjow1|SpaceAfter=No
+14	𗖵	𗖵	SCONJ	SCONJ	_	13	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+15	𘌽	𘌽	DET	DET	_	16	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+16	𗡦𗙲	𗡦𗙲	NOUN	NOUN	_	18	obj	_	Gloss=necklace from semiprecious stone|LTranslit=.jɨr2|rer2|SpaceAfter=No
+17	𗋚	𗋚	ADV	ADV	_	18	advmod	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=wjɨ2|SpaceAfter=No
+18	𘎨	𘎨	VERB	VERB	_	7	parataxis	_	Gloss=bear, support|LTranslit=lhjị2|SpaceAfter=No
+19	𘉞	𘉞	AUX	AUX	_	18	aux	_	Gloss=auxilary word, second person indicator|LTranslit=nja2|SpaceAfter=No
+20	𘘣	𘘣	VERB	VERB	_	7	fixed	_	Gloss=say; to call|LTranslit=.jɨ2|OrigLang=lzh|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	7	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0053
+# text，lzh = 爾時佛告觀世音菩薩。當愍此無盡意菩薩。及四眾、天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人、非人等故。受是瓔珞。
+# text = 𗉘𘝨𗢳𗯨𗙏𘝯𘋢𗥤𗗙𘘥𘌽𗉣𗅋𗋃𘋢𗥤𘓁𗅉𗥃𗿷𘓱𗵃𗥫𘀺𗯊𗣩𗣧𗠝𘏱𗓽𗡝𗜪𗓽𗷭𗅾𗓽𘉒𗺹𗓽𘀺𘓐𗅋𘓐𘆄𗗙𗕿𘖛𗖵𘌽𗡦𗙲𗨙𗦇𘘥。
+1	𗉘	𗉘	DET	DET	_	2	det	_	Gloss=pronoun|LTranslit=tśhjɨ1|SpaceAfter=No
+2	𘝨	𘝨	NOUN	NOUN	_	7	obl	_	Gloss=time|LTranslit=zjọ2|SpaceAfter=No
+3	𗢳	𗢳	PROPN	PROPN	_	7	nsubj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+4	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	5	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+5	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	7	iobj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+6	𗗙	𗗙	ADP	ADP	_	5	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+7	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+8	𘌽	𘌽	DET	DET	_	10	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+9	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	10	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+10	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	26	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+11	𘓁𗅉	𘓁𗅉	CCONJ	CCONJ	_	10	cc	_	Gloss=and, after that|LTranslit=ljɨ̣1|niow1|SpaceAfter=No
+12	𗥃	𗥃	NUM	NUM	_	13	nummod	_	Gloss=four|LTranslit=ljɨr1|SpaceAfter=No
+13	𗿷	𗿷	NOUN	NOUN	_	10	conj	_	Gloss=have, possess|LTranslit=dźjij2|SpaceAfter=No
+14	𘓱	𘓱	NOUN	NOUN	_	10	conj	_	Gloss=god|LTranslit=ŋwǝ1|SpaceAfter=No
+15	𗵃	𗵃	NOUN	NOUN	_	10	conj	_	Gloss=dragon, snake|LTranslit=we1|SpaceAfter=No
+16	𗥫𘀺	𗥫𘀺	NOUN	NOUN	_	10	conj	_	Gloss=yaksa|LTranslit=.jij1|khja2|SpaceAfter=No
+17	𗯊𗣩𗣧	𗯊𗣩𗣧	NOUN	NOUN	_	10	conj	_	Gloss=Gandharva|LTranslit=khjã2|tha2|pho1|OrigLang=sa|SpaceAfter=No
+18	𗠝𘏱𗓽	𗠝𘏱𗓽	NOUN	NOUN	_	10	conj	_	Gloss=Asura|LTranslit=.ja|sew2|lo1|OrigLang=sa|SpaceAfter=No
+19	𗡝𗜪𗓽	𗡝𗜪𗓽	NOUN	NOUN	_	10	conj	_	Gloss=Garuḍa|LTranslit=kja1|lew1|lo1|OrigLang=sa|SpaceAfter=No
+20	𗷭𗅾𗓽	𗷭𗅾𗓽	NOUN	NOUN	_	10	conj	_	Gloss=Kiṃnara|LTranslit=kjĩ1|no1|lo1|OrigLang=sa|SpaceAfter=No
+21	𘉒𗺹𗓽𘀺	𘉒𗺹𗓽𘀺	NOUN	NOUN	_	10	conj	_	Gloss=Mahoraga|LTranslit=mo2|xew1|lo1|khja2|OrigLang=sa|SpaceAfter=No
+22	𘓐	𘓐	NOUN	NOUN	_	10	conj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+23	𗅋𘓐	𗅋𘓐	NOUN	NOUN	_	10	conj	_	Gloss=amanuṣya|LTranslit=mji1|dzjwo2|OrigLang=sa|SpaceAfter=No
+24	𘆄	𘆄	CCONJ	CCONJ	_	10	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+25	𗗙	𗗙	ADP	ADP	_	10	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+26	𗕿𘖛	𗕿𘖛	VERB	VERB	_	30	advcl	_	Gloss=compassionate, have compassion, merciful|LTranslit=njij2|śjow1|SpaceAfter=No
+27	𗖵	𗖵	SCONJ	SCONJ	_	26	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+28	𘌽	𘌽	DET	DET	_	29	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+29	𗡦𗙲	𗡦𗙲	NOUN	NOUN	_	30	obj	_	Gloss=necklace from semiprecious stone|LTranslit=.jɨr2|rer2|SpaceAfter=No
+30	𗨙	𗨙	VERB	VERB	_	7	parataxis	_	Gloss=bear, suffer; to receive|LTranslit=lhjịj2|SpaceAfter=No
+31	𗦇	𗦇	AUX	AUX	_	30	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+32	𘘥	𘘥	VERB	VERB	_	7	fixed	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+33	。	。	PUNCT	PUNCT	_	7	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0054
+# text，lzh = 即時觀世音菩薩愍諸四眾。及於天、龍、人、非人等。受其瓔珞。分作二分。一分奉釋迦牟尼佛。一分奉多寶佛塔。
+# text = 𗿳𗯨𗙏𘝯𘋢𗥤𗱕𗥃𗿷𘓁𗅉𘓱𗵃𘓐𗅋𘓐𘆄𗗙𗕿𘖛𗖵𗋕𗡦𗙲𗋚𗨙𗍫𘊲𘙇𘃡𗈪𘊲𗷅𗡝𘉒𗐱𗢳𘋩𘙌𗼒𗈪𘊲𗮅𘏨𗢳𗽔𘗣𘋩𗞞𘈈。
+1	𗿳	𗿳	NOUN	NOUN	_	19	obl	_	Gloss=time, days|LTranslit=dzjɨj1|SpaceAfter=No
+2	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	3	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+3	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	19	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+4	𗱕	𗱕	DET	DET	_	6	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+5	𗥃	𗥃	NUM	NUM	_	6	nummod	_	Gloss=four|LTranslit=ljɨr1|SpaceAfter=No
+6	𗿷	𗿷	NOUN	NOUN	_	14	obj	_	Gloss=have, possess|LTranslit=dźjij2|SpaceAfter=No
+7	𘓁𗅉	𘓁𗅉	CCONJ	CCONJ	_	6	cc	_	Gloss=and, after that|LTranslit=ljɨ̣1|niow1|SpaceAfter=No
+8	𘓱	𘓱	NOUN	NOUN	_	6	conj	_	Gloss=god|LTranslit=ŋwǝ1|SpaceAfter=No
+9	𗵃	𗵃	NOUN	NOUN	_	6	conj	_	Gloss=dragon, snake|LTranslit=we1|SpaceAfter=No
+10	𘓐	𘓐	NOUN	NOUN	_	6	conj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+11	𗅋𘓐	𗅋𘓐	NOUN	NOUN	_	6	conj	_	Gloss=amanuṣya|LTranslit=mji1|dzjwo2|OrigLang=sa|SpaceAfter=No
+12	𘆄	𘆄	CCONJ	CCONJ	_	6	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+13	𗗙	𗗙	ADP	ADP	_	6	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+14	𗕿𘖛	𗕿𘖛	VERB	VERB	_	19	advcl	_	Gloss=compassionate, have compassion, merciful|LTranslit=njij2|śjow1|SpaceAfter=No
+15	𗖵	𗖵	SCONJ	SCONJ	_	14	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	𗋕	𗋕	DET	DET	_	17	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+17	𗡦𗙲	𗡦𗙲	NOUN	NOUN	_	19	obj	_	Gloss=necklace from semiprecious stone|LTranslit=.jɨr2|rer2|SpaceAfter=No
+18	𗋚	𗋚	ADV	ADV	_	19	advmod	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=wjɨ2|SpaceAfter=No
+19	𗨙	𗨙	VERB	VERB	_	0	root	_	Gloss=bear, suffer; to receive|LTranslit=lhjịj2|SpaceAfter=No
+20	𗍫	𗍫	NUM	NUM	_	21	nummod	_	Gloss=two|LTranslit=njɨ̲1|SpaceAfter=No
+21	𘊲	𘊲	NOUN	NOUN	_	23	obj	_	Gloss=divide, fraction|LTranslit=phia̲2|OrigLang=lzh|SpaceAfter=No
+22	𘙇	𘙇	ADV	ADV	_	23	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rjɨr2|SpaceAfter=No
+23	𘃡	𘃡	VERB	VERB	_	19	conj	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+24	𗈪	𗈪	NUM	NUM	_	25	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+25	𘊲	𘊲	NOUN	NOUN	_	30	obj	_	Gloss=divide, fraction|LTranslit=phia̲2|OrigLang=lzh|SpaceAfter=No
+26	𗷅𗡝𘉒𗐱	𗷅𗡝𘉒𗐱	PROPN	PROPN	_	27	compound	_	Gloss=Sakyamuni|LTranslit=śjɨ2|kja1|mo2|nji2|OrigLang=sa|SpaceAfter=No
+27	𗢳	𗢳	NOUN	NOUN	_	30	iobj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+28	𘋩	𘋩	ADP	ADP	_	26	case	_	Gloss=allative particle to; in|LTranslit=do2|SpaceAfter=No
+29	𘙌	𘙌	ADV	ADV	_	30	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kjɨ1|SpaceAfter=No
+30	𗼒	𗼒	VERB	VERB	_	23	parataxis	_	Gloss=tribute, consecrate|LTranslit=khu1|SpaceAfter=No
+31	𗈪	𗈪	NUM	NUM	_	32	nummod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+32	𘊲	𘊲	NOUN	NOUN	_	38	obj	_	Gloss=divide, fraction|LTranslit=phia̲2|OrigLang=lzh|SpaceAfter=No
+33	𗮅𘏨	𗮅𘏨	PROPN	PROPN	_	34	compound	_	Gloss=Prabhūta-ratna, Abundant Treasures|LTranslit=rejr2|ljɨ̣1|OrigLang=sa|SpaceAfter=No
+34	𗢳	𗢳	PROPN	PROPN	_	35	nmod	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+35	𗽔𘗣	𗽔𘗣	NOUN	NOUN	_	38	iobj	_	Gloss=pagoda, stupa|LTranslit=bǝ2|du2|SpaceAfter=No
+36	𘋩	𘋩	ADP	ADP	_	35	case	_	Gloss=allative particle to; in|LTranslit=do2|SpaceAfter=No
+37	𗞞	𗞞	ADV	ADV	_	38	advmod	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=dja2|SpaceAfter=No
+38	𘈈	𘈈	VERB	VERB	_	30	conj	_	Gloss=grant, bestow|LTranslit=mji1|SpaceAfter=No
+39	。	。	PUNCT	PUNCT	_	19	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0055
+# text = 𗉣𗅋𗋃𘌽𗯨𗙏𘝯𘋢𗥤𘌽𗍊𘝵𗦳𗾈𗪺𗿷𗖵𗦗𗣧𗯨𗐯𗅁𘕂𘃞。
+# text，lzh = 無盡意。觀世音菩薩。有如是自在神力。遊於娑婆世界。
+1	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	14	vocative	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+2	𘌽	𘌽	DET	DET	_	4	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	4	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	14	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𘌽	𘌽	PRON	PRON	_	8	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+6	𗍊	𗍊	ADP	ADP	_	5	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+7	𘝵𗦳	𘝵𗦳	NOUN	NOUN	_	8	nmod	_	Gloss=independent|LTranslit=.jij1|dzju2|SpaceAfter=No
+8	𗾈𗪺	𗾈𗪺	NOUN	NOUN	_	9	obj	_	Gloss=supernatural might|LTranslit=me̲2|ɣie1|SpaceAfter=No
+9	𗿷	𗿷	VERB	VERB	_	14	advcl	_	Gloss=have, possess|LTranslit=dźjij2|SpaceAfter=No
+10	𗖵	𗖵	SCONJ	SCONJ	_	9	mark	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+11	𗦗𗣧	𗦗𗣧	NOUN	NOUN	_	14	obl	_	Gloss=Saha, universal|LTranslit=so2|pho1|SpaceAfter=No
+12	𗯨𗐯	𗯨𗐯	NOUN	NOUN	_	11	nmod	_	Gloss=world, universe, instances|LTranslit=rjur1|kiẹj2|SpaceAfter=No
+13	𗅁	𗅁	ADP	ADP	_	11	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+14	𘕂	𘕂	VERB	VERB	_	0	root	_	Gloss=go, parade|LTranslit=dźjij1|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+16	。	。	PUNCT	PUNCT	_	14	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0056
+# text = 𗉘𘝨𗉣𗅋𗋃𘋢𗥤𗖍𗳒𗞞𗤄。
+# text，lzh = 爾時無盡意菩薩。以偈問曰。
+1	𗉘	𗉘	DET	DET	_	2	det	_	Gloss=pronoun|LTranslit=tśhjɨ1|SpaceAfter=No
+2	𘝨	𘝨	NOUN	NOUN	_	8	obl	_	Gloss=time|LTranslit=zjọ2|SpaceAfter=No
+3	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	4	compound	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	8	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗖍	𗖍	NOUN	NOUN	_	8	obl	_	Gloss=praise, eulogise|LTranslit=lja̲1|OrigLang=lzh|SpaceAfter=No
+6	𗳒	𗳒	ADP	ADP	_	5	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+7	𗞞	𗞞	ADV	ADV	_	8	advmod	_	Gloss=as; verb prefix directional marker - away from the speaker|LTranslit=dja2|SpaceAfter=No
+8	𗤄	𗤄	VERB	VERB	_	0	root	_	Gloss=ask, inquire|LTranslit=.jɨr1|SpaceAfter=No
+9	。	。	PUNCT	PUNCT	_	8	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0057
+# text，lzh = 世尊妙相具，我今重問彼，佛子何因緣，名為觀世音？
+# text = 𗯨𗖻𗤓𘍦𘓳，𗧓𗫈𗫸𗅉𗤄，𗋕𗢳𘈷𗙏𘝯，𘕣𗦫𗖵𗦻𘜘。
+1	𗯨𗖻	𗯨𗖻	PROPN	PROPN	_	10	vocative	_	Gloss=world-honoured one|LTranslit=rjur1|pjụ1|OrigLang=lzh|SpaceAfter=No
+2	𗤓	𗤓	ADJ	ADJ	_	3	amod	_	Gloss=beautiful, wonderful|LTranslit=thjo̲1|SpaceAfter=No
+3	𘍦	𘍦	NOUN	NOUN	_	4	obj	_	Gloss=look, appearance|LTranslit=.jij1|SpaceAfter=No
+4	𘓳	𘓳	VERB	VERB	_	1	acl	_	Gloss=whole, complete|LTranslit=ŋowr2|OrigLang=lzh|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𗧓	𗧓	PRON	PRON	_	10	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa2|SpaceAfter=No
+7	𗫈	𗫈	ADV	ADV	_	10	advmod	_	Gloss=morning; today, now|LTranslit=sjij1|SpaceAfter=No
+8	𗫸	𗫸	ADV	ADV	_	10	advmod	_	Gloss=repeat, duplicate|LTranslit=.jị2|OrigLang=lzh|SpaceAfter=No
+9	𗅉	𗅉	ADV	ADV	_	10	advmod	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+10	𗤄	𗤄	VERB	VERB	_	0	root	_	Gloss=ask, inquire|LTranslit=.jɨr1|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗋕	𗋕	DET	DET	_	14	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+13	𗢳	𗢳	PROPN	PROPN	_	14	nmod	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+14	𘈷	𘈷	NOUN	NOUN	_	21	nsubj	_	Gloss=son, child|LTranslit=gji2|SpaceAfter=No
+15	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	appos	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𘕣	𘕣	DET	DET	_	18	det	_	Gloss=how, what|LTranslit=wa2|SpaceAfter=No
+18	𗦫	𗦫	NOUN	NOUN	_	21	obl	_	Gloss=cause|LTranslit=.jiw1|SpaceAfter=No
+19	𗖵	𗖵	ADP	ADP	_	18	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+20	𗦻	𗦻	NOUN	NOUN	_	21	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+21	𘜘	𘜘	VERB	VERB	_	10	parataxis	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0058
+# text，lzh = 具足妙相尊，偈答無盡意：汝聽觀音行，善應諸方所。
+# text = 𗤓𘍦𘓳𗣷𗖻，𗉣𗅋𗋃𗗙𗊬，𗍳𗫈𗙏𘝯𘝦，𗤶𗨳𗋚𗨉𘉞，𗱕𗏣𗧥𗜓𗩱。
+1	𗤓	𗤓	ADJ	ADJ	_	2	amod	_	Gloss=beautiful, wonderful|LTranslit=thjo̲1|SpaceAfter=No
+2	𘍦	𘍦	NOUN	NOUN	_	3	obj	_	Gloss=look, appearance|LTranslit=.jij1|SpaceAfter=No
+3	𘓳	𘓳	VERB	VERB	_	4	compound	_	Gloss=whole, complete|LTranslit=ŋowr2|OrigLang=lzh|SpaceAfter=No
+4	𗣷	𗣷	VERB	VERB	_	5	acl	_	Gloss=full, packed, sufficient|LTranslit=lhǝ|SpaceAfter=No
+5	𗖻	𗖻	NOUN	NOUN	_	9	nsubj	_	Gloss=respect|LTranslit=pjụ1|OrigLang=lzh|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗉣𗅋𗋃	𗉣𗅋𗋃	PROPN	PROPN	_	9	obj	_	Gloss=Akṣayamati|LTranslit=phji1|mji1|sji1|OrigLang=sa|SpaceAfter=No
+8	𗗙	𗗙	ADP	ADP	_	7	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+9	𗊬	𗊬	VERB	VERB	_	0	root	_	Gloss=lining, inside, answer|LTranslit=kụ2|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𗍳	𗍳	PRON	PRON	_	20	nsubj	_	Gloss=you (formal)|LTranslit=nji2|SpaceAfter=No
+12	𗫈	𗫈	ADV	ADV	_	20	advmod	_	Gloss=morning; today, now|LTranslit=sjij1|SpaceAfter=No
+13	𗙏	𗙏	PROPN	PROPN	_	15	nmod	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+14	𘝯	𘝯	PROPN	PROPN	_	13	nmod	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+15	𘝦	𘝦	NOUN	NOUN	_	20	obj	_	Gloss=skill, art; ergative marker|LTranslit=dźjɨ|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗤶	𗤶	NOUN	NOUN	_	20	obl	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+18	𗨳	𗨳	ADJ	ADJ	_	17	amod	_	Gloss=return|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+19	𗋚	𗋚	ADV	ADV	_	20	advmod	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=wjɨ2|SpaceAfter=No
+20	𗨉	𗨉	VERB	VERB	_	9	parataxis	_	Gloss=listen, hear|LTranslit=nji2|SpaceAfter=No
+21	𘉞	𘉞	AUX	AUX	_	20	aux	_	Gloss=auxilary word, second person indicator|LTranslit=nja2|SpaceAfter=No
+22	，	，	PUNCT	PUNCT	_	21	punct	_	SpaceAfter=No
+23	𗱕	𗱕	DET	DET	_	24	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+24	𗏣	𗏣	ADJ	ADJ	_	26	amod	_	Gloss=in the direction of, towards; side|LTranslit=rjijr2|OrigLang=lzh|SpaceAfter=No
+25	𗧥	𗧥	ADJ	ADJ	_	24	amod	_	Gloss=long|LTranslit=zjir2|SpaceAfter=No
+26	𗜓	𗜓	VERB	VERB	_	20	parataxis	_	Gloss=appear, show|LTranslit=śja2|SpaceAfter=No
+27	𗩱	𗩱	AUX	AUX	_	26	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+28	。	。	PUNCT	PUNCT	_	9	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0059
+# text，lzh = 弘誓深如海，歷劫不思議，侍多千億佛，發大清淨願。
+# text = 𘜶𘓞𗗚𗸒𗓰，𗮅𗑱𗅢𘎪𗤋，𗮅𗡞𗦲𗢳𘒇，𘜶𗑗𘓞𗄈𗬬。
+1	𘜶	𘜶	ADJ	ADJ	_	2	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+2	𘓞	𘓞	NOUN	NOUN	_	5	nsubj	_	Gloss=hope, wish|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+3	𗗚	𗗚	NOUN	NOUN	_	5	xcomp	_	Gloss=sea|LTranslit=ŋjow2|OrigLang=lzh|SpaceAfter=No
+4	𗸒	𗸒	ADP	ADP	_	3	case	_	Gloss=postposition - comparative particle|LTranslit=su1|SpaceAfter=No
+5	𗓰	𗓰	VERB	VERB	_	0	root	_	Gloss=deep|LTranslit=na1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗮅	𗮅	ADJ	ADJ	_	8	amod	_	Gloss=many, much, more|LTranslit=rejr2|SpaceAfter=No
+8	𗑱	𗑱	NOUN	NOUN	_	9	nsubj:pass	_	Gloss=rob, steps|LTranslit=kja2|SpaceAfter=No
+9	𗅢	𗅢	VERB	VERB	_	5	parataxis	_	Gloss=survey|LTranslit=sew2|SpaceAfter=No
+10	𘎪	𘎪	VERB	VERB	_	9	conj	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+11	𗤋	𗤋	PART	PART	_	9	advmod:neg	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𗮅	𗮅	DET	DET	_	16	det	_	Gloss=many, much, more|LTranslit=rejr2|SpaceAfter=No
+14	𗡞	𗡞	NUM	NUM	_	16	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+15	𗦲	𗦲	NUM	NUM	_	16	nummod	_	Gloss=a hundred million|LTranslit=rjir2|SpaceAfter=No
+16	𗢳	𗢳	NOUN	NOUN	_	17	obj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+17	𘒇	𘒇	VERB	VERB	_	9	parataxis	_	Gloss=wait upon, attend upon|LTranslit=tshji2|SpaceAfter=No
+18	，	，	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+19	𘜶	𘜶	ADJ	ADJ	_	21	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+20	𗑗	𗑗	ADJ	ADJ	_	21	amod	_	Gloss=clean, quiet|LTranslit=sej1|SpaceAfter=No
+21	𘓞	𘓞	NOUN	NOUN	_	22	obj	_	Gloss=hope, wish|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+22	𗄈	𗄈	VERB	VERB	_	17	parataxis	_	Gloss=appear, raise|LTranslit=sjwo1|OrigLang=lzh|SpaceAfter=No
+23	𗬬	𗬬	ADV	ADV	_	22	advmod	_	Gloss=ever; to have already; Sofronov's pluperfect indicator|LTranslit=djij2|OrigLang=lzh|SpaceAfter=No
+24	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0060
+# text，lzh = 我為汝略說，聞名及見身，心念不空過，能滅諸有苦。
+# text = 𗧓𘀍𗗙𘓋𘎪，𗦻𗓁𘛽𘟀𗆫，𘃜𘃜𗄊𗵺𘟣，𗱕𘟣𘍔𗈞𗩱。
+1	𗧓	𗧓	PRON	PRON	_	5	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa2|SpaceAfter=No
+2	𘀍	𘀍	NOUN	NOUN	_	5	obj	_	Gloss=you (informal)|LTranslit=nja2|SpaceAfter=No
+3	𗗙	𗗙	ADP	ADP	_	2	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+4	𘓋	𘓋	ADV	ADV	_	5	advmod	_	Gloss=a little, a few|LTranslit=ljow2|SpaceAfter=No
+5	𘎪	𘎪	VERB	VERB	_	0	root	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗦻	𗦻	NOUN	NOUN	_	8	obj	_	Gloss=name; reputation|LTranslit=mji̲j2|OrigLang=lzh|SpaceAfter=No
+8	𗓁	𗓁	VERB	VERB	_	5	parataxis	_	Gloss=listen, hear|LTranslit=mji1|SpaceAfter=No
+9	𘛽	𘛽	NOUN	NOUN	_	10	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+10	𘟀	𘟀	VERB	VERB	_	8	conj	_	Gloss=see|LTranslit=ljij2|OrigLang=lzh|SpaceAfter=No
+11	𗆫	𗆫	VERB	VERB	_	8	conj	_	Gloss=|LTranslit=ljɨ̲r2|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𘃜	𘃜	VERB	VERB	_	8	parataxis	_	Gloss=permit, allow|LTranslit=rjar1|OrigLang=lzh|SpaceAfter=No
+14	𘃜	𘃜	VERB	VERB	_	13	conj	_	Gloss=permit, allow|LTranslit=rjar1|OrigLang=lzh|SpaceAfter=No
+15	𗄊	𗄊	DET	DET	_	16	det	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+16	𗵺	𗵺	NOUN	NOUN	_	17	obj	_	Gloss=win, gain|LTranslit=wạ1|OrigLang=lzh|SpaceAfter=No
+17	𘟣	𘟣	VERB	VERB	_	13	conj	_	Gloss=have, possess|LTranslit=dju1|SpaceAfter=No
+18	，	，	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+19	𗱕	𗱕	DET	DET	_	21	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+20	𘟣	𘟣	ADJ	ADJ	_	21	amod	_	Gloss=have, possess|LTranslit=dju1|SpaceAfter=No
+21	𘍔	𘍔	NOUN	NOUN	_	22	obj	_	Gloss=bitter, hardship|LTranslit=tśjị1|SpaceAfter=No
+22	𗈞	𗈞	VERB	VERB	_	13	parataxis	_	Gloss=extinguish, put out|LTranslit=dzjar2|OrigLang=lzh|SpaceAfter=No
+23	𗩱	𗩱	AUX	AUX	_	22	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+24	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0061
+# text，lzh = 假使興害意，推落大火坑，念彼觀音力，火坑變成池。
+# text = 𗓱𘓐𗈙𗤶𗄈，𘜶𗜐𗃒𗅁𘑄，𗙏𘝯𘆖𗪺𗖵，𗜐𗃒𗯗𗒈𗨻。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘓐	𘓐	NOUN	NOUN	_	5	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+3	𗈙	𗈙	ADJ	ADJ	_	4	amod	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+4	𗤶	𗤶	NOUN	NOUN	_	5	obj	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+5	𗄈	𗄈	VERB	VERB	_	0	root	_	Gloss=appear, raise|LTranslit=sjwo1|OrigLang=lzh|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𘜶	𘜶	ADJ	ADJ	_	9	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+8	𗜐	𗜐	NOUN	NOUN	_	9	nmod	_	Gloss=fire|LTranslit=mǝ̲1|OrigLang=lzh|SpaceAfter=No
+9	𗃒	𗃒	NOUN	NOUN	_	11	obl	_	Gloss=hole|LTranslit=lǝ1|OrigLang=lzh|SpaceAfter=No
+10	𗅁	𗅁	ADP	ADP	_	9	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+11	𘑄	𘑄	VERB	VERB	_	5	parataxis	_	Gloss=ban, prohibit, resist|LTranslit=du1|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+14	𘆖	𘆖	VERB	VERB	_	15	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+15	𗪺	𗪺	NOUN	NOUN	_	20	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+16	𗖵	𗖵	ADP	ADP	_	15	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	，	，	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
+18	𗜐	𗜐	NOUN	NOUN	_	19	nmod	_	Gloss=fire|LTranslit=mǝ̲1|OrigLang=lzh|SpaceAfter=No
+19	𗃒	𗃒	NOUN	NOUN	_	20	nsubj:pass	_	Gloss=hole|LTranslit=lǝ1|OrigLang=lzh|SpaceAfter=No
+20	𗯗	𗯗	VERB	VERB	_	11	parataxis	_	Gloss=change, vary|LTranslit=lej2|SpaceAfter=No
+21	𗒈	𗒈	NOUN	NOUN	_	22	xcomp	_	Gloss=pool, pond|LTranslit=dźiǝj2|OrigLang=lzh|SpaceAfter=No
+22	𗨻	𗨻	VERB	VERB	_	20	conj	_	Gloss=do|LTranslit=we2|SpaceAfter=No
+23	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0062
+# text，lzh = 或漂流巨海，龍魚諸鬼難，念彼觀音力，波浪不能沒。
+# text = 𗓱𘜶𗗚𗅁𘜪，𗵃𗋾𗢛𗧹𗮅，𗙏𘝯𘆖𗪺𗖵，𗋽𗛧𗋭𘖑𘘭。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘜶	𘜶	ADJ	ADJ	_	3	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+3	𗗚	𗗚	NOUN	NOUN	_	5	obl	_	Gloss=sea|LTranslit=ŋjow2|OrigLang=lzh|SpaceAfter=No
+4	𗅁	𗅁	ADP	ADP	_	3	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+5	𘜪	𘜪	VERB	VERB	_	0	root	_	Gloss=to fall; to sink; to drown|LTranslit=.jijr1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗵃	𗵃	NOUN	NOUN	_	11	nsubj	_	Gloss=dragon, snake|LTranslit=we1|SpaceAfter=No
+8	𗋾	𗋾	NOUN	NOUN	_	7	conj	_	Gloss=fish|LTranslit=źju2|OrigLang=lzh|SpaceAfter=No
+9	𗢛	𗢛	NOUN	NOUN	_	7	conj	_	Gloss=ghost, spirit|LTranslit=.ju1|SpaceAfter=No
+10	𗧹	𗧹	NOUN	NOUN	_	7	conj	_	Gloss=disaster, calamity|LTranslit=ŋjir1|SpaceAfter=No
+11	𗮅	𗮅	ADJ	ADJ	_	5	parataxis	_	Gloss=many, much, more|LTranslit=rejr2|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+14	𘆖	𘆖	VERB	VERB	_	15	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+15	𗪺	𗪺	NOUN	NOUN	_	19	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+16	𗖵	𗖵	ADP	ADP	_	15	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	，	，	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
+18	𗋽	𗋽	NOUN	NOUN	_	19	nsubj	_	Gloss=water; river|LTranslit=zjɨ̲r2|OrigLang=lzh|SpaceAfter=No
+19	𗛧𗋭	𗛧𗋭	VERB	VERB	_	5	parataxis	_	Gloss=float|LTranslit=ljụ1|djị1|SpaceAfter=No
+20	𘖑	𘖑	PART	PART	_	19	advmod:neg	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+21	𘘭	𘘭	AUX	AUX	_	19	aux	_	Gloss=can|LTranslit=wjị2|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0063
+# text，lzh = 或在須彌峯，為人所推墮，念彼觀音力，如日虛空住。
+# text = 𗓱𗍏𗓁𗀔𗫻，𘉑𘝦𘃡𘑄𘅍，𗙏𘝯𘆖𗪺𗖵，𗾔𗍊𗲠𘇂𗬁。
+1	𗓱	𗓱	ADV	ADV	_	4	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗍏𗓁	𗍏𗓁	PROPN	PROPN	_	4	obl	_	Gloss=Sumeru|LTranslit=sju2|mji1|OrigLang=sa|SpaceAfter=No
+3	𗀔	𗀔	ADP	ADP	_	2	case	_	Gloss=upper; locative particle on|LTranslit=tśhja̲1|OrigLang=lzh|SpaceAfter=No
+4	𗫻	𗫻	VERB	VERB	_	0	root	_	Gloss=live, stay, exist, to be found|LTranslit=dźji̲j1|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𘉑	𘉑	PRON	PRON	_	8	nsubj	_	Gloss=he, it|LTranslit=mjɨ1|SpaceAfter=No
+7	𘝦	𘝦	NOUN	NOUN	_	8	obj	_	Gloss=skill, art; ergative marker|LTranslit=dźjɨ|SpaceAfter=No
+8	𘃡	𘃡	VERB	VERB	_	9	advcl	_	Gloss=do, make; ergative marker|LTranslit=wji1|SpaceAfter=No
+9	𘑄	𘑄	VERB	VERB	_	10	acl	_	Gloss=ban, prohibit, resist|LTranslit=du1|SpaceAfter=No
+10	𘅍	𘅍	NOUN	NOUN	_	21	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	21	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗾔	𗾔	NOUN	NOUN	_	21	obl	_	Gloss=sun|LTranslit=be2|SpaceAfter=No
+18	𗍊	𗍊	ADP	ADP	_	17	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+19	𗲠	𗲠	NOUN	NOUN	_	21	obl	_	Gloss=hollow, void; air|LTranslit=ŋa1|OrigLang=lzh|SpaceAfter=No
+20	𘇂	𘇂	ADP	ADP	_	19	case	_	Gloss=middle, among|LTranslit=gu2|SpaceAfter=No
+21	𗬁	𗬁	VERB	VERB	_	4	parataxis	_	Gloss=stop, cease|LTranslit=djɨj2|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	4	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0064
+# text，lzh = 或被惡人逐，墮落金剛山，念彼觀音力，不能損一毛。
+# text = 𗓱𘓐𘊄𘙇𘈕，𗵒𘗁𘑗𗀔𗈀，𗙏𘝯𘆖𗪺𗖵，𗁲𘂏𗰣𗅋𘐠。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘓐	𘓐	NOUN	NOUN	_	5	nsubj	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+3	𘊄	𘊄	ADJ	ADJ	_	2	amod	_	Gloss=evil, vice|LTranslit=niow2|SpaceAfter=No
+4	𘙇	𘙇	ADV	ADV	_	5	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rjɨr2|SpaceAfter=No
+5	𘈕	𘈕	VERB	VERB	_	0	root	_	Gloss=drive|LTranslit=śjwo1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗵒𘗁	𗵒𘗁	PROPN	PROPN	_	8	nmod	_	Gloss=vajra, diamond|LTranslit=kiẹ1|dźja2|OrigLang=sa|SpaceAfter=No
+8	𘑗	𘑗	NOUN	NOUN	_	10	obl	_	Gloss=hill, mountain|LTranslit=ŋǝr1|SpaceAfter=No
+9	𗀔	𗀔	ADP	ADP	_	8	case	_	Gloss=upper; locative particle on|LTranslit=tśhja̲1|OrigLang=lzh|SpaceAfter=No
+10	𗈀	𗈀	VERB	VERB	_	5	parataxis	_	Gloss=fall, sink|LTranslit=ljɨ1|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	21	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗁲	𗁲	NOUN	NOUN	_	21	obj	_	Gloss=hair|LTranslit=mej2|SpaceAfter=No
+18	𘂏	𘂏	ADJ	ADJ	_	17	amod	_	Gloss=classifier, measure word|LTranslit=biẹj1|SpaceAfter=No
+19	𗰣	𗰣	ADJ	ADJ	_	17	amod	_	Gloss=how many, how much, approx. indicator|LTranslit=zjịj1|SpaceAfter=No
+20	𗅋	𗅋	PART	PART	_	21	advmod:neg	_	Gloss=no, not|LTranslit=mji1|SpaceAfter=No
+21	𘐠	𘐠	VERB	VERB	_	5	parataxis	_	Gloss=damage, injure, harm|LTranslit=ŋjwo2|OrigLang=lzh|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0065
+# text，lzh =  或值怨賊繞，各執刀加害，念彼觀音力，咸即起慈心。
+# text = 𗓱𘂭𘝚𗑠𗄛，𗯩𘟞𗜈𗈙𗧠，𗙏𘝯𘆖𗪺𗖵，𗑷𗄊𗕿𗤶𗄈。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘂭	𘂭	NOUN	NOUN	_	5	obj	_	Gloss=resentment|LTranslit=ljwịj1|SpaceAfter=No
+3	𘝚	𘝚	NOUN	NOUN	_	2	conj	_	Gloss=steal, pilfer, bottom LHS has two extra strokes filled in LFW|LTranslit=kjwɨr1|SpaceAfter=No
+4	𗑠	𗑠	ADV	ADV	_	5	advmod	_	Gloss=same, and; comitative particle with|LTranslit=rjir2|SpaceAfter=No
+5	𗄛	𗄛	VERB	VERB	_	0	root	_	Gloss=meet|LTranslit=ber2|OrigLang=lzh|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗯩	𗯩	ADV	ADV	_	9	advmod	_	Gloss=each, place; nominaliser|LTranslit=twụ1|OrigLang=lzh|SpaceAfter=No
+8	𘟞	𘟞	NOUN	NOUN	_	9	obj	_	Gloss=knife, sword|LTranslit=bjɨr1|OrigLang=lzh|SpaceAfter=No
+9	𗜈	𗜈	VERB	VERB	_	5	parataxis	_	Gloss=hold, grasp; (Kepping) to follow, to go|LTranslit=zow2|SpaceAfter=No
+10	𗈙	𗈙	VERB	VERB	_	11	xcomp	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+11	𗧠	𗧠	VERB	VERB	_	9	conj	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+14	𘆖	𘆖	VERB	VERB	_	15	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+15	𗪺	𗪺	NOUN	NOUN	_	21	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+16	𗖵	𗖵	ADP	ADP	_	15	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	，	，	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
+18	𗑷𗄊	𗑷𗄊	PRON	PRON	_	21	nsubj	_	Gloss=all|LTranslit=to2|zji2|SpaceAfter=No
+19	𗕿	𗕿	ADJ	ADJ	_	20	amod	_	Gloss=loving|LTranslit=njij2|SpaceAfter=No
+20	𗤶	𗤶	NOUN	NOUN	_	21	obj	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+21	𗄈	𗄈	VERB	VERB	_	9	parataxis	_	Gloss=appear, raise|LTranslit=sjwo1|OrigLang=lzh|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=____|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0066
+# text，lzh = 或遭王難苦，臨刑欲壽終，念彼觀音力，刀尋段段壞。
+# text = 𗓱𗼞𘅣𗑠𗄛，𘙌𗷝𗜍𗗟𘅍，𗙏𘝯𘆖𗪺𗖵，𘟫𗷷𗺴𗺴𗨻。
+1	𗓱	𗓱	ADV	ADV	_	5	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗼞	𗼞	NOUN	NOUN	_	3	nmod	_	Gloss=government officer|LTranslit=kow2|SpaceAfter=No
+3	𘅣	𘅣	NOUN	NOUN	_	5	obj	_	Gloss=matter, affair, thing|LTranslit=dạ2|OrigLang=lzh|SpaceAfter=No
+4	𗑠	𗑠	ADV	ADV	_	5	advmod	_	Gloss=same, and; comitative particle with|LTranslit=rjir2|SpaceAfter=No
+5	𗄛	𗄛	VERB	VERB	_	0	root	_	Gloss=meet|LTranslit=ber2|OrigLang=lzh|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𘙌	𘙌	ADV	ADV	_	9	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kjɨ1|SpaceAfter=No
+8	𗷝	𗷝	ADV	ADV	_	9	advmod	_	Gloss=have not; still not|LTranslit=mjij2|SpaceAfter=No
+9	𗜍	𗜍	VERB	VERB	_	11	acl	_	Gloss=kill, slaughter|LTranslit=sja1|SpaceAfter=No
+10	𗗟	𗗟	AUX	AUX	_	9	aux	_	Gloss=will, shall; future tense marker|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+11	𘅍	𘅍	NOUN	NOUN	_	19	obl	_	Gloss=time, times|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+14	𘆖	𘆖	VERB	VERB	_	15	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+15	𗪺	𗪺	NOUN	NOUN	_	19	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+16	𗖵	𗖵	ADP	ADP	_	15	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	，	，	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
+18	𘟫	𘟫	NOUN	NOUN	_	19	nsubj:pass	_	Gloss=sword, sabre, weapon|LTranslit=ɣạ1|SpaceAfter=No
+19	𗷷	𗷷	VERB	VERB	_	5	parataxis	_	Gloss=break, snap|LTranslit=lhjị2|SpaceAfter=No
+20	𗺴𗺴	𗺴𗺴	NOUN	NOUN	_	21	obl	_	Gloss=section, part|LTranslit=thọ1|thọ1|SpaceAfter=No
+21	𗨻	𗨻	VERB	VERB	_	19	conj	_	Gloss=do|LTranslit=we2|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0067
+# text，lzh =  或囚禁枷鎖，手足被杻械，念彼觀音力，釋然得解脫。
+# text = 𗓱𘍓𗷩𗝩𗋐，𗭒𗁅𗭑𗁂𘐏，𗙏𘝯𘆖𗪺𗖵，𗉮𘃛𗧐𗇘𘜘。
+1	𗓱	𗓱	ADV	ADV	_	3	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘍓𗷩	𘍓𗷩	NOUN	NOUN	_	3	obl	_	Gloss=prison, gaol|LTranslit=khjwɨ2|.jɨj2|SpaceAfter=No
+3	𗝩	𗝩	VERB	VERB	_	0	root	_	Gloss=imprison|LTranslit=dzow1|SpaceAfter=No
+4	𗋐	𗋐	VERB	VERB	_	3	compound	_	Gloss=contain|LTranslit=tśhju1|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𗭒	𗭒	NOUN	NOUN	_	10	nsubj:pass	_	Gloss=foot|LTranslit=khjɨ1|OrigLang=lzh|SpaceAfter=No
+7	𗁅	𗁅	NOUN	NOUN	_	6	conj	_	Gloss=hand|LTranslit=lạ1|SpaceAfter=No
+8	𗭑	𗭑	NOUN	NOUN	_	10	obl	_	Gloss=fetters|LTranslit=śju1|SpaceAfter=No
+9	𗁂	𗁂	NOUN	NOUN	_	8	conj	_	Gloss=wooden handcuffs|LTranslit=dzjiw2|SpaceAfter=No
+10	𘐏	𘐏	VERB	VERB	_	3	parataxis	_	Gloss=place, put, set up|LTranslit=tjị1|OrigLang=lzh|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	18	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗉮𘃛	𗉮𘃛	ADV	ADV	_	18	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+18	𗧐𗇘	𗧐𗇘	VERB	VERB	_	3	parataxis	_	Gloss=release, save from|LTranslit=bie2|lhew2|SpaceAfter=No
+19	𘜘	𘜘	AUX	AUX	_	18	aux	_	Gloss=get, obtain, gain|LTranslit=rjir1|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	3	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0068
+# text，lzh = 呪詛諸毒藥，所欲害身者，念彼觀音力，還著於本人。
+# text = 𗡔𗲩𗱕𗻊𗳒，𘛽𗗙𘐠𗈙𗧠，𗙏𘝯𘆖𗪺𗖵，𗈙𗇋𘝵𘕿𗂆。
+1	𗡔	𗡔	NOUN	NOUN	_	9	obl	_	Gloss=oath, pledge|LTranslit=ŋwụ1|SpaceAfter=No
+2	𗲩	𗲩	NOUN	NOUN	_	1	conj	_	Gloss=incantation|LTranslit=khwa̲1|OrigLang=lzh|SpaceAfter=No
+3	𗱕	𗱕	DET	DET	_	4	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+4	𗻊	𗻊	NOUN	NOUN	_	1	conj	_	Gloss=poison, toxin|LTranslit=do2|SpaceAfter=No
+5	𗳒	𗳒	ADP	ADP	_	1	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𘛽	𘛽	NOUN	NOUN	_	9	obj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+8	𗗙	𗗙	ADP	ADP	_	7	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+9	𘐠𗈙	𘐠𗈙	VERB	VERB	_	0	root	_	Gloss=harm, injure, treacherous, dangerous|LTranslit=ŋjwo2|tśju̲1|SpaceAfter=No
+10	𗧠	𗧠	AUX	AUX	_	9	aux	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	21	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗈙	𗈙	VERB	VERB	_	18	acl	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+18	𗇋	𗇋	NOUN	NOUN	_	21	nsubj:pass	_	Gloss=auxiliary word; 可以加在名词、动词和形容词后面，表示人或物; nominaliser|LTranslit=mjijr2|SpaceAfter=No
+19	𘝵	𘝵	ADV	ADV	_	18	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=.jij1|SpaceAfter=No
+20	𘕿	𘕿	ADP	ADP	_	18	case	_	Gloss=locative particle in (the sky, the heart); on, around|LTranslit=ɣa2|SpaceAfter=No
+21	𗂆	𗂆	VERB	VERB	_	9	parataxis	_	Gloss=hit, touch|LTranslit=zjịj1|OrigLang=lzh|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	9	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0069
+# text，lzh = 或遇惡羅剎，毒龍諸鬼等，念彼觀音力，時悉不敢害。
+# text = 𗓱𗓽𗽇𗵃𗀀，𗱕𗢛𘆄𗑠𗄛，𗙏𘝯𘆖𗪺𗖵，𗑷𗄊𗈙𘖑𘜕。
+1	𗓱	𗓱	ADV	ADV	_	10	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𗓽𗽇	𗓽𗽇	NOUN	NOUN	_	10	obj	_	Gloss=Rakshasa|LTranslit=lo1|tśhia1|SpaceAfter=No
+3	𗵃	𗵃	NOUN	NOUN	_	2	conj	_	Gloss=dragon, snake|LTranslit=we1|SpaceAfter=No
+4	𗀀	𗀀	ADJ	ADJ	_	3	amod	_	Gloss=poison|LTranslit=dow1|OrigLang=lzh|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𗱕	𗱕	DET	DET	_	7	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+7	𗢛	𗢛	NOUN	NOUN	_	2	conj	_	Gloss=ghost, spirit|LTranslit=.ju1|SpaceAfter=No
+8	𘆄	𘆄	CCONJ	CCONJ	_	2	cc	_	Gloss=etc.|LTranslit=njɨ2|SpaceAfter=No
+9	𗑠	𗑠	ADV	ADV	_	10	advmod	_	Gloss=same, and; comitative particle with|LTranslit=rjir2|SpaceAfter=No
+10	𗄛	𗄛	VERB	VERB	_	0	root	_	Gloss=meet|LTranslit=ber2|OrigLang=lzh|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	18	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗑷𗄊	𗑷𗄊	PRON	PRON	_	18	nsubj	_	Gloss=all|LTranslit=to2|zji2|SpaceAfter=No
+18	𗈙	𗈙	VERB	VERB	_	10	parataxis	_	Gloss=evil, envy|LTranslit=tśju̲1|SpaceAfter=No
+19	𘖑	𘖑	PART	PART	_	18	advmod:neg	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+20	𘜕	𘜕	AUX	AUX	_	18	aux	_	Gloss=dare|LTranslit=kjir2|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0070
+# text，lzh = 若惡獸圍遶，利牙爪可怖，念彼觀音力，疾走無邊方。
+# text = 𗓱𘂶𘊄𗋪𗹰，𘁯𗅷𗴒𗃬𗰁，𗙏𘝯𘆖𗪺𗖵，𘝵𗯩𗈲𗈲𗶲。
+1	𗓱	𗓱	ADV	ADV	_	4	advmod	_	Gloss=if, perhaps|LTranslit=tjij1|OrigLang=lzh|SpaceAfter=No
+2	𘂶	𘂶	NOUN	NOUN	_	4	nsubj	_	Gloss=monkey, beast, animal|LTranslit=wjị1|SpaceAfter=No
+3	𘊄	𘊄	ADJ	ADJ	_	2	amod	_	Gloss=evil, vice|LTranslit=niow2|SpaceAfter=No
+4	𗋪𗹰	𗋪𗹰	VERB	VERB	_	0	root	_	Gloss=surround, encircle, walk round, skirt|LTranslit=.wiọ1|tśjɨ̣1|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𘁯	𘁯	NOUN	NOUN	_	8	obj	_	Gloss=claw, talon, finger|LTranslit=dzjị1|SpaceAfter=No
+7	𗅷	𗅷	NOUN	NOUN	_	6	conj	_	Gloss=tooth|LTranslit=dźi|SpaceAfter=No
+8	𗴒	𗴒	VERB	VERB	_	4	parataxis	_	Gloss=fear, dread|LTranslit=kjạ1|SpaceAfter=No
+9	𗃬	𗃬	ADJ	ADJ	_	6	amod	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+10	𗰁	𗰁	VERB	VERB	_	9	cop	_	Gloss=can, may|LTranslit=dźio̲w2|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	20	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𘝵	𘝵	ADV	ADV	_	20	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=.jij1|SpaceAfter=No
+18	𗯩	𗯩	PRON	PRON	_	20	nsubj	_	Gloss=each, place; nominaliser|LTranslit=twụ1|OrigLang=lzh|SpaceAfter=No
+19	𗈲𗈲	𗈲𗈲	ADV	ADV	_	20	advmod	_	Gloss=far; distant; remote|LTranslit=khwa1|khwa1|SpaceAfter=No
+20	𗶲	𗶲	VERB	VERB	_	8	parataxis	_	Gloss=flee, run away|LTranslit=ta1|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	4	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0071
+# text，lzh = 蚖蛇及蝮蠍，氣毒煙火燃，念彼觀音力，尋聲自迴去。
+# text = 𗀋𗀀𗅉𘀃𘊏，𗀀𘔺𗜐𗟚𘔉，𗙏𘝯𘆖𗪺𗖵，𗙏𗖵𘝵𗆮𗇂。
+1	𗀋	𗀋	NOUN	NOUN	_	8	nmod	_	Gloss=snake|LTranslit=phio2|OrigLang=lzh|SpaceAfter=No
+2	𗀀	𗀀	NOUN	NOUN	_	1	conj	_	Gloss=poison|LTranslit=dow1|OrigLang=lzh|SpaceAfter=No
+3	𗅉	𗅉	CCONJ	CCONJ	_	1	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+4	𘀃	𘀃	NOUN	NOUN	_	1	conj	_	Gloss=snake|LTranslit=gju̲2|SpaceAfter=No
+5	𘊏	𘊏	NOUN	NOUN	_	1	conj	_	Gloss=insect, worm|LTranslit=kjij1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗀀	𗀀	ADJ	ADJ	_	8	amod	_	Gloss=poison|LTranslit=dow1|OrigLang=lzh|SpaceAfter=No
+8	𘔺	𘔺	NOUN	NOUN	_	10	nsubj	_	Gloss=gas|LTranslit=khji2|SpaceAfter=No
+9	𗜐𗟚	𗜐𗟚	NOUN	NOUN	_	8	conj	_	Gloss=flame, fire|LTranslit=mǝ̲1|ljo̲r1|SpaceAfter=No
+10	𘔉	𘔉	VERB	VERB	_	0	root	_	Gloss=burn, kindle|LTranslit=dwǝr2|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	20	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗙏	𗙏	NOUN	NOUN	_	20	obl	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+18	𗖵	𗖵	ADP	ADP	_	17	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+19	𘝵	𘝵	ADV	ADV	_	20	advmod	_	Gloss=self, oneself (reflexive pronoun)|LTranslit=.jij1|SpaceAfter=No
+20	𗆮𗇂	𗆮𗇂	VERB	VERB	_	10	parataxis	_	Gloss=disperse|LTranslit=lhjwo1|sar2|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0072
+# text，lzh = 雲雷鼓掣電，降雹澍大雨，念彼觀音力，應時得消散。
+# text = 𗹦𘛻𗭹𗬔𗬓，𗼮𘜶𗎑𗱠𗄼，𗙏𘝯𘆖𗪺𗖵，𗑷𗄊𗉮𘃛𗬁。
+1	𗹦	𗹦	NOUN	NOUN	_	2	nmod	_	Gloss=sky, heaven|LTranslit=mǝ1|SpaceAfter=No
+2	𘛻	𘛻	NOUN	NOUN	_	3	nmod	_	Gloss=thunder|LTranslit=dji̲1|SpaceAfter=No
+3	𗭹	𗭹	NOUN	NOUN	_	10	nsubj	_	Gloss=drum|LTranslit=bar1|SpaceAfter=No
+4	𗬔𗬓	𗬔𗬓	NOUN	NOUN	_	3	conj	_	Gloss=lightning|LTranslit=lhjạ1|tshjwu1|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𗼮	𗼮	NOUN	NOUN	_	3	conj	_	Gloss=rain|LTranslit=dzjụ2|OrigLang=lzh|SpaceAfter=No
+7	𘜶	𘜶	ADJ	ADJ	_	6	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+8	𗎑	𗎑	NOUN	NOUN	_	3	conj	_	Gloss=hail|LTranslit=mur2|SpaceAfter=No
+9	𗱠	𗱠	ADJ	ADJ	_	8	amod	_	Gloss=pure, refined|LTranslit=dźjij1|OrigLang=lzh|SpaceAfter=No
+10	𗄼	𗄼	VERB	VERB	_	0	root	_	Gloss=come|LTranslit=lja1|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	13	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+13	𘆖	𘆖	VERB	VERB	_	14	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	19	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	𗖵	𗖵	ADP	ADP	_	14	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗑷𗄊	𗑷𗄊	PRON	PRON	_	19	nsubj:pass	_	Gloss=all|LTranslit=to2|zji2|SpaceAfter=No
+18	𗉮𘃛	𗉮𘃛	ADV	ADV	_	19	advmod	_	Gloss=immediately|LTranslit=tśhjɨ2|rjar2|SpaceAfter=No
+19	𗬁	𗬁	VERB	VERB	_	10	parataxis	_	Gloss=stop, cease|LTranslit=djɨj2|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	10	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0073
+# text，lzh = 眾生被困厄，無量苦逼身，觀音妙智力，能救世間苦。
+# text = 𘋢𗋐𗻶𗧹𗄛，𘖑𗆄𘍔𘙌𗏤，𗙏𘝯𗤓𘄡𗪺，𗯨𘂤𘍔𗥞𗩱。
+1	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	3	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+2	𗻶𗧹	𗻶𗧹	NOUN	NOUN	_	3	obj	_	Gloss=alamity, catastrophe, disaster|LTranslit=xọ2|ŋjir1|SpaceAfter=No
+3	𗄛	𗄛	VERB	VERB	_	0	root	_	Gloss=meet|LTranslit=ber2|OrigLang=lzh|SpaceAfter=No
+4	，	，	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
+5	𘖑	𘖑	DET	DET	_	6	det	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+6	𗆄	𗆄	NOUN	NOUN	_	7	nmod	_	Gloss=measure, price|LTranslit=pjụ1|OrigLang=lzh|SpaceAfter=No
+7	𘍔	𘍔	NOUN	NOUN	_	9	nsubj	_	Gloss=bitter, hardship|LTranslit=tśjị1|SpaceAfter=No
+8	𘙌	𘙌	ADV	ADV	_	9	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kjɨ1|SpaceAfter=No
+9	𗏤	𗏤	VERB	VERB	_	3	parataxis	_	Gloss=force, compel; there|LTranslit=tha|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	nmod	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+12	𗤓	𗤓	ADJ	ADJ	_	14	amod	_	Gloss=beautiful, wonderful|LTranslit=thjo̲1|SpaceAfter=No
+13	𘄡	𘄡	NOUN	NOUN	_	14	nmod	_	Gloss=wisdom|LTranslit=sjịj2|SpaceAfter=No
+14	𗪺	𗪺	NOUN	NOUN	_	19	nsubj	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+15	，	，	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
+16	𗯨	𗯨	NOUN	NOUN	_	19	obl	_	Gloss=world, the capital of a country|LTranslit=rjur1|OrigLang=lzh|SpaceAfter=No
+17	𘂤	𘂤	ADP	ADP	_	16	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+18	𘍔	𘍔	NOUN	NOUN	_	19	obj	_	Gloss=bitter, hardship|LTranslit=tśjị1|SpaceAfter=No
+19	𗥞	𗥞	VERB	VERB	_	18	parataxis	_	Gloss=relieve, save|LTranslit=gju̲2|OrigLang=lzh|SpaceAfter=No
+20	𗩱	𗩱	AUX	AUX	_	19	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	3	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0074
+# text，lzh = 具足神通力，廣修智方便，十方諸國土，無剎不現身。
+# text = 𗾈𗿣𗪺𘓳𗣷，𘄡𗼄𘕤𗾟𗹢，𗰭𗏣𗱕𗂧𗅁，𗑷𗄊𘛽𗴧𗜓。
+1	𗾈	𗾈	ADJ	ADJ	_	3	amod	_	Gloss=worthy, virtue|LTranslit=me̲2|SpaceAfter=No
+2	𗿣	𗿣	NOUN	NOUN	_	3	nmod	_	Gloss=open|LTranslit=mjịjr2|SpaceAfter=No
+3	𗪺	𗪺	NOUN	NOUN	_	4	nsubj	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+4	𘓳𗣷	𘓳𗣷	ADJ	ADJ	_	0	root	_	Gloss=have completely, be completely provided|LTranslit=ŋowr2|lhǝ|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𘄡	𘄡	ADJ	ADJ	_	7	amod	_	Gloss=wisdom|LTranslit=sjịj2|SpaceAfter=No
+7	𗼄𘕤	𗼄𘕤	NOUN	NOUN	_	9	obj	_	Gloss=comfortable|LTranslit=tśier1|.ju2|SpaceAfter=No
+8	𗾟	𗾟	ADV	ADV	_	9	advmod	_	Gloss=vast, wide, extensive|LTranslit=wạ2|SpaceAfter=No
+9	𗹢	𗹢	VERB	VERB	_	4	parataxis	_	Gloss=build|LTranslit=djọ2|OrigLang=lzh|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𗰭	𗰭	NUM	NUM	_	12	nummod	_	Gloss=ten|LTranslit=śja1|SpaceAfter=No
+12	𗏣	𗏣	NOUN	NOUN	_	14	nmod	_	Gloss=in the direction of, towards; side|LTranslit=rjijr2|OrigLang=lzh|SpaceAfter=No
+13	𗱕	𗱕	DET	DET	_	14	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+14	𗂧	𗂧	NOUN	NOUN	_	19	obl	_	Gloss=country, national|LTranslit=lhjịj2|OrigLang=lzh|SpaceAfter=No
+15	𗅁	𗅁	ADP	ADP	_	14	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=.u2|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗑷𗄊	𗑷𗄊	PRON	PRON	_	18	nmod	_	Gloss=all|LTranslit=to2|zji2|SpaceAfter=No
+18	𘛽	𘛽	NOUN	NOUN	_	19	nsubj	_	Gloss=body|LTranslit=ljụ2|OrigLang=lzh|SpaceAfter=No
+19	𗴧𗜓	𗴧𗜓	VERB	VERB	_	9	parataxis	_	Gloss=manifest, display, show, realize|LTranslit=wjị2|śja2|SpaceAfter=No
+20	。	。	PUNCT	PUNCT	_	4	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0075
+# text，lzh = 種種諸惡趣，地獄鬼畜生，生老病死苦，以漸悉令滅。
+# text = 𘋠𘋠𗱕𘊄𗷖，𘘍𗷩𘆶𘁜𗢛，𘎳𘒺𗥓𗈶𘍔，𘚔𘚔𗄊𗈞𗟻。
+1	𘋠𘋠	𘋠𘋠	ADJ	ADJ	_	4	amod	_	Gloss=various, all sorts, all|LTranslit=mǝ2|mǝ2|SpaceAfter=No
+2	𗱕	𗱕	DET	DET	_	4	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+3	𘊄	𘊄	ADJ	ADJ	_	4	amod	_	Gloss=evil, vice|LTranslit=niow2|SpaceAfter=No
+4	𗷖	𗷖	NOUN	NOUN	_	21	nsubj:pass	_	Gloss=interest|LTranslit=tshwew1|SpaceAfter=No
+5	，	，	PUNCT	PUNCT	_	4	punct	_	SpaceAfter=No
+6	𘘍	𘘍	NOUN	NOUN	_	4	appos	_	Gloss=hell, inferno|LTranslit=djị1|SpaceAfter=No
+7	𗷩	𗷩	NOUN	NOUN	_	6	compound	_	Gloss=prison, gaol|LTranslit=.jɨj2|SpaceAfter=No
+8	𘆶	𘆶	NOUN	NOUN	_	6	conj	_	Gloss=livestock, domestic animals|LTranslit=sju2|SpaceAfter=No
+9	𘁜	𘁜	NOUN	NOUN	_	8	compound	_	Gloss=livestock, domestic animals|LTranslit=dzju2|SpaceAfter=No
+10	𗢛	𗢛	NOUN	NOUN	_	6	conj	_	Gloss=ghost, spirit|LTranslit=.ju1|SpaceAfter=No
+11	，	，	PUNCT	PUNCT	_	10	punct	_	SpaceAfter=No
+12	𘎳	𘎳	NOUN	NOUN	_	16	nmod	_	Gloss=give birth to, bear|LTranslit=we̲1|SpaceAfter=No
+13	𘒺	𘒺	NOUN	NOUN	_	12	conj	_	Gloss=old, aged|LTranslit=nar2|OrigLang=lzh|SpaceAfter=No
+14	𗥓	𗥓	NOUN	NOUN	_	12	conj	_	Gloss=ill, disease|LTranslit=ŋo2|SpaceAfter=No
+15	𗈶	𗈶	NOUN	NOUN	_	12	conj	_	Gloss=die|LTranslit=sjɨ1|SpaceAfter=No
+16	𘍔	𘍔	NOUN	NOUN	_	6	conj	_	Gloss=bitter, hardship|LTranslit=tśjị1|SpaceAfter=No
+17	，	，	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
+18	𘚔	𘚔	ADV	ADV	_	21	advmod	_	Gloss=break, down, tip, end|LTranslit=mji̲j2|SpaceAfter=No
+19	𘚔	𘚔	ADV	ADV	_	18	compound	_	Gloss=break, down, tip, end|LTranslit=mji̲j2|SpaceAfter=No
+20	𗄊	𗄊	ADV	ADV	_	21	advmod	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+21	𗈞	𗈞	VERB	VERB	_	0	root	_	Gloss=extinguish, put out|LTranslit=dzjar2|OrigLang=lzh|SpaceAfter=No
+22	𗟻	𗟻	AUX	AUX	_	21	aux	_	Gloss=make; marker of causative construction|LTranslit=phji1|OrigLang=lzh|SpaceAfter=No
+23	。	。	PUNCT	PUNCT	_	21	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0076
+# text，lzh = 真觀清淨觀，廣大智慧觀，悲觀及慈觀，常願常瞻仰。
+# text = 𘞌𘝯𘄎𗑗𘝯，𗾟𘜶𘄡𘟛𘝯，𗈁𘝯𗅉𗕿𘝯，𗏹𗴢𗦾𗤶𗧠。
+1	𘞌	𘞌	ADJ	ADJ	_	2	amod	_	Gloss=solid, true; serious|LTranslit=źjɨr1|OrigLang=lzh|SpaceAfter=No
+2	𘝯	𘝯	NOUN	NOUN	_	18	nsubj:pass	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+3	𘄎	𘄎	ADJ	ADJ	_	5	amod	_	Gloss=clean, clear|LTranslit=gji1|OrigLang=lzh|SpaceAfter=No
+4	𗑗	𗑗	ADJ	ADJ	_	3	compound	_	Gloss=clean, quiet|LTranslit=sej1|SpaceAfter=No
+5	𘝯	𘝯	NOUN	NOUN	_	2	conj	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗾟𘜶	𗾟𘜶	ADJ	ADJ	_	9	amod	_	Gloss=wide, vast, immense, large|LTranslit=wạ2|ljịj2|SpaceAfter=No
+8	𘄡𘟛	𘄡𘟛	NOUN	NOUN	_	9	nmod	_	Gloss=wisdom, knowledge, intellect mind|LTranslit=sjịj2|źjɨr1|SpaceAfter=No
+9	𘝯	𘝯	NOUN	NOUN	_	2	conj	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𗈁	𗈁	ADJ	ADJ	_	12	amod	_	Gloss=sad, sorrowful|LTranslit=wju̲1|SpaceAfter=No
+12	𘝯	𘝯	NOUN	NOUN	_	2	conj	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+13	𗅉	𗅉	CCONJ	CCONJ	_	2	cc	_	Gloss=conjunction; behind|LTranslit=niow1|SpaceAfter=No
+14	𗕿	𗕿	ADJ	ADJ	_	15	amod	_	Gloss=loving|LTranslit=njij2|SpaceAfter=No
+15	𘝯	𘝯	NOUN	NOUN	_	2	conj	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗏹	𗏹	ADV	ADV	_	18	advmod	_	Gloss=frequently, often; continually|LTranslit=.ju2|SpaceAfter=No
+18	𗴢	𗴢	VERB	VERB	_	0	root	_	Gloss=respect, revere|LTranslit=bju̲1|SpaceAfter=No
+19	𗦾	𗦾	VERB	VERB	_	18	conj	_	Gloss=see, look at|LTranslit=.ju̲1|SpaceAfter=No
+20	𗤶	𗤶	NOUN	NOUN	_	21	obl	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+21	𗧠	𗧠	VERB	VERB	_	18	conj	_	Gloss=desire, wish, lust, to want|LTranslit=kiẹj2|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	18	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0077
+# text，lzh = 無垢清淨光，慧日破諸闇，能伏災風火，普明照世間。
+# text = 𘓨𗤋𘄎𗑗𘉍，𘟛𗾔𗱕𗤼𗹗，𘚶𗜐𗧹𗷰𗩱，𗫡𗭼𗯨𘂤𗮔。
+1	𘓨	𘓨	NOUN	NOUN	_	5	nmod	_	Gloss=dirty, filthy|LTranslit=ror2|SpaceAfter=No
+2	𗤋	𗤋	DET	DET	_	1	det	_	Gloss=not, nothing, to not have|LTranslit=mjij1|SpaceAfter=No
+3	𘄎	𘄎	ADJ	ADJ	_	5	amod	_	Gloss=clean, clear|LTranslit=gji1|OrigLang=lzh|SpaceAfter=No
+4	𗑗	𗑗	ADJ	ADj	_	3	compound	_	Gloss=clean, quiet|LTranslit=sej1|SpaceAfter=No
+5	𘉍	𘉍	NOUN	NOUN	_	11	nsubj	_	Gloss=light, ray|LTranslit=bji1|OrigLang=lzh|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𘟛	𘟛	NOUN	NOUN	_	8	nmod	_	Gloss=wisdom, intelligent|LTranslit=źjɨr1|SpaceAfter=No
+8	𗾔	𗾔	NOUN	NOUN	_	11	obl	_	Gloss=sun|LTranslit=be2|SpaceAfter=No
+9	𗱕	𗱕	DET	DET	_	10	det	_	Gloss=all, various|LTranslit=rjur1|SpaceAfter=No
+10	𗤼	𗤼	NOUN	NOUN	_	11	obj	_	Gloss=night, midnight|LTranslit=na1|SpaceAfter=No
+11	𗹗	𗹗	VERB	VERB	_	0	root	_	Gloss=cleaning|LTranslit=go2|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𘚶	𘚶	NOUN	NOUN	_	16	obj	_	Gloss=wind|LTranslit=ljɨ1|SpaceAfter=No
+14	𗜐	𗜐	NOUN	NOUN	_	13	conj	_	Gloss=fire|LTranslit=mǝ̲1|OrigLang=lzh|SpaceAfter=No
+15	𗧹	𗧹	NOUN	NOUN	_	13	conj	_	Gloss=disaster, calamity|LTranslit=ŋjir1|SpaceAfter=No
+16	𗷰	𗷰	VERB	VERB	_	11	parataxis	_	Gloss=refuse, remove|LTranslit=t-|OrigLang=lzh|SpaceAfter=No
+17	𗩱	𗩱	AUX	AUX	_	16	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+18	，	，	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+19	𗫡	𗫡	ADJ	ADJ	_	20	amod	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+20	𗭼	𗭼	NOUN	NOUN	_	23	nsubj	_	Gloss=bright, brilliant, light|LTranslit=swew1|OrigLang=lzh|SpaceAfter=No
+21	𗯨	𗯨	NOUN	NOUN	_	23	obl	_	Gloss=world, the capital of a country|LTranslit=rjur1|OrigLang=lzh|SpaceAfter=No
+22	𘂤	𘂤	ADP	ADP	_	21	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+23	𗮔	𗮔	VERB	VERB	_	16	parataxis	_	Gloss=shine, illuminate|LTranslit=swew1|OrigLang=lzh|SpaceAfter=No
+24	。	。	PUNCT	PUNCT	_	11	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0078
+# text，lzh = 悲體戒雷震，慈意妙大雲，澍甘露法雨，滅除煩惱焰。
+# text = 𗈁𘓷𗬩𗹦𘛻，𗕿𗉣𗤓𘜶𗋑，𘉌𗗘𗹙𗼮𗳒，𗉛𗷫𗟚𘔇𗩱。
+1	𗈁	𗈁	ADJ	ADJ	_	2	amod	_	Gloss=sad, sorrowful|LTranslit=wju̲1|SpaceAfter=No
+2	𘓷	𘓷	NOUN	NOUN	_	21	nsubj	_	Gloss=body|LTranslit=kwǝr1|SpaceAfter=No
+3	𗬩	𗬩	NOUN	NOUN	_	2	nmod	_	Gloss=commandment; (Buddhist) discipline|LTranslit=kie1|SpaceAfter=No
+4	𗹦	𗹦	NOUN	NOUN	_	5	nmod	_	Gloss=sky, heaven|LTranslit=mǝ1|SpaceAfter=No
+5	𘛻	𘛻	NOUN	NOUN	_	3	nmod	_	Gloss=thunder|LTranslit=dji̲1|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗕿	𗕿	ADJ	ADJ	_	8	amod	_	Gloss=loving|LTranslit=njij2|SpaceAfter=No
+8	𗉣	𗉣	NOUN	NOUN	_	2	conj	_	Gloss=meaning, idea|LTranslit=phji1|SpaceAfter=No
+9	𗤓	𗤓	ADJ	ADJ	_	8	amod	_	Gloss=beautiful, wonderful|LTranslit=thjo̲1|SpaceAfter=No
+10	𘜶	𘜶	ADJ	ADJ	_	11	amod	_	Gloss=big, great, large (same as 4456 wild goose)|LTranslit=ljịj2|SpaceAfter=No
+11	𗋑	𗋑	NOUN	NOUN	_	9	nmod	_	Gloss=cloud|LTranslit=djɨ̣j2|OrigLang=lzh|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𘉌	𘉌	NOUN	NOUN	_	21	obl	_	Gloss=dew|LTranslit=zǝr2|SpaceAfter=No
+14	𗗘	𗗘	ADJ	ADJ	_	13	amod	_	Gloss=sweet|LTranslit=ljɨ̣j2|OrigLang=lzh|SpaceAfter=No
+15	𗹙	𗹙	NOUN	NOUN	_	16	nmod	_	Gloss=law|LTranslit=tsji̲r1|OrigLang=lzh|SpaceAfter=No
+16	𗼮	𗼮	NOUN	NOUN	_	13	conj	_	Gloss=rain|LTranslit=dzjụ2|OrigLang=lzh|SpaceAfter=No
+17	𗳒	𗳒	ADP	ADP	_	13	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+18	，	，	PUNCT	PUNCT	_	17	punct	_	SpaceAfter=No
+19	𗉛𗷫	𗉛𗷫	NOUN	NOUN	_	20	nmod	_	Gloss=be depressed, temptation|LTranslit=źjị1|njɨ̲2|SpaceAfter=No
+20	𗟚	𗟚	NOUN	NOUN	_	21	obj	_	Gloss=flame|LTranslit=ljo̲r1|OrigLang=lzh|SpaceAfter=No
+21	𘔇	𘔇	VERB	VERB	_	0	root	_	Gloss=extinguish, put out|LTranslit=lha1|SpaceAfter=No
+22	𗩱	𗩱	AUX	AUX	_	21	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+23	。	。	PUNCT	PUNCT	_	21	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0079
+# text，lzh =  諍訟經官處，怖畏軍陣中，念彼觀音力，眾怨悉退散。
+# text = 𘒪𘒪𗼞𘋩𗫡，𘒏𗸓𗴒𗃬𘂤，𗙏𘝯𘆖𗪺𗖵，𗫔𘂭𗷼𘝪𗈜。
+1	𘒪	𘒪	NOUN	NOUN	_	5	nsubj:pass	_	Gloss=argue, dispute|LTranslit=dju̲1|SpaceAfter=No
+2	𘒪	𘒪	NOUN	NOUN	_	1	conj	_	Gloss=argue, dispute|LTranslit=dju̲1|SpaceAfter=No
+3	𗼞	𗼞	NOUN	NOUN	_	5	obl	_	Gloss=government officer|LTranslit=kow2|SpaceAfter=No
+4	𘋩	𘋩	ADP	ADP	_	3	case	_	Gloss=allative particle to; in|LTranslit=do2|SpaceAfter=No
+5	𗫡	𗫡	VERB	VERB	_	0	root	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𘒏	𘒏	NOUN	NOUN	_	9	obl	_	Gloss=army, weapons, soldier|LTranslit=gia1|OrigLang=lzh|SpaceAfter=No
+8	𗸓	𗸓	NOUN	NOUN	_	7	conj	_	Gloss=enemy, foe|LTranslit=dwǝ1|OrigLang=lzh|SpaceAfter=No
+9	𗴒	𗴒	VERB	VERB	_	5	parataxis	_	Gloss=fear, dread|LTranslit=kjạ1|SpaceAfter=No
+10	𗃬	𗃬	NOUN	NOUN	_	9	obl	_	Gloss=fear, dread|LTranslit=le2|SpaceAfter=No
+11	𘂤	𘂤	ADP	ADP	_	10	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+12	，	，	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
+13	𗙏𘝯	𗙏𘝯	PROPN	PROPN	_	14	obj	_	Gloss=Avalokiteśvara|LTranslit=ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+14	𘆖	𘆖	VERB	VERB	_	15	acl	_	Gloss=ranks, read aloud, chant|LTranslit=tshjɨ̲1|SpaceAfter=No
+15	𗪺	𗪺	NOUN	NOUN	_	20	obl	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+16	𗖵	𗖵	ADP	ADP	_	15	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	，	，	PUNCT	PUNCT	_	16	punct	_	SpaceAfter=No
+18	𗫔	𗫔	ADJ	ADJ	_	19	amod	_	Gloss=many, numerous|LTranslit=.ji1|OrigLang=lzh|SpaceAfter=No
+19	𘂭	𘂭	NOUN	NOUN	_	20	nsubj	_	Gloss=resentment|LTranslit=ljwịj1|SpaceAfter=No
+20	𗷼	𗷼	VERB	VERB	_	9	parataxis	_	Gloss=defeat|LTranslit=nji|SpaceAfter=No
+21	𘝪𗈜	𘝪𗈜	VERB	VERB	_	20	conj	_	Gloss=separate, sever|LTranslit=dźjow1|ka2|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0080
+# text，lzh = 妙音觀世音，梵音海潮音，勝彼世間音，是故須常念。
+# text = 𗤓𗙏𗯨𗙏𘝯，𗏆𗙏𗗚𗐯𗙏，𗯨𘂤𗸒𗠁𗙏，𗏹𗋕𗖵𗆫𗦇。
+1	𗤓	𗤓	ADJ	ADJ	_	2	amod	_	Gloss=beautiful, wonderful|LTranslit=thjo̲1|SpaceAfter=No
+2	𗙏	𗙏	NOUN	NOUN	_	3	nmod	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+3	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	20	nsubj	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+4	，	，	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
+5	𗏆	𗏆	NOUN	NOUN	_	6	nmod	_	Gloss=transliteration; Sanskrit|LTranslit=xiwã1|SpaceAfter=No
+6	𗙏	𗙏	NOUN	NOUN	_	2	conj	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+7	𗗚	𗗚	NOUN	NOUN	_	8	nmod	_	Gloss=sea|LTranslit=ŋjow2|OrigLang=lzh|SpaceAfter=No
+8	𗐯	𗐯	NOUN	NOUN	_	9	nmod	_	Gloss=boundary|LTranslit=kiẹj2|SpaceAfter=No
+9	𗙏	𗙏	NOUN	NOUN	_	2	conj	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𗯨	𗯨	NOUN	NOUN	_	15	nmod	_	Gloss=world, the capital of a country|LTranslit=rjur1|OrigLang=lzh|SpaceAfter=No
+12	𘂤	𘂤	ADP	ADP	_	11	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+13	𗸒	𗸒	ADP	ADP	_	14	fixed	_	Gloss=postposition - comparative particle|LTranslit=su1|SpaceAfter=No
+14	𗠁	𗠁	VERB	VERB	_	15	acl	_	Gloss=victory|LTranslit=bu̲2|OrigLang=lzh|SpaceAfter=No
+15	𗙏	𗙏	NOUN	NOUN	_	2	conj	_	Gloss=sound, voice|LTranslit=ɣiẹ2|OrigLang=lzh|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𗏹	𗏹	ADV	ADV	_	20	advmod	_	Gloss=frequently, often; continually|LTranslit=.ju2|SpaceAfter=No
+18	𗋕	𗋕	PRON	PRON	_	20	obj	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+19	𗖵	𗖵	ADP	ADP	_	18	case	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+20	𗆫	𗆫	VERB	VERB	_	0	root	_	Gloss=|LTranslit=ljɨ̲r2|SpaceAfter=No
+21	𗦇	𗦇	AUX	AUX	_	20	aux	_	Gloss=must|LTranslit=lew2|OrigLang=lzh|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	20	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0081
+# text，lzh =  念念勿生疑，觀世音淨聖，於苦惱死厄，能為作依怙。
+# text = 𗆫𗆫𗆼𘖑𗄈，𗯨𗙏𘝯𗑗𗼃，𘍔𗉛𗈶𗧹𘂤，𗖵𘘢𘏚𗨻𗩱。
+1	𗆫	𗆫	VERB	VERB	_	5	vocative	_	Gloss=|LTranslit=ljɨ̲r2|SpaceAfter=No
+2	𗆫	𗆫	VERB	VERB	_	1	conj	_	Gloss=|LTranslit=ljɨ̲r2|SpaceAfter=No
+3	𗆼	𗆼	NOUN	NOUN	_	5	obj	_	Gloss=doubt, suspect|LTranslit=.jiw2|SpaceAfter=No
+4	𘖑	𘖑	PART	PART	_	5	advmod:neg	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+5	𗄈	𗄈	VERB	VERB	_	0	root	_	Gloss=appear, raise|LTranslit=sjwo1|OrigLang=lzh|SpaceAfter=No
+6	，	，	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
+7	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	19	nsubj	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+8	𗑗	𗑗	ADJ	ADJ	_	7	amod	_	Gloss=clean, quiet|LTranslit=sej1|SpaceAfter=No
+9	𗼃	𗼃	NOUN	NOUN	_	7	nmod	_	Gloss=sage; able and virtuous person|LTranslit=śjɨj2|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𘍔𗉛	𘍔𗉛	NOUN	NOUN	_	19	obl	_	Gloss=vexation|LTranslit=tśjị1|źjị1|SpaceAfter=No
+12	𗈶	𗈶	NOUN	NOUN	_	11	conj	_	Gloss=die|LTranslit=sjɨ1|SpaceAfter=No
+13	𗧹	𗧹	NOUN	NOUN	_	11	conj	_	Gloss=disaster, calamity|LTranslit=ŋjir1|SpaceAfter=No
+14	𘂤	𘂤	ADP	ADP	_	11	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+15	，	，	PUNCT	PUNCT	_	14	punct	_	SpaceAfter=No
+16	𗖵	𗖵	ADV	ADV	_	19	advmod	_	Gloss=preposition; 可作工具助词、原因助词和连词; out of, along|LTranslit=bju1|SpaceAfter=No
+17	𘘢	𘘢	VERB	VERB	_	18	acl	_	Gloss=depend|LTranslit=gjị2|SpaceAfter=No
+18	𘏚	𘏚	NOUN	NOUN	_	19	xcomp	_	Gloss=place; used in possible/impossible constructions|LTranslit=tjị2|OrigLang=lzh|SpaceAfter=No
+19	𗨻	𗨻	VERB	VERB	_	5	parataxis	_	Gloss=do|LTranslit=we2|SpaceAfter=No
+20	𗩱	𗩱	AUX	AUX	_	19	aux	_	Gloss=can, be able to|LTranslit=njwi2|SpaceAfter=No
+21	。	。	PUNCT	PUNCT	_	5	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0082
+# text，lzh = 具一切功德，慈眼視眾生，福聚海無量，是故應頂禮。
+# text = 𗣼𘉐𗄑𗄑𘓳，𗕿𗑉𗳒𘋢𘝯，𗼕𗉋𗗚𘖑𗆄，𘌽𘔼𗵣𘐔𗟭。
+1	𗣼𘉐	𗣼𘉐	NOUN	NOUN	_	3	obj	_	Gloss=service, feat|LTranslit=tśhja2|.iow1|SpaceAfter=No
+2	𗄑𗄑	𗄑𗄑	DET	DET	_	1	det	_	Gloss=all without any exception|LTranslit=ŋowr2|ŋowr2|SpaceAfter=No
+3	𘓳	𘓳	VERB	VERB	_	0	root	_	Gloss=whole, complete|LTranslit=ŋowr2|OrigLang=lzh|SpaceAfter=No
+4	，	，	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
+5	𗕿	𗕿	ADJ	ADJ	_	6	amod	_	Gloss=loving|LTranslit=njij2|SpaceAfter=No
+6	𗑉	𗑉	NOUN	NOUN	_	9	obl	_	Gloss=eye|LTranslit=mej1|OrigLang=lzh|SpaceAfter=No
+7	𗳒	𗳒	ADP	ADP	_	6	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu2|SpaceAfter=No
+8	𘋢	𘋢	NOUN	NOUN	_	9	obj	_	Gloss=Bodhisattva|LTranslit=ńia1|SpaceAfter=No
+9	𘝯	𘝯	VERB	VERB	_	3	parataxis	_	Gloss=lookat, watch, observe|LTranslit=bjo̲1|SpaceAfter=No
+10	，	，	PUNCT	PUNCT	_	9	punct	_	SpaceAfter=No
+11	𗼕	𗼕	NOUN	NOUN	_	12	nsubj	_	Gloss=good fortune|LTranslit=ljo1|SpaceAfter=No
+12	𗉋	𗉋	VERB	VERB	_	9	parataxis	_	Gloss=gather, assemble|LTranslit=tśiow1|OrigLang=lzh|SpaceAfter=No
+13	𗗚	𗗚	NOUN	NOUN	_	12	obl	_	Gloss=sea|LTranslit=ŋjow2|OrigLang=lzh|SpaceAfter=No
+14	𘖑	𘖑	DET	DET	_	15	det	_	Gloss=no, not; no need|LTranslit=mjɨ1|SpaceAfter=No
+15	𗆄	𗆄	NOUN	NOUN	_	13	nmod	_	Gloss=measure, price|LTranslit=pjụ1|OrigLang=lzh|SpaceAfter=No
+16	，	，	PUNCT	PUNCT	_	15	punct	_	SpaceAfter=No
+17	𘌽	𘌽	DET	DET	_	18	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+18	𘔼	𘔼	NOUN	NOUN	_	20	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nio̲w1|OrigLang=lzh|SpaceAfter=No
+19	𗵣	𗵣	AUX	AUX	_	20	aux	_	Gloss=top|LTranslit=tśjiw2|OrigLang=lzh|SpaceAfter=No
+20	𘐔	𘐔	VERB	VERB	_	12	parataxis	_	Gloss=salute, bow|LTranslit=tshwew1|SpaceAfter=No
+21	𗟭	𗟭	AUX	AUX	_	20	aux	_	Gloss=should, ought to, to follow, to need|LTranslit=wo2|OrigLang=lzh|SpaceAfter=No
+22	。	。	PUNCT	PUNCT	_	3	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0083
+# text，lzh = 爾時持地菩薩即從座起。前白佛言。世尊。若有眾生。聞是觀世音菩薩品自在之業。普門示現神通力者。當知是人功德不少。
+# text = 𗉘𘝨𗼻𗧯𘋢𗥤𗶠𘏚𗈪𗢵𗢳𗗙𗙼𗙷𘌽𗍊𘒣𘘥𗯨𗖻𘎤𗓱𘋢𗋐𘌽𗯨𗙏𘝯𘋢𗥤𘄿𘝵𗦳𘝦𘈽𗫡𘗠𗴧𗜓𗾈𗿣𗪺𗓁𗌭𗋕𘓐𘙌𗅆𗣼𘉐𗅋𘓊𘃞𘘥。
+1	𗉘	𗉘	DET	DET	_	2	det	_	Gloss=pronoun|LTranslit=tśhjɨ1|SpaceAfter=No
+2	𘝨	𘝨	NOUN	NOUN	_	15	obl	_	Gloss=time|LTranslit=zjọ2|SpaceAfter=No
+3	𗼻𗧯	𗼻𗧯	PROPN	PROPN	_	4	compound	_	Gloss=Kṣitigarbha|LTranslit=ljɨ̣2|.ji̲j1|OrigLang=sa|SpaceAfter=No
+4	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	15	nsubj	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+5	𗶠	𗶠	NOUN	NOUN	_	6	nmod	_	Gloss=sit|LTranslit=dzu̲2|OrigLang=lzh|SpaceAfter=No
+6	𘏚	𘏚	NOUN	NOUN	_	8	obl	_	Gloss=place; used in possible/impossible constructions|LTranslit=tjị2|OrigLang=lzh|SpaceAfter=No
+7	𗈪	𗈪	ADP	ADP	_	6	case	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+8	𗢵	𗢵	VERB	VERB	_	4	acl	_	Gloss=stand up|LTranslit=wor1|SpaceAfter=No
+9	𗢳	𗢳	PROPN	PROPN	_	15	iobj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+10	𗗙	𗗙	ADP	ADP	_	9	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=.jij1|OrigLang=lzh|SpaceAfter=No
+11	𗙼𗙷	𗙼𗙷	ADV	ADV	_	15	advmod	_	Gloss=before, front, forward|LTranslit=.ju2|rjir2|SpaceAfter=No
+12	𘌽	𘌽	PRON	PRON	_	14	nmod	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+13	𗍊	𗍊	ADP	ADP	_	12	case	_	Gloss=as|LTranslit=sju2|OrigLang=lzh|SpaceAfter=No
+14	𘒣	𘒣	NOUN	NOUN	_	15	obj	_	Gloss=speech, word|LTranslit=dạ2|SpaceAfter=No
+15	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+16	𗯨𗖻	𗯨𗖻	PROPN	PROPN	_	31	vocative	_	Gloss=world-honoured one|LTranslit=rjur1|pjụ1|OrigLang=lzh|SpaceAfter=No
+17	𘎤𗓱	𘎤𗓱	ADV	ADV	_	31	advmod	_	Gloss=if|LTranslit=tjɨ1|tjij1|SpaceAfter=No
+18	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	31	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+19	𘌽	𘌽	DET	DET	_	21	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+20	𗯨𗙏𘝯	𗯨𗙏𘝯	PROPN	PROPN	_	21	compound	_	Gloss=Avalokiteśvara|LTranslit=rjur1|ɣiẹ2|bjo̲1|OrigLang=sa|SpaceAfter=No
+21	𘋢𗥤	𘋢𗥤	NOUN	NOUN	_	22	nmod	_	Gloss=Bodhisattva|LTranslit=ńia1|tsjij2|OrigLang=sa|SpaceAfter=No
+22	𘄿	𘄿	NOUN	NOUN	_	31	obj	_	Gloss=class|LTranslit=tjij1|SpaceAfter=No
+23	𘝵𗦳	𘝵𗦳	NOUN	NOUN	_	24	nmod	_	Gloss=independent|LTranslit=.jij1|dzju2|SpaceAfter=No
+24	𘝦𘈽	𘝦𘈽	NOUN	NOUN	_	22	conj	_	Gloss=behavior, manners, occupation, karma|LTranslit=dźjɨ|sjwɨj1|SpaceAfter=No
+25	𗫡	𗫡	ADJ	ADJ	_	26	amod	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+26	𘗠	𘗠	NOUN	NOUN	_	27	obl	_	Gloss=door, gate, room|LTranslit=ɣa1|SpaceAfter=No
+27	𗴧𗜓	𗴧𗜓	VERB	VERB	_	30	acl	_	Gloss=manifest, display, show, realize|LTranslit=wjị2|śja2|SpaceAfter=No
+28	𗾈	𗾈	ADJ	ADJ	_	30	amod	_	Gloss=worthy, virtue|LTranslit=me̲2|SpaceAfter=No
+29	𗿣	𗿣	NOUN	NOUN	_	30	nmod	_	Gloss=open|LTranslit=mjịjr2|SpaceAfter=No
+30	𗪺	𗪺	NOUN	NOUN	_	22	conj	_	Gloss=power, strength|LTranslit=ɣie1|OrigLang=lzh|SpaceAfter=No
+31	𗓁	𗓁	VERB	VERB	_	15	parataxis	_	Gloss=listen, hear|LTranslit=mji1|SpaceAfter=No
+32	𗌭	𗌭	ADV	ADV	_	39	advmod	_	Gloss=so; conditional conjunction|LTranslit=ku1|SpaceAfter=No
+33	𗋕	𗋕	DET	DET	_	34	det	_	Gloss=other, else, that|LTranslit=thja1|SpaceAfter=No
+34	𘓐	𘓐	NOUN	NOUN	_	37	nmod	_	Gloss=man|LTranslit=dzjwo2|SpaceAfter=No
+35	𘙌	𘙌	ADP	ADP	_	34	case	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kjɨ1|SpaceAfter=No
+36	𗅆	𗅆	ADJ	ADJ	_	37	amod	_	Gloss=calm|LTranslit=djɨj2|SpaceAfter=No
+37	𗣼𘉐	𗣼𘉐	NOUN	NOUN	_	39	nsubj	_	Gloss=service, feat|LTranslit=tśhja2|.iow1|SpaceAfter=No
+38	𗅋	𗅋	PART	PART	_	39	advmod:neg	_	Gloss=no, not|LTranslit=mji1|SpaceAfter=No
+39	𘓊	𘓊	ADJ	ADJ	_	31	parataxis	_	Gloss=few, little, tiny|LTranslit=zjɨ̲r1|OrigLang=lzh|SpaceAfter=No
+40	𘃞	𘃞	PART	PART	_	39	discourse	_	Gloss=one, one-by-one|LTranslit=ljɨ1|SpaceAfter=No
+41	𘘥	𘘥	VERB	VERB	_	15	fixed	_	Gloss=say, call|LTranslit=.jɨ1|SpaceAfter=No
+42	。	。	PUNCT	PUNCT	_	15	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+
+# sent_id = lotus_sutra_0084
+# text，lzh = 佛說是普門品時。眾中八萬四千眾生皆發無等等阿耨多羅三藐三菩提心。
+# text = 𗢳𘌽𗫡𘗠𘄿𘙇𘎪𘝨𗫔𘂤𘉋𗕑𗥃𗡞𘋢𗋐𗄊𘜄𘜄𗤋𗠝𗷧𗸰𗓽𘋅𗴥𘋅𘏞𘛛𗤶𗈪𗄈。
+1	𗢳	𗢳	PROPN	PROPN	_	7	nsubj	_	Gloss=Buddha|LTranslit=tha1|SpaceAfter=No
+2	𘌽	𘌽	DET	DET	_	5	det	_	Gloss=this|LTranslit=thjɨ2|SpaceAfter=No
+3	𗫡	𗫡	ADJ	ADJ	_	4	amod	_	Gloss=arrive|LTranslit=njɨ2|SpaceAfter=No
+4	𘗠	𘗠	NOUN	NOUN	_	5	nmod	_	Gloss=door, gate, room|LTranslit=ɣa1|SpaceAfter=No
+5	𘄿	𘄿	NOUN	NOUN	_	7	obj	_	Gloss=class|LTranslit=tjij1|SpaceAfter=No
+6	𘙇	𘙇	ADV	ADV	_	7	advmod	_	Gloss=verb prefix directional marker - direction not found|LTranslit=rjɨr2|SpaceAfter=No
+7	𘎪	𘎪	VERB	VERB	_	22	acl	_	Gloss=speak, talk, say|LTranslit=tshji̲j1|SpaceAfter=No
+8	𘝨	𘝨	NOUN	NOUN	_	7	obl	_	Gloss=time|LTranslit=zjọ2|SpaceAfter=No
+9	𗫔	𗫔	NOUN	NOUN	_	15	nmod	_	Gloss=many, numerous|LTranslit=.ji1|OrigLang=lzh|SpaceAfter=No
+10	𘂤	𘂤	ADP	ADP	_	9	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=kha1|OrigLang=lzh|SpaceAfter=No
+11	𘉋	𘉋	NUM	NUM	_	12	nummod	_	Gloss=eight|LTranslit=.jar1|SpaceAfter=No
+12	𗕑	𗕑	NUM	NUM	_	13	nummod	_	Gloss=ten thousand|LTranslit=khjɨ2|OrigLang=lzh|SpaceAfter=No
+13	𗥃	𗥃	NUM	NUM	_	14	nummod	_	Gloss=four|LTranslit=ljɨr1|SpaceAfter=No
+14	𗡞	𗡞	NUM	NUM	_	15	nummod	_	Gloss=thousand|LTranslit=tụ1|SpaceAfter=No
+15	𘋢𗋐	𘋢𗋐	NOUN	NOUN	_	22	nsubj	_	Gloss=all lives|LTranslit=ńia1|tśhju1|SpaceAfter=No
+16	𗄊	𗄊	ADV	ADV	_	22	advmod	_	Gloss=all|LTranslit=zji2|OrigLang=lzh|SpaceAfter=No
+17	𘜄𘜄𗤋	𘜄𘜄𗤋	ADJ	ADJ	_	20	amod	_	Gloss=incomparable, unequal, without parallel|LTranslit=ŋwer1|ŋwer1|mjij1|SpaceAfter=No
+18	𗠝𗷧𗸰𗓽	𗠝𗷧𗸰𗓽	ADJ	ADJ	_	20	amod	_	Gloss=Anuttara|LTranslit=.ja|du̲2|tow1|lo1|OrigLang=sa|SpaceAfter=No
+19	𘋅𗴥𘋅𘏞𘛛	𘋅𗴥𘋅𘏞𘛛	NOUN	NOUN	_	22	nmod	_	Gloss=Samyakṣaṃbodhi|LTranslit=sã1|mjiw2|sã1|po1|tjɨj1|OrigLang=sa|SpaceAfter=No
+20	𗤶	𗤶	NOUN	NOUN	_	22	obj	_	Gloss=heart, mind|LTranslit=nji̲j1|OrigLang=lzh|SpaceAfter=No
+21	𗈪	𗈪	PART	PART	_	22	discourse	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=.ja|SpaceAfter=No
+22	𗄈	𗄈	VERB	VERB	_	0	root	_	Gloss=appear, raise|LTranslit=sjwo1|OrigLang=lzh|SpaceAfter=No
+23	。	。	PUNCT	PUNCT	_	22	punct	_	Gloss=|LTranslit=|SpaceAfter=No
+

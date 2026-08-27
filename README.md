@@ -1,4 +1,4 @@
-# LRMT: Linguistic Resources for Manuscript Texts
+# Linguistic Resources for Manuscript Tangut
 
 Welcome to our Tangut repository! 
 

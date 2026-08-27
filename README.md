@@ -12,8 +12,6 @@ We warmly welcome researchers interested in Tangut and computational linguistics
 - **`other_data/`**: Public avaliable data from other scholars. (see below)
 
 ## Useful Public Tangut Resources & Datasets
-Here is a curated list of external, publicly available Tangut digital resources and databases collected for our research:
-
 * **[open-tangut](https://github.com/imlooh/open-tangut)**: A JSON schema + multilingual (EN, JA, ZH) JSON dictionary encompassing the Tangut Unicode Block, scraped from CCAMC and Wiktionary.
 * **[tangut-pronunciation-db](https://github.com/semakosa/tangut-pronunciation-db)**: Tangut pronunciation database maintained by Gong Xun (University of Vienna).
 * **[tangut-text](https://github.com/tinbreaker/tangut-text)**: A repository for collecting digitalized Tangut texts.

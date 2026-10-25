@@ -71,7 +71,7 @@ Attach a case marker to the head of the noun phrase it marks using `case`. Use `
 
 ## 3. Personal Names and Titles: Core Conventions
 
-| Construction | Internal structure | Bearer of the phrase's external dependency relation |
+| Construction | Internal structure | Receiver of the phrase's external dependency |
 |---|---|---|
 | A personal name without a title, such as Akṣayamati, Avalokiteśvara, Dharanīṃdhara, Sudhana, or Samantabhadra | The first component is `PROPN`; all remaining `PROPN` components attach directly to it with `flat` | The first name component |
 | Personal name + a single nominal title | The first name component attaches to the title with `compound`; the remaining name components still attach to the first with `flat` | The nominal title |

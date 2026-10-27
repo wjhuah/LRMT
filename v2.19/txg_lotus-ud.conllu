@@ -60,7 +60,7 @@
 36	𗙏	𗙏	PROPN	PROPN	_	35	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 37	𘝯	𘝯	PROPN	PROPN	_	35	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
 38	𘘥	𘘥	VERB	VERB	_	23	parataxis	_	Gloss=say, call|LTranslit=yə¹|SpaceAfter=No
-39	𘃞	𘃞	PART	PART	_	38	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+39	𘃞	𘃞	PART	PART	_	38	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 40	。	。	PUNCT	PUNCT	_	23	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0003
@@ -206,7 +206,7 @@
 20	𗿠	𗿠	NOUN	NOUN	_	9	conj	_	Gloss=amber|LTranslit=tświw²|SpaceAfter=No
 21	𗊏	𗊏	NOUN	NOUN	_	22	compound	_	Gloss=pearl|LTranslit=nwih²|SpaceAfter=No
 22	𗒘	𗒘	NOUN	NOUN	_	9	conj	_	Gloss=true, real, authentic|LTranslit=ġhae̱¹|SpaceAfter=No
-23	𘆄	𘆄	CCONJ	CCONJ	_	9	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+23	𘆄	𘆄	PRON	PRON	_	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 24	𘏨	𘏨	NOUN	NOUN	_	9	conj	_	Gloss=treasure|LTranslit=llaə̱h¹|SpaceAfter=No
 25	𗴿	𗴿	VERB	VERB	_	30	advcl	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
 26	𘔼	𘔼	SCONJ	SCONJ	_	25	mark	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
@@ -252,7 +252,7 @@
 17	𗋕	𗋕	DET	DET	PronType=Ind	19	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 18	𗱕	𗱕	DET	DET	PronType=Tot	19	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 19	𘓐	𘓐	NOUN	NOUN	_	26	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-20	𘆄	𘆄	CCONJ	CCONJ	_	19	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+20	𘆄	𘆄	PRON	PRON	_	19	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 21	𗓽𗽇	𗓽𗽇	NOUN	NOUN	_	22	compound	_	Gloss=Rakshasa|LTranslit=lo̱¹-tṣhaa̱¹|OrigLang=sa|SpaceAfter=No
 22	𗢛	𗢛	NOUN	NOUN	_	23	nmod	_	Gloss=ghost, spirit|LTranslit=yu¹|SpaceAfter=No
 23	𗧹	𗧹	NOUN	NOUN	_	26	obl	_	Gloss=disaster, calamity|LTranslit=rgir¹|SpaceAfter=No
@@ -269,7 +269,7 @@
 34	𗙏	𗙏	PROPN	PROPN	_	33	flat	_	Gloss=sound, voice|LTranslit=ġhai̱h²|SpaceAfter=No
 35	𘝯	𘝯	PROPN	PROPN	_	33	flat	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
 36	𘘥	𘘥	VERB	VERB	_	26	parataxis	_	Gloss=say, call|LTranslit=yə¹|SpaceAfter=No
-37	𘃞	𘃞	PART	PART	_	36	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+37	𘃞	𘃞	PART	PART	_	36	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 38	。	。	PUNCT	PUNCT	_	26	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0008
@@ -348,7 +348,7 @@
 31	𗱕	𗱕	DET	DET	PronType=Tot	32	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 32	𗢛	𗢛	NOUN	NOUN	_	39	nsubj	_	Gloss=ghost, spirit|LTranslit=yu¹|SpaceAfter=No
 33	𘊄	𘊄	ADJ	ADJ	_	32	amod	_	Gloss=evil, vice|LTranslit=ṇoṃ²|SpaceAfter=No
-34	𘆄	𘆄	CCONJ	CCONJ	_	32	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+34	𘆄	𘆄	PRON	PRON	_	32	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 35	𗋕	𗋕	DET	DET	PronType=Ind	36	det	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 36	𘓐	𘓐	NOUN	NOUN	_	37	nmod	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 37	𗏣	𗏣	NOUN	NOUN	_	39	obl	_	Gloss=in the direction of, towards; side|LTranslit=rer²|SpaceAfter=No
@@ -465,7 +465,7 @@
 15	𗃬	𗃬	VERB	VERB	_	8	parataxis	_	Gloss=fear, dread|LTranslit=lli̱²|SpaceAfter=No
 16	𗐱	𗐱	ADV	ADV	_	15	advmod	_	Gloss=collective plural indicator|LTranslit=ni²|SpaceAfter=No
 17	𗍳	𗍳	PRON	PRON	PronType=Prs	29	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-18	𘆄	𘆄	PART	PART	_	17	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+18	𘆄	𘆄	PRON	PRON	_	17	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 19	𗤶	𗤶	NOUN	NOUN	_	29	obl	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 20	𗨳	𗨳	ADJ	ADJ	_	19	amod	_	Gloss=return|LTranslit=tih¹|SpaceAfter=No
 21	𗳒	𗳒	ADP	ADP	_	19	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
@@ -490,7 +490,7 @@
 40	𘈈	𘈈	VERB	VERB	_	29	parataxis	_	Gloss=grant, bestow|LTranslit=mmi¹|SpaceAfter=No
 41	𗩱	𗩱	AUX	AUX	_	40	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 42	𗍳	𗍳	PRON	PRON	PronType=Prs	49	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-43	𘆄	𘆄	PART	PART	_	42	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+43	𘆄	𘆄	PRON	PRON	_	42	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 44	𘎤	𘎤	ADV	ADV	_	45	compound	_	Gloss=if, supposing; one|LTranslit=tə¹|SpaceAfter=No
 45	𗓱	𗓱	ADV	ADV	_	49	advmod	_	Gloss=if, perhaps|LTranslit=te¹|SpaceAfter=No
 46	𗳱	𗳱	PRON	PRON	PronType=Prs	48	nmod	_	Gloss=it, he (third person pronoun)|LTranslit=tha²|SpaceAfter=No
@@ -519,7 +519,7 @@
 1	𗱕	𗱕	DET	DET	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗗥	𗗥	NOUN	NOUN	_	3	nmod	_	Gloss=market, sell, marry|LTranslit=źi²|SpaceAfter=No
 3	𗇋	𗇋	NOUN	NOUN	_	12	nsubj	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
-4	𘆄	𘆄	CCONJ	CCONJ	_	3	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	PRON	_	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	𗋕	𗋕	PRON	PRON	PronType=Ind	6	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
 6	𘒣	𘒣	NOUN	NOUN	_	7	obj	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
 7	𗓁	𗓁	VERB	VERB	_	12	advcl	_	Gloss=listen, hear|LTranslit=mi¹|SpaceAfter=No
@@ -571,7 +571,7 @@
 20	𗍊	𗍊	ADP	ADP	_	19	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 21	𗾟	𗾟	ADJ	ADJ	_	22	compound	_	Gloss=vast, wide, extensive|LTranslit=vwa̱h²|SpaceAfter=No
 22	𘜶	𘜶	ADJ	ADJ	_	8	parataxis	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
-23	𘃞	𘃞	PART	PART	_	22	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+23	𘃞	𘃞	PART	PART	_	22	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 24	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0015
@@ -663,7 +663,7 @@
 22	𗭩	𗭩	NOUN	NOUN	_	23	compound	_	Gloss=foolish, stupid|LTranslit=vwi̱h¹|SpaceAfter=No
 23	𘚠	𘚠	NOUN	NOUN	_	24	obj	_	Gloss=foolish, stupid|LTranslit=lə?|SpaceAfter=No
 24	𗈜	𗈜	VERB	VERB	_	0	root	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
-25	𘃞	𘃞	PART	PART	_	24	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+25	𘃞	𘃞	PART	PART	_	24	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 26	。	。	PUNCT	PUNCT	_	24	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0018
@@ -681,7 +681,7 @@
 9	𗥤	𗥤	VERB	VERB	_	8	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 10	𘌽	𘌽	PRON	PRON	PronType=Dem	16	nmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 11	𗍊	𗍊	ADP	ADP	_	10	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-12	𘆄	𘆄	CCONJ	CCONJ	_	10	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+12	𘆄	𘆄	PRON	PRON	_	10	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 13	𘜶	𘜶	ADJ	ADJ	_	16	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 14	𘉡	𘉡	ADJ	ADJ	_	16	amod	_	Gloss=power, might|LTranslit=puh¹|SpaceAfter=No
 15	𗾈	𗾈	ADJ	ADJ	_	16	amod	_	Gloss=worthy, virtue|LTranslit=mmi̱²|SpaceAfter=No
@@ -764,7 +764,7 @@
 20	𘓐	𘓐	NOUN	NOUN	_	21	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 21	𘟠	𘟠	VERB	VERB	_	12	acl	_	Gloss=love, like|LTranslit=dzu̱¹|SpaceAfter=No
 22	𗼋	𗼋	VERB	VERB	_	21	conj	_	Gloss=respectful, reverent|LTranslit=dzwəh¹|SpaceAfter=No
-23	𘃞	𘃞	PART	PART	_	21	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+23	𘃞	𘃞	PART	PART	_	21	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 24	。	。	PUNCT	PUNCT	_	13	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0021
@@ -865,7 +865,7 @@
 28	𗈪	𗈪	ADJ	ADJ	_	29	amod	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 29	𘗽	𘗽	NOUN	NOUN	_	35	obl	_	Gloss=longevity; life|LTranslit=zoh²|SpaceAfter=No
 30	𗋕	𗋕	DET	DET	PronType=Ind	29	nmod	_	Gloss=other, else, that|LTranslit=tha¹|SpaceAfter=No
-31	𘆄	𘆄	CCONJ	CCONJ	_	30	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+31	𘆄	𘆄	PRON	PRON	_	30	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 32	𗗙	𗗙	ADP	ADP	_	30	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 33	𗏺	𗏺	VERB	VERB	_	17	conj	_	Gloss=auxiliary verb; verb prefix optative marker - direction not found|LTranslit=rer²|SpaceAfter=No
 34	𗴿	𗴿	VERB	VERB	_	35	compound	_	Gloss=pray|LTranslit=kuh¹|SpaceAfter=No
@@ -892,7 +892,7 @@
 55	𗈪	𗈪	PART	PART	_	57	discourse	_	Gloss=a, one, big; verb prefix directional marker - upwards|LTranslit=a¹|SpaceAfter=No
 56	𗉘	𗉘	PART	PART	_	57	discourse	_	Gloss=pronoun|LTranslit=tśhə¹|SpaceAfter=No
 57	𗮅	𗮅	ADJ	ADJ	_	0	root	_	Gloss=many, much, more|LTranslit=re̱r²|SpaceAfter=No
-58	𘃞	𘃞	PART	PART	_	57	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+58	𘃞	𘃞	PART	PART	_	57	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 59	。	。	PUNCT	PUNCT	_	57	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0025
@@ -904,7 +904,7 @@
 3	𗋃	𗋃	PROPN	PROPN	_	1	flat	_	Gloss=limit, end|LTranslit=si¹|SpaceAfter=No
 4	𘒣	𘒣	VERB	VERB	_	0	root	_	Gloss=speech, word|LTranslit=da̱h²|SpaceAfter=No
 5	𗮅	𗮅	ADJ	ADJ	_	4	parataxis	_	Gloss=many, much, more|LTranslit=re̱r²|SpaceAfter=No
-6	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+6	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	𗯨	𗯨	NOUN	NOUN	_	8	compound	_	Gloss=world; the capital of a country|LTranslit=rur¹|SpaceAfter=No
 8	𗖻	𗖻	NOUN	NOUN	_	5	vocative	_	Gloss=respect|LTranslit=puh¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
@@ -991,7 +991,7 @@
 23	𘞙	𘞙	NOUN	NOUN	_	24	compound	_	Gloss=profit, benefit|LTranslit=geh¹|SpaceAfter=No
 24	𗼜	𗼜	NOUN	NOUN	_	25	obj	_	Gloss=interests, benefit|LTranslit=ġhai̱²|SpaceAfter=No
 25	𘜘	𘜘	VERB	VERB	_	0	root	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
-26	𘃞	𘃞	PART	PART	_	25	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+26	𘃞	𘃞	PART	PART	_	25	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 27	。	。	PUNCT	PUNCT	_	25	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0028
@@ -1539,7 +1539,7 @@
 10	𘓐	𘓐	NOUN	NOUN	_	2	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 11	𗅋	𗅋	DET	DET	PronType=Neg	12	det	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 12	𘓐	𘓐	NOUN	NOUN	_	2	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-13	𘆄	𘆄	CCONJ	CCONJ	_	2	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+13	𘆄	𘆄	PRON	PRON	_	2	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 14	𘛽	𘛽	NOUN	NOUN	_	17	obl	_	Gloss=body|LTranslit=lluh²|SpaceAfter=No
 15	𗳒	𗳒	ADP	ADP	_	14	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
 16	𗌗	𗌗	VERB	VERB	_	17	compound	_	Gloss=corss?, ferry|LTranslit=gu¹|SpaceAfter=No
@@ -1627,7 +1627,7 @@
 32	𘌽	𘌽	PRON	PRON	PronType=Dem	47	obl	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 33	𘔼	𘔼	ADP	ADP	_	32	case	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 34	𗍳	𗍳	PRON	PRON	PronType=Prs	47	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-35	𘆄	𘆄	PART	PART	_	34	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+35	𘆄	𘆄	PRON	PRON	_	34	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 36	𗤶	𗤶	NOUN	NOUN	_	47	obl	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 37	𗨳	𗨳	ADJ	ADJ	_	36	amod	_	Gloss=return|LTranslit=tih¹|SpaceAfter=No
 38	𗳒	𗳒	ADP	ADP	_	36	case	_	Gloss=auxiliary word - instrumental particle|LTranslit=ŋwu̱²|SpaceAfter=No
@@ -1680,7 +1680,7 @@
 31	𗇋	𗇋	NOUN	NOUN	_	33	xcomp	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
 32	𘟂	𘟂	AUX	AUX	_	31	cop	_	Gloss=right; to be (LFW08)|LTranslit=ŋwu̱²|SpaceAfter=No
 33	𘘥	𘘥	VERB	VERB	_	0	root	_	Gloss=say, call|LTranslit=yə¹|SpaceAfter=No
-34	𘃞	𘃞	PART	PART	_	33	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+34	𘃞	𘃞	PART	PART	_	33	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 35	。	。	PUNCT	PUNCT	_	33	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0050
@@ -1787,7 +1787,7 @@
 13	𘜶	𘜶	ADJ	ADJ	_	14	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 14	𗇋	𗇋	NOUN	NOUN	_	25	vocative	_	Gloss=S/A nominalizer, usually human; -er; the one/those who ...; s/he who ...|LTranslit=rmer²|SpaceAfter=No
 15	𗧓	𗧓	PRON	PRON	PronType=Prs	19	obj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-16	𘆄	𘆄	PART	PART	_	15	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+16	𘆄	𘆄	PRON	PRON	_	15	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 17	𗗙	𗗙	ADP	ADP	_	15	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 18	𗕿	𗕿	VERB	VERB	_	19	compound	_	Gloss=loving|LTranslit=ne²|SpaceAfter=No
 19	𘖛	𘖛	VERB	VERB	_	25	advcl	_	Gloss=kind, benevolence|LTranslit=śoṃ¹|SpaceAfter=No
@@ -1836,7 +1836,7 @@
 29	𘓐	𘓐	NOUN	NOUN	_	15	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 30	𗅋	𗅋	DET	DET	PronType=Neg	31	det	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 31	𘓐	𘓐	NOUN	NOUN	_	15	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-32	𘆄	𘆄	CCONJ	CCONJ	_	15	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+32	𘆄	𘆄	PRON	PRON	_	15	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 33	𗗙	𗗙	ADP	ADP	_	15	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 34	𗕿	𗕿	VERB	VERB	_	35	compound	_	Gloss=loving|LTranslit=ne²|SpaceAfter=No
 35	𘖛	𘖛	VERB	VERB	_	40	advcl	_	Gloss=kind, benevolence|LTranslit=śoṃ¹|SpaceAfter=No
@@ -1869,7 +1869,7 @@
 14	𘓐	𘓐	NOUN	NOUN	_	9	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 15	𗅋	𗅋	DET	DET	PronType=Neg	16	det	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 16	𘓐	𘓐	NOUN	NOUN	_	9	conj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-17	𘆄	𘆄	CCONJ	CCONJ	_	9	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+17	𘆄	𘆄	PRON	PRON	_	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 18	𗗙	𗗙	ADP	ADP	_	9	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 19	𗕿	𗕿	VERB	VERB	_	20	compound	_	Gloss=loving|LTranslit=ne²|SpaceAfter=No
 20	𘖛	𘖛	VERB	VERB	_	26	advcl	_	Gloss=kind, benevolence|LTranslit=śoṃ¹|SpaceAfter=No
@@ -1928,7 +1928,7 @@
 20	𗐯	𗐯	NOUN	NOUN	_	22	obl	_	Gloss=boundary|LTranslit=qae̱h²|SpaceAfter=No
 21	𗅁	𗅁	ADP	ADP	_	20	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
 22	𘕂	𘕂	VERB	VERB	_	0	root	_	Gloss=go, parade|LTranslit=dźe¹|SpaceAfter=No
-23	𘃞	𘃞	PART	PART	_	22	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+23	𘃞	𘃞	PART	PART	_	22	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 24	。	。	PUNCT	PUNCT	_	22	punct	_	Orig=_
 
 # sent_id = lotus_sutra_0056
@@ -2312,7 +2312,7 @@
 5	，	，	PUNCT	PUNCT	_	4	punct	_	Orig=_|SpaceAfter=No
 6	𗱕	𗱕	DET	DET	PronType=Tot	7	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 7	𗢛	𗢛	NOUN	NOUN	_	2	conj	_	Gloss=ghost, spirit|LTranslit=yu¹|SpaceAfter=No
-8	𘆄	𘆄	CCONJ	CCONJ	_	2	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+8	𘆄	𘆄	PRON	PRON	_	2	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 9	𗑠	𗑠	ADV	ADV	_	10	advmod	_	Gloss=same, and; comitative particle with|LTranslit=rir²|SpaceAfter=No
 10	𗄛	𗄛	VERB	VERB	_	20	advcl	_	Gloss=meet|LTranslit=rbi̱r²|SpaceAfter=No
 11	，	，	PUNCT	PUNCT	_	10	punct	_	Orig=_|SpaceAfter=No
@@ -2762,7 +2762,7 @@
 50	𘉐	𘉐	NOUN	NOUN	_	52	nsubj	_	Gloss=contribution|LTranslit=yuo¹|SpaceAfter=No
 51	𗅋	𗅋	PART	PART	Polarity=Neg	52	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 52	𘓊	𘓊	ADJ	ADJ	_	18	parataxis	_	Gloss=few, little, tiny|LTranslit=rzər¹|SpaceAfter=No
-53	𘃞	𘃞	PART	PART	_	52	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+53	𘃞	𘃞	PART	PART	_	52	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 54	𘘥	𘘥	VERB	VERB	_	18	parataxis	_	Gloss=say, call|LTranslit=yə¹|SpaceAfter=No
 55	。	。	PUNCT	PUNCT	_	18	punct	_	Orig=_
 

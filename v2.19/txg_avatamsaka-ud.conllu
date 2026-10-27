@@ -177,7 +177,7 @@
 2	𗾖	𗾖	NOUN	NOUN	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 3	𘈷	𘈷	NOUN	NOUN	_	14	vocative	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
 4	𗧓	𗧓	PRON	PRON	PronType=Prs	14	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-5	𘆄	𘆄	PART	PART	_	4	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𘆄	𘆄	PRON	PRON	_	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 6	𘋢	𘋢	NOUN	NOUN	_	12	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 7	𗥤	𗥤	VERB	VERB	_	6	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 8	𗗙	𗗙	ADP	ADP	_	6	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
@@ -212,7 +212,7 @@
 17	𘔼	𘔼	NOUN	NOUN	_	19	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 18	𗖵	𗖵	ADP	ADP	_	17	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 19	𗄈	𗄈	VERB	VERB	_	15	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-20	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+20	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 21	。	。	PUNCT	PUNCT	_	15	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0011
@@ -231,7 +231,7 @@
 10	𗷫	𗷫	NOUN	NOUN	_	8	conj	_	Gloss=annoyed, worried|LTranslit=nnə²|SpaceAfter=No
 11	𗖵	𗖵	ADP	ADP	_	8	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 12	𗄈	𗄈	VERB	VERB	_	7	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0012
@@ -249,13 +249,13 @@
 9	𗤋	𗤋	DET	DET	PronType=Neg	8	det	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 10	𘟣	𘟣	NOUN	NOUN	_	8	conj	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
 11	𘟠	𘟠	NOUN	NOUN	_	8	conj	_	Gloss=love, like|LTranslit=dzu̱¹|SpaceAfter=No
-12	𘆄	𘆄	PART	PART	_	11	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+12	𘆄	𘆄	PRON	PRON	_	11	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 13	𘐡	𘐡	NOUN	NOUN	_	17	obl	_	Gloss=order, sequence|LTranslit=ntśə¹|SpaceAfter=No
 14	𗖵	𗖵	ADP	ADP	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 15	𗖵	𗖵	ADP	ADP	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 16	𘔼	𘔼	NOUN	NOUN	_	17	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 17	𗄈	𗄈	VERB	VERB	_	7	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-18	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+18	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 19	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0013
@@ -270,14 +270,14 @@
 6	𗫻	𗫻	VERB	VERB	_	0	root	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 7	𗧓	𗧓	PRON	PRON	PronType=Prs	8	nmod	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 8	𘟀	𘟀	NOUN	NOUN	_	13	nmod	_	Gloss=see|LTranslit=le²|SpaceAfter=No
-9	𘆄	𘆄	PART	PART	_	8	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+9	𘆄	𘆄	PRON	PRON	_	8	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 10	𘋠	𘋠	ADJ	ADJ	_	11	compound	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
 11	𘋠	𘋠	ADJ	ADJ	_	13	amod	_	Gloss=kind, sort, type|LTranslit=mə̱²|SpaceAfter=No
 12	𘂫	𘂫	ADJ	ADJ	_	13	amod	_	Gloss=change, become|LTranslit=vəh¹|SpaceAfter=No
 13	𘔼	𘔼	NOUN	NOUN	_	15	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 14	𗖵	𗖵	ADP	ADP	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 15	𗄈	𗄈	VERB	VERB	_	6	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0014
@@ -293,13 +293,13 @@
 7	𗫻	𗫻	VERB	VERB	_	0	root	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 8	𗧓	𗧓	PRON	PRON	PronType=Prs	9	nmod	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
 9	𘟀	𘟀	NOUN	NOUN	_	13	nmod	_	Gloss=see|LTranslit=le²|SpaceAfter=No
-10	𘆄	𘆄	PART	PART	_	9	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+10	𘆄	𘆄	PRON	PRON	_	9	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 11	𘝅	𘝅	NOUN	NOUN	_	13	nmod	_	Gloss=reversal|LTranslit=ntśhə²|SpaceAfter=No
 12	𗉷	𗉷	ADJ	ADJ	_	11	amod	_	Gloss=inverted, reverse|LTranslit=ntśhu²|SpaceAfter=No
 13	𘄡	𘄡	NOUN	NOUN	_	15	obl	_	Gloss=wisdom|LTranslit=seh²|SpaceAfter=No
 14	𗖵	𗖵	ADP	ADP	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 15	𗄈	𗄈	VERB	VERB	_	7	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0015
@@ -327,7 +327,7 @@
 19	𗷎	𗷎	NOUN	NOUN	_	21	obl	_	Gloss=separate, difference|LTranslit=rqa̱r²|SpaceAfter=No
 20	𗖵	𗖵	ADP	ADP	_	19	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 21	𗄈	𗄈	VERB	VERB	_	15	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-22	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+22	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 23	。	。	PUNCT	PUNCT	_	15	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0016
@@ -351,7 +351,7 @@
 15	𗤋	𗤋	DET	DET	PronType=Neg	14	det	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 16	𗖵	𗖵	ADP	ADP	_	8	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 17	𗜓	𗜓	VERB	VERB	_	7	advcl	_	Gloss=appear, show|LTranslit=śa²|SpaceAfter=No
-18	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+18	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 19	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0017
@@ -373,7 +373,7 @@
 13	𗷎	𗷎	NOUN	NOUN	_	15	obl	_	Gloss=separate, difference|LTranslit=rqa̱r²|SpaceAfter=No
 14	𗖵	𗖵	ADP	ADP	_	13	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 15	𗵆	𗵆	VERB	VERB	_	9	advcl	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	9	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0018
@@ -402,7 +402,7 @@
 20	𗹙	𗹙	NOUN	NOUN	_	22	obl	_	Gloss=law|LTranslit=rtser¹|SpaceAfter=No
 21	𗖵	𗖵	ADP	ADP	_	20	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 22	𗵆	𗵆	VERB	VERB	_	7	advcl	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
-23	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+23	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 24	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0019
@@ -432,7 +432,7 @@
 21	𘂫	𘂫	NOUN	NOUN	_	23	obl	_	Gloss=change, become|LTranslit=vəh¹|SpaceAfter=No
 22	𗖵	𗖵	ADP	ADP	_	21	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 23	𗵆	𗵆	VERB	VERB	_	18	advcl	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
-24	𘃞	𘃞	PART	PART	_	18	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+24	𘃞	𘃞	PART	PART	_	18	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 25	𘟀	𘟀	VERB	VERB	_	0	root	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 26	𘙌	𘙌	ADV	ADV	_	25	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
 27	。	。	PUNCT	PUNCT	_	25	punct	_	Orig=_
@@ -462,7 +462,7 @@
 2	𗾖	𗾖	NOUN	NOUN	_	3	nmod	_	Gloss=man, male|LTranslit=rgor¹|SpaceAfter=No
 3	𘈷	𘈷	NOUN	NOUN	_	14	vocative	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
 4	𗧓	𗧓	PRON	PRON	PronType=Prs	7	nmod	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-5	𘆄	𘆄	PART	PART	_	4	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𘆄	𘆄	PRON	PRON	_	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 6	𗍫	𗍫	NUM	NUM	_	7	nummod	_	Gloss=two|LTranslit=nnə¹|SpaceAfter=No
 7	𘓐	𘓐	NOUN	NOUN	_	14	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 8	𗧀	𗧀	ADV	ADV	_	14	advmod	_	Gloss=only, see|LTranslit=li̱w¹|SpaceAfter=No
@@ -493,7 +493,7 @@
 12	𘃽	𘃽	VERB	VERB	_	21	advcl	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
 13	𗩱	𗩱	AUX	AUX	_	12	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
 14	𗧓	𗧓	PRON	PRON	PronType=Prs	21	nsubj	_	Gloss=I, we (informal)|LTranslit=ŋa̱²|SpaceAfter=No
-15	𘆄	𘆄	CCONJ	CCONJ	_	14	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+15	𘆄	𘆄	PRON	PRON	_	14	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 16	𗳱	𗳱	PRON	PRON	PronType=Prs	20	nmod	_	Gloss=it, he (third person pronoun)|LTranslit=tha²|SpaceAfter=No
 17	𗗙	𗗙	ADP	ADP	_	16	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 18	𗣼	𗣼	NOUN	NOUN	_	19	compound	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
@@ -596,7 +596,7 @@
 # text_en = that has been produced from the karmic fruition of the bodhisattva’s roots of goodness, that has been produced from the bodhisattva’s power of mindfulness, power of vows, powers of sovereign mastery, and powers of the spiritual
 # text = 𘌽𘆄𗄊𘋢𗥤𗩴𗺉𗫴𗱱𗖵𗈪𗄈𗭪𘋢𗥤𗆫𗪺𘓞𗪺𘝵𗦳𗪺𗾈𗿣𗪺𗖵𗈪𗄈𗭪𘋢𗥤𗩴𗺉𗼄𘕤𗖵𗈪𗄈𗭪𘋢𗥤𗗙𗣼𗼕𘄡𘟛𗖵𗈪𗄈𗭪。
 1	𘌽	𘌽	PRON	PRON	PronType=Dem	12	nsubj	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
-2	𘆄	𘆄	PART	PART	_	1	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+2	𘆄	𘆄	PRON	PRON	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 3	𗄊	𗄊	ADV	ADV	_	12	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 4	𘋢	𘋢	NOUN	NOUN	_	7	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 5	𗥤	𗥤	VERB	VERB	_	4	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
@@ -984,7 +984,7 @@
 # text = 𘝶𗦜𘃞。
 1	𘝶	𘝶	NOUN	NOUN	_	2	obj	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 2	𗦜	𗦜	VERB	VERB	_	0	root	_	Gloss=say|LTranslit=so²|SpaceAfter=No
-3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 4	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0035
@@ -1287,7 +1287,7 @@
 # text = 𘝶𗦜𘃞。
 1	𘝶	𘝶	NOUN	NOUN	_	2	obj	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 2	𗦜	𗦜	VERB	VERB	_	0	root	_	Gloss=say|LTranslit=so²|SpaceAfter=No
-3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 4	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0042
@@ -2459,7 +2459,7 @@
 # text = 𘝶𗦜𘃞。
 1	𘝶	𘝶	NOUN	NOUN	_	2	obj	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 2	𗦜	𗦜	VERB	VERB	_	0	root	_	Gloss=say|LTranslit=so²|SpaceAfter=No
-3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 4	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0066
@@ -2833,7 +2833,7 @@
 54	𗼜	𗼜	NOUN	NOUN	_	55	nmod	_	Gloss=interests, benefit|LTranslit=ġhai̱²|SpaceAfter=No
 55	𘅣	𘅣	NOUN	NOUN	_	56	obj	_	Gloss=matter, affair, thing|LTranslit=da̱h²|SpaceAfter=No
 56	𘃡	𘃡	VERB	VERB	_	9	conj	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
-57	𘃞	𘃞	PART	PART	_	56	advmod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+57	𘃞	𘃞	PART	PART	_	56	advmod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 58	。	。	PUNCT	PUNCT	_	9	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0072
@@ -3044,7 +3044,7 @@
 # text = 𘝶𗦜𘃞。
 1	𘝶	𘝶	NOUN	NOUN	_	2	obj	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 2	𗦜	𗦜	VERB	VERB	_	0	root	_	Gloss=say|LTranslit=so²|SpaceAfter=No
-3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 4	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0077
@@ -3347,7 +3347,7 @@
 50	𗫻	𗫻	VERB	VERB	_	5	conj	_	Gloss=live, stay, exist, to be found|LTranslit=ndźe¹|SpaceAfter=No
 51	𗟻	𗟻	AUX	AUX	_	50	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
 52	𗩱	𗩱	AUX	AUX	_	50	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-53	𘃞	𘃞	PART	PART	_	50	advmod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+53	𘃞	𘃞	PART	PART	_	50	advmod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 54	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0083
@@ -3369,7 +3369,7 @@
 13	𘞗	𘞗	NOUN	NOUN	_	15	obj	_	Gloss=seed|LTranslit=swə¹|SpaceAfter=No
 14	𗧊	𗧊	VERB	VERB	_	15	compound	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
 15	𘎳	𘎳	VERB	VERB	_	9	advcl	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	9	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0084
@@ -3384,7 +3384,7 @@
 6	𘜶	𘜶	ADV	ADV	_	8	advmod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 7	𘞙	𘞙	VERB	VERB	_	8	compound	_	Gloss=profit, benefit|LTranslit=geh¹|SpaceAfter=No
 8	𗼜	𗼜	VERB	VERB	_	2	advcl	_	Gloss=interests, benefit|LTranslit=ġhai̱²|SpaceAfter=No
-9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0085
@@ -3403,7 +3403,7 @@
 10	𗅋	𗅋	PART	PART	Polarity=Neg	11	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 11	𘃡	𘃡	VERB	VERB	_	3	advcl	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
 12	𗟻	𗟻	AUX	AUX	_	11	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	11	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	11	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	3	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0086
@@ -3421,13 +3421,14 @@
 9	𗦇	𗦇	AUX	AUX	_	8	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
 10	𗖢	𗖢	VERB	VERB	_	2	advcl	_	Gloss=indicate, instruct|LTranslit=nne̱²|SpaceAfter=No
 11	𗩱	𗩱	AUX	AUX	_	10	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-12	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
+12	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
+13	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0087
 # text_lzh = 如善導，能示波羅蜜道故；
 # text_en = They are like a good guide, for they are able to reveal the path of the pāramitās;
 # text = 𘃞𘘝𗀚𗋚𗍊𘏞𗓽𗕥𗵘𗖢𗩱𘃞。
-1	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+1
 2	𘘝	𘘝	NOUN	NOUN	_	3	compound	_	Gloss=teach, instruct|LTranslit=ndze²|SpaceAfter=No
 3	𗀚	𗀚	NOUN	NOUN	_	0	root	_	Gloss=guide, lead|LTranslit=ṣao̱¹|SpaceAfter=No
 4	𗋚	𗋚	ADV	ADV	_	3	advmod	_	Gloss=pass; verb prefix directional marker - there, outside, further|LTranslit=və²|SpaceAfter=No
@@ -3436,7 +3437,7 @@
 7	𗵘	𗵘	NOUN	NOUN	_	8	obj	_	Gloss=road; way|LTranslit=tśa¹|SpaceAfter=No
 8	𗖢	𗖢	VERB	VERB	_	3	advcl	_	Gloss=indicate, instruct|LTranslit=nne̱²|SpaceAfter=No
 9	𗩱	𗩱	AUX	AUX	_	8	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	3	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0088
@@ -3453,7 +3454,7 @@
 8	𗥓	𗥓	NOUN	NOUN	_	9	obj	_	Gloss=ill, disease|LTranslit=ŋo̱²|SpaceAfter=No
 9	𗇫	𗇫	VERB	VERB	_	1	advcl	_	Gloss=administer|LTranslit=dih²|SpaceAfter=No
 10	𗩱	𗩱	AUX	AUX	_	9	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	1	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0089
@@ -3470,7 +3471,7 @@
 8	𗿧	𗿧	NOUN	NOUN	_	10	obj	_	Gloss=medicine, drug|LTranslit=tsə̱h¹|SpaceAfter=No
 9	𘎲	𘎲	VERB	VERB	_	10	compound	_	Gloss=increase, raise, add|LTranslit=lhu̱¹|SpaceAfter=No
 10	𘞵	𘞵	VERB	VERB	_	2	advcl	_	Gloss=grow|LTranslit=dza¹|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0090
@@ -3488,7 +3489,7 @@
 9	𗟥	𗟥	VERB	VERB	_	10	compound	_	Gloss=reduce, remove|LTranslit=teh¹|SpaceAfter=No
 10	𗈞	𗈞	VERB	VERB	_	2	advcl	_	Gloss=extinguish, put out|LTranslit=rdzar²|SpaceAfter=No
 11	𗟻	𗟻	AUX	AUX	_	10	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
-12	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+12	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 13	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0091
@@ -3507,7 +3508,7 @@
 10	𘂤	𘂤	ADP	ADP	_	9	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=qha̱¹|SpaceAfter=No
 11	𗣈	𗣈	VERB	VERB	_	3	advcl	_	Gloss=come; to exit|LTranslit=lhow?|SpaceAfter=No
 12	𗟻	𗟻	AUX	AUX	_	11	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	11	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	11	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	3	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0092
@@ -3526,7 +3527,7 @@
 10	𗅁	𗅁	ADP	ADP	_	9	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
 11	𗫡	𗫡	VERB	VERB	_	2	advcl	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
 12	𗟻	𗟻	AUX	AUX	_	11	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	11	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	11	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0093
@@ -3549,7 +3550,7 @@
 14	𗪆	𗪆	VERB	VERB	_	15	compound	_	Gloss=think|LTranslit=nswə¹|SpaceAfter=No
 15	𗆫	𗆫	VERB	VERB	_	0	root	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
 16	𗦇	𗦇	AUX	AUX	_	15	aux	_	Gloss=must|LTranslit=lli̱w²|SpaceAfter=No
-17	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	。	。	PUNCT	PUNCT	_	15	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0094
@@ -3585,7 +3586,7 @@
 27	𘀀	𘀀	VERB	VERB	_	28	compound	_	Gloss=be weary of|LTranslit=rdwə̱r¹|SpaceAfter=No
 28	𘈐	𘈐	ADJ	ADJ	_	21	advcl	_	Gloss=weary, tired|LTranslit=ryar²|SpaceAfter=No
 29	𗤋	𗤋	ADV	ADV	Polarity=Neg	28	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
-30	𘃞	𘃞	PART	PART	_	21	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+30	𘃞	𘃞	PART	PART	_	21	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 31	。	。	PUNCT	PUNCT	_	21	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0095
@@ -3606,7 +3607,7 @@
 12	𗹪	𗹪	VERB	VERB	_	13	acl	_	Gloss=destroy, damage|LTranslit=nlle²|SpaceAfter=No
 13	𘏚	𘏚	NOUN	NOUN	_	14	obj	_	Gloss=place; used in possible/impossible constructions|LTranslit=tih²|SpaceAfter=No
 14	𗤋	𗤋	VERB	VERB	Polarity=Neg	6	advcl	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
-15	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 16	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0096
@@ -3627,7 +3628,7 @@
 12	𗚛	𗚛	VERB	VERB	_	6	advcl	_	Gloss=move, stir|LTranslit=mu²|SpaceAfter=No
 13	𘖑	𘖑	PART	PART	Polarity=Neg	12	advmod	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
 14	𗩱	𗩱	AUX	AUX	_	12	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-15	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 16	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0097
@@ -3648,7 +3649,7 @@
 12	𗄊	𗄊	ADV	ADV	_	14	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 13	𗖵	𗖵	ADP	ADP	_	9	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 14	𗡶	𗡶	VERB	VERB	_	6	advcl	_	Gloss=along, along the surface|LTranslit=śe¹|SpaceAfter=No
-15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 16	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0098
@@ -3668,7 +3669,7 @@
 11	𗅋	𗅋	PART	PART	Polarity=Neg	13	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 12	𘇄	𘇄	VERB	VERB	_	13	compound	_	Gloss=lose, miss|LTranslit=lwu¹|SpaceAfter=No
 13	𗄪	𗄪	VERB	VERB	_	5	advcl	_	Gloss=back|LTranslit=nu̱¹|SpaceAfter=No
-14	𘃞	𘃞	PART	PART	_	13	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+14	𘃞	𘃞	PART	PART	_	13	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 15	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0099
@@ -3689,7 +3690,7 @@
 12	𗄊	𗄊	ADV	ADV	_	14	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 13	𗅋	𗅋	PART	PART	Polarity=Neg	14	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 14	𘀀	𘀀	VERB	VERB	_	5	advcl	_	Gloss=be weary of|LTranslit=rdwə̱r¹|SpaceAfter=No
-15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 16	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0100
@@ -3710,7 +3711,7 @@
 12	𘍐	𘍐	NOUN	NOUN	_	14	obj	_	Gloss=toil, hard work|LTranslit=rer²|SpaceAfter=No
 13	𗅋	𗅋	PART	PART	Polarity=Neg	14	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 14	𘘣	𘘣	VERB	VERB	_	5	advcl	_	Gloss=say; to call|LTranslit=yə²|SpaceAfter=No
-15	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 16	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0101
@@ -3731,7 +3732,7 @@
 12	𗅋	𗅋	PART	PART	Polarity=Neg	14	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 13	𘇄	𘇄	VERB	VERB	_	14	compound	_	Gloss=lose, miss|LTranslit=lwu¹|SpaceAfter=No
 14	𗄪	𗄪	VERB	VERB	_	6	advcl	_	Gloss=back|LTranslit=nu̱¹|SpaceAfter=No
-15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+15	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 16	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0102
@@ -3749,7 +3750,7 @@
 9	𗁝	𗁝	ADJ	ADJ	_	10	amod	_	Gloss=respectful|LTranslit=giw¹|SpaceAfter=No
 10	𗒼	𗒼	NOUN	NOUN	_	11	obj	_	Gloss=expand, enlarge|LTranslit=qhwe̱h¹|SpaceAfter=No
 11	𗈜	𗈜	VERB	VERB	_	6	advcl	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
-12	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+12	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 13	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0103
@@ -3768,7 +3769,7 @@
 10	𗹭	𗹭	ADV	ADV	_	9	conj	_	Gloss=tall|LTranslit=be²|SpaceAfter=No
 11	𗅋	𗅋	PART	PART	Polarity=Neg	12	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 12	𘃡	𘃡	VERB	VERB	_	7	advcl	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0104
@@ -3784,7 +3785,7 @@
 7	𗎫	𗎫	NOUN	NOUN	_	9	obj	_	Gloss=character|LTranslit=rtser²|SpaceAfter=No
 8	𘊄	𘊄	ADJ	ADJ	_	7	amod	_	Gloss=evil, vice|LTranslit=ṇoṃ²|SpaceAfter=No
 9	𗈜	𗈜	VERB	VERB	_	5	advcl	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0105
@@ -3801,7 +3802,7 @@
 8	𘞌	𘞌	NOUN	NOUN	_	9	obj	_	Gloss=solid, true; serious|LTranslit=rźər¹|SpaceAfter=No
 9	𗔩	𗔩	VERB	VERB	_	5	advcl	_	Gloss=transport, carriage|LTranslit=ġhae̱h²|SpaceAfter=No
 10	𗩱	𗩱	AUX	AUX	_	9	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0106
@@ -3820,7 +3821,7 @@
 10	𗛮	𗛮	VERB	VERB	_	12	xcomp	_	Gloss=bend over; resign oneself to, submit to|LTranslit=nvwə̱¹|SpaceAfter=No
 11	𗡶	𗡶	ADV	ADV	_	12	advmod	_	Gloss=along, along the surface|LTranslit=śe¹|SpaceAfter=No
 12	𘃡	𘃡	VERB	VERB	_	6	advcl	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0107
@@ -3836,7 +3837,7 @@
 7	𗅋	𗅋	PART	PART	Polarity=Neg	9	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 8	𗚛	𗚛	VERB	VERB	_	9	compound	_	Gloss=move, stir|LTranslit=mu²|SpaceAfter=No
 9	𘄬	𘄬	VERB	VERB	_	5	advcl	_	Gloss=wave, sway, rock|LTranslit=lleṃh²|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0108
@@ -3852,7 +3853,7 @@
 7	𗸮	𗸮	NOUN	NOUN	_	9	obj	_	Gloss=host, master|LTranslit=vwə̱¹|SpaceAfter=No
 8	𗅋	𗅋	PART	PART	Polarity=Neg	9	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 9	𗈙	𗈙	VERB	VERB	_	5	advcl	_	Gloss=evil, envy|LTranslit=ntśu¹|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0109
@@ -3868,7 +3869,7 @@
 7	𗁝	𗁝	ADJ	ADJ	_	8	amod	_	Gloss=respectful|LTranslit=giw¹|SpaceAfter=No
 8	𗒼	𗒼	NOUN	NOUN	_	9	obj	_	Gloss=expand, enlarge|LTranslit=qhwe̱h¹|SpaceAfter=No
 9	𗈜	𗈜	VERB	VERB	_	4	advcl	_	Gloss=sever|LTranslit=qa̱²|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0110
@@ -3885,7 +3886,7 @@
 8	𗕣	𗕣	NOUN	NOUN	_	9	compound	_	Gloss=angry|LTranslit=tshah¹|SpaceAfter=No
 9	𗔊	𗔊	ADJ	ADJ	_	6	advcl	_	Gloss=anger, rage, fury|LTranslit=qwo̱ṃ²|SpaceAfter=No
 10	𗤋	𗤋	ADV	ADV	Polarity=Neg	9	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	6	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0111
@@ -3902,7 +3903,7 @@
 8	𘞓	𘞓	VERB	VERB	_	7	conj	_	Gloss=go|LTranslit=ve¹|SpaceAfter=No
 9	𗅋	𗅋	PART	PART	Polarity=Neg	10	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 10	𘀀	𘀀	VERB	VERB	_	5	advcl	_	Gloss=be weary of|LTranslit=rdwə̱r¹|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0112
@@ -3921,7 +3922,7 @@
 10	𗔩	𗔩	VERB	VERB	_	9	conj	_	Gloss=transport, carriage|LTranslit=ġhae̱h²|SpaceAfter=No
 11	𗅋	𗅋	PART	PART	Polarity=Neg	12	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 12	𘀀	𘀀	VERB	VERB	_	5	advcl	_	Gloss=be weary of|LTranslit=rdwə̱r¹|SpaceAfter=No
-13	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	PART	PART	_	12	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0113
@@ -3938,7 +3939,7 @@
 8	𗴺	𗴺	NOUN	NOUN	_	7	conj	_	Gloss=mother|LTranslit=ma¹|SpaceAfter=No
 9	𗡶	𗡶	ADV	ADV	_	10	advmod	_	Gloss=along, along the surface|LTranslit=śe¹|SpaceAfter=No
 10	𘃡	𘃡	VERB	VERB	_	5	advcl	_	Gloss=do, make; ergative marker|LTranslit=vi¹|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	10	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0114
@@ -3955,7 +3956,7 @@
 8	𘒩	𘒩	NOUN	NOUN	_	10	obj	_	Gloss=indicate|LTranslit=dzu¹|SpaceAfter=No
 9	𗡶	𗡶	ADV	ADV	_	10	advmod	_	Gloss=along, along the surface|LTranslit=śe¹|SpaceAfter=No
 10	𗭍	𗭍	VERB	VERB	_	5	advcl	_	Gloss=go, send|LTranslit=dźeh¹|SpaceAfter=No
-11	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+11	𘃞	𘃞	PART	PART	_	5	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 12	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0115
@@ -4436,7 +4437,7 @@
 # text = 𘝶𗦜𘃞。
 1	𘝶	𘝶	NOUN	NOUN	_	2	obj	_	Gloss=why|LTranslit=the²|SpaceAfter=No
 2	𗦜	𗦜	VERB	VERB	_	0	root	_	Gloss=say|LTranslit=so²|SpaceAfter=No
-3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+3	𘃞	𘃞	PART	PART	_	2	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 4	。	。	PUNCT	PUNCT	_	2	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0127
@@ -4461,7 +4462,7 @@
 16	𗑗	𗑗	ADJ	ADJ	_	17	xcomp	_	Gloss=clean, quiet|LTranslit=se̱¹|SpaceAfter=No
 17	𘜘	𘜘	VERB	VERB	_	0	root	_	Gloss=get, obtain, gain|LTranslit=rir¹|SpaceAfter=No
 18	𗟻	𗟻	AUX	AUX	_	17	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
-19	𘃞	𘃞	PART	PART	_	17	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+19	𘃞	𘃞	PART	PART	_	17	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 20	。	。	PUNCT	PUNCT	_	17	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0128
@@ -4490,7 +4491,7 @@
 20	𗉝	𗉝	NOUN	NOUN	_	21	obj	_	Gloss=straw, grass|LTranslit=śih²|SpaceAfter=No
 21	𘃸	𘃸	VERB	VERB	_	13	advcl	_	Gloss=prosperous|LTranslit=lleh¹|SpaceAfter=No
 22	𗟻	𗟻	AUX	AUX	_	21	aux	_	Gloss=make; marker of causative construction|LTranslit=phi¹|SpaceAfter=No
-23	𘃞	𘃞	PART	PART	_	21	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+23	𘃞	𘃞	PART	PART	_	21	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 24	。	。	PUNCT	PUNCT	_	13	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0129
@@ -4513,7 +4514,7 @@
 14	𗋽	𗋽	NOUN	NOUN	_	16	obj	_	Gloss=water; river|LTranslit=rzər²|SpaceAfter=No
 15	𗂲	𗂲	VERB	VERB	_	16	compound	_	Gloss=pierce|LTranslit=dzeṃ²|SpaceAfter=No
 16	𘃽	𘃽	VERB	VERB	_	7	advcl	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
-17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0130
@@ -4537,7 +4538,7 @@
 15	𘏨	𘏨	NOUN	NOUN	_	17	obj	_	Gloss=treasure|LTranslit=llaə̱h¹|SpaceAfter=No
 16	𗧊	𗧊	VERB	VERB	_	17	compound	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
 17	𘎳	𘎳	VERB	VERB	_	8	advcl	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
-18	𘃞	𘃞	PART	PART	_	17	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+18	𘃞	𘃞	PART	PART	_	17	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 19	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0131
@@ -4559,7 +4560,7 @@
 13	𗒘	𗒘	ADJ	ADJ	_	12	amod	_	Gloss=true, real, authentic|LTranslit=ġhae̱¹|SpaceAfter=No
 14	𘋃	𘋃	VERB	VERB	_	7	advcl	_	Gloss=melt|LTranslit=tśhwi¹|SpaceAfter=No
 15	𗩱	𗩱	AUX	AUX	_	14	aux	_	Gloss=can, be able to|LTranslit=nwi²|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	7	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0132
@@ -4582,7 +4583,7 @@
 14	𗅁	𗅁	ADP	ADP	_	13	case	_	Gloss=inner, inside, locative particle in (the garden)|LTranslit=wu̱²|SpaceAfter=No
 15	𗣈	𗣈	VERB	VERB	_	16	compound	_	Gloss=come; to exit|LTranslit=lhow?|SpaceAfter=No
 16	𗰛	𗰛	VERB	VERB	_	8	advcl	_	Gloss=to cross, to pass, to exceed; more|LTranslit=dzeh¹|SpaceAfter=No
-17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0133
@@ -4604,7 +4605,7 @@
 13	𗋽	𗋽	NOUN	NOUN	_	15	obl	_	Gloss=water; river|LTranslit=rzər²|SpaceAfter=No
 14	𗅋	𗅋	PART	PART	Polarity=Neg	15	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 15	𗂆	𗂆	VERB	VERB	_	8	advcl	_	Gloss=hit, touch|LTranslit=zeh¹|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	15	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0134
@@ -4627,7 +4628,7 @@
 14	𗏨	𗏨	NOUN	NOUN	_	16	obj	_	Gloss=corpse|LTranslit=rġhu̱r¹|SpaceAfter=No
 15	𗅋	𗅋	PART	PART	Polarity=Neg	16	advmod	_	Gloss=no, not|LTranslit=mi¹|SpaceAfter=No
 16	𗽷	𗽷	VERB	VERB	_	8	advcl	_	Gloss=room|LTranslit=ryawr²|SpaceAfter=No
-17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0135
@@ -4650,7 +4651,7 @@
 14	𗩨	𗩨	NOUN	NOUN	_	16	nsubj	_	Gloss=colour|LTranslit=tsə̱h¹|SpaceAfter=No
 15	𘍞	𘍞	ADV	ADV	_	16	advmod	_	Gloss=round, ring, courtyard, all|LTranslit=wo̱h¹|SpaceAfter=No
 16	𘏋	𘏋	VERB	VERB	_	8	advcl	_	Gloss=full, filled, packed|LTranslit=sə̱¹|SpaceAfter=No
-17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0136
@@ -4673,7 +4674,7 @@
 14	𗹦	𗹦	NOUN	NOUN	_	15	compound	_	Gloss=sky, heaven|LTranslit=mə̱¹|SpaceAfter=No
 15	𗯴	𗯴	NOUN	NOUN	_	16	obj	_	Gloss=locative particle under, below, beneath|LTranslit=khu¹|SpaceAfter=No
 16	𗮔	𗮔	VERB	VERB	_	8	advcl	_	Gloss=shine, illuminate|LTranslit=swi̱w¹|SpaceAfter=No
-17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	。	。	PUNCT	PUNCT	_	8	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0137
@@ -4697,7 +4698,7 @@
 15	𘈷	𘈷	NOUN	NOUN	_	17	obj	_	Gloss=son, child|LTranslit=gi²|SpaceAfter=No
 16	𗋿	𗋿	VERB	VERB	_	17	compound	_	Gloss=breed|LTranslit=ryur¹|SpaceAfter=No
 17	𘞷	𘞷	VERB	VERB	_	9	advcl	_	Gloss=raise|LTranslit=khe¹|SpaceAfter=No
-18	𘃞	𘃞	PART	PART	_	17	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+18	𘃞	𘃞	PART	PART	_	17	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 19	。	。	PUNCT	PUNCT	_	9	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0138
@@ -5022,7 +5023,7 @@
 39	𗅉	𗅉	CCONJ	CCONJ	_	40	cc	_	Gloss=conjunction; behind|LTranslit=nuo¹|SpaceAfter=No
 40	𗣼	𗣼	PROPN	PROPN	_	37	conj	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 41	𗿷	𗿷	PROPN	PROPN	_	40	flat	_	Gloss=have, possess|LTranslit=dźe²|SpaceAfter=No
-42	𘆄	𘆄	PART	PART	_	37	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+42	𘆄	𘆄	PRON	PRON	_	37	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 43	𗗙	𗗙	ADP	ADP	_	37	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 44	𗺌	𗺌	NOUN	NOUN	_	45	obj	_	Gloss=foot|LTranslit=ri̱wr²|SpaceAfter=No
 45	𘐔	𘐔	VERB	VERB	_	14	conj	_	Gloss=salute, bow|LTranslit=tshwi̱w¹|SpaceAfter=No
@@ -5097,7 +5098,7 @@
 15	𘂎	𘂎	ADP	ADP	_	14	case	_	Gloss=small, little, petty; indicator of materials and instruments|LTranslit=la̱¹|SpaceAfter=No
 16	𗹢	𗹢	VERB	VERB	_	17	compound	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 17	𗭍	𗭍	VERB	VERB	_	12	conj	_	Gloss=go, send|LTranslit=dźeh¹|SpaceAfter=No
-18	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+18	𘃞	𘃞	PART	PART	_	16	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 19	。	。	PUNCT	PUNCT	_	12	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0145
@@ -5715,7 +5716,7 @@
 13	𘓟	𘓟	ADV	ADV	_	14	advmod	_	Gloss=faith, trust|LTranslit=dẓae̱²|SpaceAfter=No
 14	𗒐	𗒐	VERB	VERB	_	15	acl	_	Gloss=receive, accept|LTranslit=ġhwae̱¹|SpaceAfter=No
 15	𘔼	𘔼	NOUN	NOUN	_	0	root	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
-16	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	PART	PART	_	14	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 17	。	。	PUNCT	PUNCT	_	15	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0161
@@ -5945,7 +5946,7 @@
 5	𗧁	𗧁	NOUN	NOUN	_	6	compound	_	Gloss=talent, capacity|LTranslit=rer²|SpaceAfter=No
 6	𗎘	𗎘	NOUN	NOUN	_	7	nsubj	_	Gloss=border|LTranslit=bau̱²|SpaceAfter=No
 7	𗤋	𗤋	VERB	VERB	_	4	advcl	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0166
@@ -5959,7 +5960,7 @@
 5	𗦁	𗦁	VERB	VERB	_	6	compound	_	Gloss=harm, damage|LTranslit=ġhai̱h²|SpaceAfter=No
 6	𗄿	𗄿	VERB	VERB	_	4	advcl	_	Gloss=hinder, obstacle|LTranslit=llu̱h²|SpaceAfter=No
 7	𗤋	𗤋	ADV	ADV	Polarity=Neg	6	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0167
@@ -5973,7 +5974,7 @@
 5	𗄑	𗄑	PRON	PRON	ExtPos=PRON|PronType=Tot	7	obj	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 6	𗄑	𗄑	PRON	PRON	PronType=Tot	5	fixed	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 7	𗫡	𗫡	VERB	VERB	_	4	advcl	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0168
@@ -5987,7 +5988,7 @@
 5	𗠷	𗠷	VERB	VERB	_	6	compound	_	Gloss=distinguish, differentiate|LTranslit=pho²|SpaceAfter=No
 6	𗷎	𗷎	VERB	VERB	_	4	advcl	_	Gloss=separate, difference|LTranslit=rqa̱r²|SpaceAfter=No
 7	𗤋	𗤋	ADV	ADV	Polarity=Neg	6	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0169
@@ -6000,7 +6001,7 @@
 4	𘄡	𘄡	NOUN	NOUN	_	6	obl	_	Gloss=wisdom|LTranslit=seh²|SpaceAfter=No
 5	𗖵	𗖵	ADP	ADP	_	4	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 6	𗜓	𗜓	VERB	VERB	_	1	advcl	_	Gloss=appear, show|LTranslit=śa²|SpaceAfter=No
-7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	PUNCT	_	1	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0170
@@ -6013,7 +6014,7 @@
 4	𗾫	𗾫	NOUN	NOUN	_	6	obl	_	Gloss=thought; to think|LTranslit=nse²|SpaceAfter=No
 5	𗖵	𗖵	ADP	ADP	_	4	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 6	𗄈	𗄈	VERB	VERB	_	1	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	PUNCT	_	1	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0171
@@ -6026,7 +6027,7 @@
 4	𗄑	𗄑	PRON	PRON	ExtPos=PRON|PronType=Tot	6	obj	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 5	𗄑	𗄑	PRON	PRON	PronType=Tot	4	fixed	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 6	𗩯	𗩯	VERB	VERB	_	1	advcl	_	Gloss=clear, obvious|LTranslit=swe¹|SpaceAfter=No
-7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	PUNCT	_	1	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0172
@@ -6039,7 +6040,7 @@
 4	𘔼	𘔼	NOUN	NOUN	_	6	obl	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 5	𗖵	𗖵	ADP	ADP	_	4	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 6	𗄈	𗄈	VERB	VERB	_	1	advcl	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	PUNCT	_	1	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0173
@@ -6053,7 +6054,7 @@
 5	𗦬	𗦬	ADV	ADV	_	6	advmod	_	Gloss=common, general|LTranslit=ġu̱²|SpaceAfter=No
 6	𘎳	𘎳	VERB	VERB	_	3	advcl	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 7	𗈞	𗈞	VERB	VERB	_	6	conj	_	Gloss=extinguish, put out|LTranslit=rdzar²|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	3	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0174
@@ -6066,7 +6067,7 @@
 4	𗦫	𗦫	NOUN	NOUN	_	6	obl	_	Gloss=cause|LTranslit=yiw¹|SpaceAfter=No
 5	𗖵	𗖵	ADP	ADP	_	4	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 6	𗯗	𗯗	VERB	VERB	_	3	advcl	_	Gloss=change, vary|LTranslit=le̱²|SpaceAfter=No
-7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+7	𘃞	𘃞	PART	PART	_	6	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 8	。	。	PUNCT	PUNCT	_	3	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0175
@@ -6205,7 +6206,7 @@
 5	𘆏	𘆏	NOUN	NOUN	_	6	compound	_	Gloss=suppress|LTranslit=nllaə̱¹|SpaceAfter=No
 6	𗷖	𗷖	NOUN	NOUN	_	7	obj	_	Gloss=interest|LTranslit=tshwi̱w¹|SpaceAfter=No
 7	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0179
@@ -6219,7 +6220,7 @@
 5	𘎳	𘎳	VERB	VERB	_	7	ccomp	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 6	𗤋	𗤋	PART	PART	Polarity=Neg	5	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 7	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0180
@@ -6233,7 +6234,7 @@
 5	𗣼	𗣼	ADJ	ADJ	_	6	amod	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 6	𗦫	𗦫	NOUN	NOUN	_	7	obj	_	Gloss=cause|LTranslit=yiw¹|SpaceAfter=No
 7	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+8	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 9	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0181
@@ -6248,7 +6249,7 @@
 6	𗖵	𗖵	ADP	ADP	_	7	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 7	𗧘	𗧘	NOUN	NOUN	_	8	obj	_	Gloss=justice, righteousness|LTranslit=vwo̱²|SpaceAfter=No
 8	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0182
@@ -6263,7 +6264,7 @@
 6	𘔼	𘔼	NOUN	NOUN	_	8	ccomp	_	Gloss=cause, principal and subsidiary causes|LTranslit=nuo¹|SpaceAfter=No
 7	𗅔	𗅔	AUX	AUX	Polarity=Neg	6	cop	_	Gloss=be not|LTranslit=naw²|SpaceAfter=No
 8	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0183
@@ -6278,7 +6279,7 @@
 6	𗖵	𗖵	ADP	ADP	_	5	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 7	𗄈	𗄈	VERB	VERB	_	8	ccomp	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 8	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-9	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+9	𘃞	𘃞	PART	PART	_	7	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0184
@@ -6294,7 +6295,7 @@
 7	𗎘	𗎘	NOUN	NOUN	_	8	obj	_	Gloss=border|LTranslit=bau̱²|SpaceAfter=No
 8	𗤋	𗤋	VERB	VERB	Polarity=Neg	9	ccomp	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 9	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0185
@@ -6309,7 +6310,7 @@
 6	𗴭	𗴭	NOUN	NOUN	_	8	obj	_	Gloss=portrait, pattern|LTranslit=swu̱²|SpaceAfter=No
 7	𗍊	𗍊	ADP	ADP	_	6	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 8	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0186
@@ -6324,7 +6325,7 @@
 6	𘎳	𘎳	VERB	VERB	_	8	ccomp	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 7	𗈞	𗈞	VERB	VERB	_	6	conj	_	Gloss=extinguish, put out|LTranslit=rdzar²|SpaceAfter=No
 8	𗄻	𗄻	VERB	VERB	_	4	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+9	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 10	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0187
@@ -6340,7 +6341,7 @@
 7	𘎳	𘎳	VERB	VERB	_	6	conj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
 8	𗤋	𗤋	PART	PART	Polarity=Neg	7	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 9	𗄻	𗄻	VERB	VERB	_	5	advcl	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0188
@@ -6351,7 +6352,7 @@
 2	𘖑	𘖑	DET	DET	PronType=Neg	3	det	_	Gloss=no, not; no need|LTranslit=mə¹|SpaceAfter=No
 3	𗦳	𗦳	NOUN	NOUN	_	4	obj	_	Gloss=host|LTranslit=dzu²|SpaceAfter=No
 4	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0189
@@ -6363,7 +6364,7 @@
 3	𗰱	𗰱	VERB	VERB	_	4	compound	_	Gloss=happen|LTranslit=ġu̱¹|SpaceAfter=No
 4	𗄈	𗄈	VERB	VERB	_	5	ccomp	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 5	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0190
@@ -6379,7 +6380,7 @@
 7	𗤋	𗤋	DET	DET	PronType=Neg	6	det	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 8	𗎘	𗎘	NOUN	NOUN	_	9	obl	_	Gloss=border|LTranslit=bau̱²|SpaceAfter=No
 9	𘃽	𘃽	VERB	VERB	_	5	advcl	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	9	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0191
@@ -6395,7 +6396,7 @@
 7	𗼴	𗼴	NOUN	NOUN	_	8	nsubj	_	Gloss=seedling|LTranslit=lleh¹|SpaceAfter=No
 8	𗧊	𗧊	VERB	VERB	_	4	advcl	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
 9	𗍊	𗍊	SCONJ	SCONJ	_	8	mark	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-10	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+10	𘃞	𘃞	PART	PART	_	8	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 11	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0192
@@ -6407,7 +6408,7 @@
 3	𘅤	𘅤	NOUN	NOUN	_	4	nsubj	_	Gloss=write|LTranslit=rar¹|SpaceAfter=No
 4	𗧊	𗧊	VERB	VERB	_	0	root	_	Gloss=be born; to grow (of plants and trees); to rise (of the sun or moon)|LTranslit=to̱²|SpaceAfter=No
 5	𗍊	𗍊	SCONJ	SCONJ	_	4	mark	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0193
@@ -6418,7 +6419,7 @@
 2	𗴭	𗴭	NOUN	NOUN	_	4	ccomp	_	Gloss=portrait, pattern|LTranslit=swu̱²|SpaceAfter=No
 3	𗍊	𗍊	ADP	ADP	_	2	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 4	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0194
@@ -6429,7 +6430,7 @@
 2	𗱝	𗱝	NOUN	NOUN	_	4	ccomp	_	Gloss=echo|LTranslit=dẓwai̱¹|SpaceAfter=No
 3	𗍊	𗍊	ADP	ADP	_	2	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 4	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0195
@@ -6440,7 +6441,7 @@
 2	𘈞	𘈞	NOUN	NOUN	_	4	ccomp	_	Gloss=dream|LTranslit=mme¹|SpaceAfter=No
 3	𗍊	𗍊	ADP	ADP	_	2	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 4	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0196
@@ -6451,7 +6452,7 @@
 2	𘂫	𘂫	NOUN	NOUN	_	4	ccomp	_	Gloss=change, become|LTranslit=vəh¹|SpaceAfter=No
 3	𗍊	𗍊	ADP	ADP	_	2	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 4	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
-5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+5	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0197
@@ -6463,7 +6464,7 @@
 3	𗖵	𗖵	ADP	ADP	_	2	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 4	𗜓	𗜓	VERB	VERB	_	5	ccomp	_	Gloss=appear, show|LTranslit=śa²|SpaceAfter=No
 5	𗥤	𗥤	VERB	VERB	_	0	root	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
-6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0198
@@ -6475,7 +6476,7 @@
 3	𗖵	𗖵	ADP	ADP	_	2	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 4	𗄈	𗄈	VERB	VERB	_	5	ccomp	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
 5	𗥤	𗥤	VERB	VERB	_	0	root	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
-6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+6	𘃞	𘃞	PART	PART	_	4	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 7	。	。	PUNCT	PUNCT	_	5	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0199
@@ -6486,7 +6487,7 @@
 2	𘈽	𘈽	NOUN	NOUN	_	3	obl	_	Gloss=cause, trade|LTranslit=sweṃ¹|SpaceAfter=No
 3	𗄭	𗄭	VERB	VERB	_	4	ccomp	_	Gloss=gather|LTranslit=dzəh²|SpaceAfter=No
 4	𗥤	𗥤	VERB	VERB	_	0	root	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
-5	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+5	𘃞	𘃞	PART	PART	_	3	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 6	。	。	PUNCT	PUNCT	_	4	punct	_	Orig=_
 
 # sent_id = avatamsaka_sutra_0200
@@ -6513,7 +6514,7 @@
 18	𗖵	𗖵	ADP	ADP	_	17	case	_	Gloss=rely, obey; postposition; according to, based on; because of, given that|LTranslit=bu¹|SpaceAfter=No
 19	𗰱	𗰱	VERB	VERB	_	20	compound	_	Gloss=happen|LTranslit=ġu̱¹|SpaceAfter=No
 20	𗄈	𗄈	VERB	VERB	_	8	ccomp	_	Gloss=appear, raise|LTranslit=śow¹|SpaceAfter=No
-21	𘃞	𘃞	PART	PART	_	24	discourse	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+21	𘃞	𘃞	PART	PART	_	24	discourse	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 22	𘙌	𘙌	ADV	ADV	_	24	advmod	_	Gloss=verb prefix directional marker - here, inside, closer|LTranslit=kə¹|SpaceAfter=No
 23	𗅆	𗅆	ADJ	ADJ	_	24	xcomp	_	Gloss=calm|LTranslit=deṃ²|SpaceAfter=No
 24	𗄻	𗄻	VERB	VERB	_	0	root	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
@@ -8026,7 +8027,7 @@
 4	𗘲	𗘲	NOUN	NOUN	_	18	nsubj	_	Gloss=a building of two or more storeys|LTranslit=reṃ²|SpaceAfter=No
 5	𘌽	𘌽	PRON	PRON	PronType=Dem	10	nmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 6	𗍊	𗍊	ADP	ADP	_	5	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-7	𘆄	𘆄	CCONJ	CCONJ	_	10	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+7	𘆄	𘆄	PRON	PRON	_	10	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 8	𗱕	𗱕	DET	DET	PronType=Tot	10	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 9	𗣼	𗣼	NOUN	NOUN	_	10	compound	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 10	𘉐	𘉐	NOUN	NOUN	_	14	obl	_	Gloss=contribution|LTranslit=yuo¹|SpaceAfter=No
@@ -8462,7 +8463,7 @@
 1	𗱕	𗱕	DET	DET	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗫔	𗫔	ADJ	ADJ	_	3	amod	_	Gloss=many, numerous|LTranslit=yi¹|SpaceAfter=No
 3	𘎳	𘎳	NOUN	NOUN	_	7	nsubj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
-4	𘆄	𘆄	CCONJ	CCONJ	_	3	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	PRON	_	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	𗢞	𗢞	NOUN	NOUN	_	6	nmod	_	Gloss=devil, demon|LTranslit=nlle²|SpaceAfter=No
 6	𗙲	𗙲	NOUN	NOUN	_	7	obl	_	Gloss=trap|LTranslit=ri̱r²|SpaceAfter=No
 7	𘃽	𘃽	VERB	VERB	_	15	ccomp	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
@@ -8536,7 +8537,7 @@
 1	𗱕	𗱕	DET	DET	PronType=Tot	3	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 2	𗥹	𗥹	NOUN	NOUN	_	3	compound	_	Gloss=crowd, group|LTranslit=lo̱²|SpaceAfter=No
 3	𘎳	𘎳	NOUN	NOUN	_	7	nsubj	_	Gloss=give birth to, bear|LTranslit=nvwi̱¹|SpaceAfter=No
-4	𘆄	𘆄	CCONJ	CCONJ	_	3	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	PRON	_	3	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	𘟣	𘟣	NOUN	NOUN	_	6	nmod	_	Gloss=have, possess|LTranslit=du¹|SpaceAfter=No
 6	𗗚	𗗚	NOUN	NOUN	_	7	obl	_	Gloss=sea|LTranslit=goṃ²|SpaceAfter=No
 7	𗪇	𗪇	VERB	VERB	_	15	ccomp	_	Gloss=sink, submerge|LTranslit=bu̱¹|SpaceAfter=No
@@ -8733,8 +8734,8 @@
 14	𗁿	𗁿	VERB	VERB	_	27	acl	_	Gloss=rest, stop|LTranslit=ta̱h¹|SpaceAfter=No
 15	𗤋	𗤋	ADV	ADV	Polarity=Neg	14	advmod	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
 16	，	，	PUNCT	PUNCT	_	15	punct	_	Orig=_|SpaceAfter=No
-17	𘃞	𘃞	NUM	NUM	_	18	compound	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
-18	𘃞	𘃞	NUM	NUM	_	19	nummod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	NUM	NUM	_	18	compound	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
+18	𘃞	𘃞	NUM	NUM	_	19	nummod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 19	𗂧	𗂧	NOUN	NOUN	_	20	compound	_	Gloss=country, national|LTranslit=lheh²|SpaceAfter=No
 20	𘍞	𘍞	NOUN	NOUN	_	22	obl	_	Gloss=round, ring, courtyard, all|LTranslit=wo̱h¹|SpaceAfter=No
 21	𗄊	𗄊	ADV	ADV	_	22	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
@@ -8991,8 +8992,8 @@
 13	𗵆	𗵆	VERB	VERB	_	14	compound	_	Gloss=accomplish|LTranslit=śeṃ¹|SpaceAfter=No
 14	𗨄	𗨄	VERB	VERB	_	25	acl	_	Gloss=achievement|LTranslit=yiw²|SpaceAfter=No
 15	，	，	PUNCT	PUNCT	_	14	punct	_	Orig=_|SpaceAfter=No
-16	𘃞	𘃞	ADV	ADV	_	17	compound	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
-17	𘃞	𘃞	ADV	ADV	_	22	advmod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+16	𘃞	𘃞	ADV	ADV	_	17	compound	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
+17	𘃞	𘃞	ADV	ADV	_	22	advmod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 18	𗄊	𗄊	ADV	ADV	_	22	advmod	_	Gloss=all|LTranslit=zi²|SpaceAfter=No
 19	𗎘	𗎘	NOUN	NOUN	_	21	nmod	_	Gloss=border|LTranslit=bau̱²|SpaceAfter=No
 20	𗤋	𗤋	DET	DET	PronType=Neg	19	det	_	Gloss=not, nothing, to not have|LTranslit=me¹|SpaceAfter=No
@@ -9434,8 +9435,8 @@
 9	𘋅𗁲	𘋅𗁲	NOUN	NOUN	_	10	obl	_	Gloss=samādhi, concentration|LTranslit=sa̱ṃ¹-me̱²|OrigLang=sa|SpaceAfter=No
 10	𘃽	𘃽	VERB	VERB	_	5	conj	_	Gloss=enter|LTranslit=wo̱²|SpaceAfter=No
 11	，	，	PUNCT	PUNCT	_	10	punct	_	Orig=_|SpaceAfter=No
-12	𘃞	𘃞	NUM	NUM	_	13	compound	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
-13	𘃞	𘃞	NUM	NUM	_	14	nummod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+12	𘃞	𘃞	NUM	NUM	_	13	compound	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	NUM	NUM	_	14	nummod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	𘋅𗁲	𘋅𗁲	NOUN	NOUN	_	15	nmod	_	Gloss=samādhi, concentration|LTranslit=sa̱ṃ¹-me̱²|OrigLang=sa|SpaceAfter=No
 15	𘗠	𘗠	NOUN	NOUN	_	21	obl	_	Gloss=door, gate, room|LTranslit=ġha̱¹|SpaceAfter=No
 16	，	，	PUNCT	PUNCT	_	15	punct	_	Orig=_|SpaceAfter=No
@@ -9519,8 +9520,8 @@
 9	𗹢	𗹢	VERB	VERB	_	10	compound	_	Gloss=build|LTranslit=doh²|SpaceAfter=No
 10	𘞂	𘞂	VERB	VERB	_	5	conj	_	Gloss=practise, exercise, review|LTranslit=ndzə²|SpaceAfter=No
 11	，	，	PUNCT	PUNCT	_	10	punct	_	Orig=_|SpaceAfter=No
-12	𘃞	𘃞	NUM	NUM	_	13	compound	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
-13	𘃞	𘃞	NUM	NUM	_	15	nummod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+12	𘃞	𘃞	NUM	NUM	_	13	compound	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	NUM	NUM	_	15	nummod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 14	𗤶	𗤶	NOUN	NOUN	_	15	compound	_	Gloss=heart, mind|LTranslit=nne¹|SpaceAfter=No
 15	𗆫	𗆫	NOUN	NOUN	_	22	obl	_	Gloss=think, think of; thought|LTranslit=rlər²|SpaceAfter=No
 16	𘂤	𘂤	ADP	ADP	_	15	case	_	Gloss=centre, among, middle; locative particle in (the book, the water)|LTranslit=qha̱¹|SpaceAfter=No
@@ -9921,7 +9922,7 @@
 6	𘞁	𘞁	NOUN	NOUN	_	59	nsubj	_	Gloss=child, children|LTranslit=li²|SpaceAfter=No
 7	𘌽	𘌽	PRON	PRON	PronType=Dem	21	nmod	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 8	𗍊	𗍊	ADP	ADP	_	7	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
-9	𘆄	𘆄	CCONJ	CCONJ	_	21	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+9	𘆄	𘆄	PRON	PRON	_	7	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 10	𘋢	𘋢	NOUN	NOUN	_	21	nmod	_	Gloss=Bodhisattva|LTranslit=dẓaa̱ṃ²|SpaceAfter=No
 11	𗥤	𗥤	VERB	VERB	_	10	acl	_	Gloss=realise, know|LTranslit=tse²|SpaceAfter=No
 12	𗄑	𗄑	DET	DET	ExtPos=DET|PronType=Tot	10	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -10093,7 +10094,7 @@
 # text_en = You should all regard this Sudhana whose aspiration for wisdom is pure. It is to seek the bodhi practices that he comes here into my presence.
 # text = 𗍳𘆄𗩴𘔮𗗙，𘄡𘟛𗤶𗑗𘝯，𘏞𘛛𘝦𗴿𘔼，𗧓𘋩𘙇𗆐𘉞。
 1	𗍳	𗍳	PRON	PRON	PronType=Prs	11	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-2	𘆄	𘆄	PART	PART	_	1	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+2	𘆄	𘆄	PRON	PRON	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 3	𗩴	𗩴	PROPN	PROPN	_	9	nmod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 4	𘔮	𘔮	PROPN	PROPN	_	3	flat	_	Gloss=wealth, property, thing|LTranslit=rġhwa̱r²|SpaceAfter=No
 5	𗗙	𗗙	ADP	ADP	_	3	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
@@ -10281,7 +10282,7 @@
 14	𗳌	𗳌	DET	DET	PronType=Dem	15	det	_	Gloss=that, those|LTranslit=teh¹|SpaceAfter=No
 15	𘊋	𘊋	NOUN	NOUN	_	13	conj	_	Gloss=slander|LTranslit=po¹|SpaceAfter=No
 16	𗡙	𗡙	NOUN	NOUN	_	13	conj	_	Gloss=extol, highly praise|LTranslit=yoṃ²|SpaceAfter=No
-17	𘆄	𘆄	CCONJ	CCONJ	_	16	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+17	𘆄	𘆄	PRON	PRON	_	13	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 18	，	，	PUNCT	PUNCT	_	17	punct	_	Orig=_|SpaceAfter=No
 19	𗄑	𗄑	DET	DET	ExtPos=DET|PronType=Tot	13	det	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
 20	𗄑	𗄑	DET	DET	PronType=Tot	19	fixed	_	Gloss=every|LTranslit=rŋo̱ṃr²|SpaceAfter=No
@@ -10384,7 +10385,7 @@
 1	𗟦𘞐	𗟦𘞐	PROPN	PROPN	_	15	nsubj	_	Gloss=Mañjuśrī|LTranslit=ma̱ṃ¹-nśu¹|OrigLang=sa|SpaceAfter=No
 2	𗣼	𗣼	PROPN	PROPN	_	1	conj	_	Gloss=morals, virtue|LTranslit=tśha²|SpaceAfter=No
 3	𗋑	𗋑	PROPN	PROPN	_	2	flat	_	Gloss=cloud|LTranslit=deṃh²|SpaceAfter=No
-4	𘆄	𘆄	CCONJ	CCONJ	_	2	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+4	𘆄	𘆄	PRON	PRON	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 5	，	，	PUNCT	PUNCT	_	4	punct	_	Orig=_|SpaceAfter=No
 6	𗱕	𗱕	DET	DET	PronType=Tot	8	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 7	𗢳	𗢳	NOUN	NOUN	_	8	nmod	_	Gloss=Buddha|LTranslit=tha̱¹|SpaceAfter=No
@@ -10756,7 +10757,7 @@
 # text_en = You should all look at this person who has drawn near to the good spiritual guides and followed what they have cultivated and trained in. You should accord in practice with all that he has done.
 # text = 𗍳𘆄𘌽𘓐𘝯，𗩴𗄻𗹬𗦍𗶚，𗖀𗖵𗄊𗹢𗫦，𗄑𗄑𗖵𗡶𗭍。
 1	𗍳	𗍳	PRON	PRON	PronType=Prs	5	nsubj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
-2	𘆄	𘆄	PART	PART	_	1	discourse	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+2	𘆄	𘆄	PRON	PRON	_	1	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 3	𘌽	𘌽	DET	DET	PronType=Dem	4	det	_	Gloss=this|LTranslit=thə²|SpaceAfter=No
 4	𘓐	𘓐	NOUN	NOUN	_	5	obj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
 5	𘝯	𘝯	VERB	VERB	_	0	root	_	Gloss=lookat, watch, observe|LTranslit=mbao̱¹|SpaceAfter=No
@@ -12355,7 +12356,7 @@
 11	𗟧	𗟧	VERB	VERB	_	5	conj	_	Gloss=get, gain|LTranslit=rir²|SpaceAfter=No
 12	，	，	PUNCT	PUNCT	_	11	punct	_	Orig=_|SpaceAfter=No
 13	𗟦𘞐	𗟦𘞐	PROPN	PROPN	_	16	obj	_	Gloss=Mañjuśrī|LTranslit=ma̱ṃ¹-nśu¹|OrigLang=sa|SpaceAfter=No
-14	𘆄	𘆄	CCONJ	CCONJ	_	13	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+14	𘆄	𘆄	PRON	PRON	_	13	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 15	𗗙	𗗙	ADP	ADP	_	13	case	_	Gloss=... of - genitive particle; object marker for trans. verb|LTranslit=ye¹|SpaceAfter=No
 16	𘟀	𘟀	VERB	VERB	_	5	parataxis	_	Gloss=see|LTranslit=le²|SpaceAfter=No
 17	，	，	PUNCT	PUNCT	_	16	punct	_	Orig=_|SpaceAfter=No
@@ -12556,8 +12557,8 @@
 10	𗵗	𗵗	VERB	VERB	_	4	conj	_	Gloss=get|LTranslit=ror²|SpaceAfter=No
 11	𘉞	𘉞	AUX	AUX	_	10	aux	_	Gloss=auxilary word, second person indicator|LTranslit=na²|SpaceAfter=No
 12	，	，	PUNCT	PUNCT	_	11	punct	_	Orig=_|SpaceAfter=No
-13	𘃞	𘃞	NUM	NUM	_	14	compound	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
-14	𘃞	𘃞	NUM	NUM	_	17	nummod	_	Gloss=one, one-by-one|LTranslit=lə¹|SpaceAfter=No
+13	𘃞	𘃞	NUM	NUM	_	14	compound	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
+14	𘃞	𘃞	NUM	NUM	_	17	nummod	_	Gloss=one, one-by-one; sentence-final particle|LTranslit=lə¹|SpaceAfter=No
 15	𗱕	𗱕	DET	DET	PronType=Tot	17	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 16	𘜶	𘜶	ADJ	ADJ	_	17	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No
 17	𘓞	𘓞	NOUN	NOUN	_	23	obj	_	Gloss=hope, wish|LTranslit=tih¹|SpaceAfter=No
@@ -12896,7 +12897,7 @@
 2	𗩴	𗩴	ADJ	ADJ	_	4	amod	_	Gloss=good, mercy|LTranslit=nni̱w²|SpaceAfter=No
 3	𗄻	𗄻	NOUN	NOUN	_	4	compound	_	Gloss=know, realise|LTranslit=nwə̱¹|SpaceAfter=No
 4	𗹬	𗹬	NOUN	NOUN	_	11	nsubj	_	Gloss=passion, know|LTranslit=se²|SpaceAfter=No
-5	𘆄	𘆄	CCONJ	CCONJ	_	4	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+5	𘆄	𘆄	PRON	PRON	_	4	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 6	，	，	PUNCT	PUNCT	_	5	punct	_	Orig=_|SpaceAfter=No
 7	𗍳	𗍳	PRON	PRON	PronType=Prs	11	iobj	_	Gloss=you (formal)|LTranslit=ni²|SpaceAfter=No
 8	𗫡	𗫡	PROPN	PROPN	_	10	nmod	_	Gloss=arrive|LTranslit=nə²|SpaceAfter=No
@@ -13080,7 +13081,7 @@
 14	𗍊	𗍊	ADP	ADP	_	13	case	_	Gloss=as|LTranslit=su²|SpaceAfter=No
 15	𗱕	𗱕	DET	DET	PronType=Tot	16	det	_	Gloss=all, various|LTranslit=rur¹|SpaceAfter=No
 16	𘓐	𘓐	NOUN	NOUN	_	23	nsubj	_	Gloss=man|LTranslit=dzwo²|SpaceAfter=No
-17	𘆄	𘆄	CCONJ	CCONJ	_	16	cc	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
+17	𘆄	𘆄	PRON	PRON	_	16	conj	_	Gloss=etc.|LTranslit=nə²|SpaceAfter=No
 18	，	，	PUNCT	PUNCT	_	17	punct	_	Orig=_|SpaceAfter=No
 19	𗾟	𗾟	ADV	ADV	_	20	compound	_	Gloss=vast, wide, extensive|LTranslit=vwa̱h²|SpaceAfter=No
 20	𘜶	𘜶	ADJ	ADJ	_	21	amod	_	Gloss=big, great, large|LTranslit=lleh²|SpaceAfter=No

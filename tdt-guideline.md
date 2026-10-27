@@ -84,7 +84,7 @@ We first identify the predicate of each clause, together with its subject, objec
 
 A case marker attaches to the head of its noun phrase with `case`. A noun modifying another noun takes `nmod`; a nominal expression modifying a predicate takes `obl` when it is a non-core argument or adjunct. Whether an argument is core depends on the construction; see [UD iobj](https://universaldependencies.org/u/dep/iobj.html) and [UD obl](https://universaldependencies.org/u/dep/obl.html).
 
-## 4. Personal Names and Titles: Core Conventions
+## 4. Personal Names and Titles
 
 Personal names often occur with one or more titles in Buddhist texts. We keep the internal structure of the name consistent, while the head of the complete name–title phrase carries its relation to the rest of the sentence.
 
@@ -139,7 +139,7 @@ In “gold, silver, etc. treasures”, “treasures” is the head of the comple
 
 We use `appos` when two complete nominal expressions identify or explain the same referent. A comma is optional.
 
-## 6. Part of Speech Depends on the Construction
+## 6. Part of Speech
 
 We assign part of speech according to the word's function in its construction. A verbal dictionary meaning can occur in a nominal compound without expressing a separate event. Therefore, the same lemma may have different UPOS tags in different uses.
 
@@ -322,7 +322,7 @@ The two files use 31 relation labels. The table gives the grammatical criterion,
 | `vocative` | 51 | A directly addressed person, title, or nominal epithet | The predicate of the utterance containing the address. Narrative subjects and recipients follow their argument roles | avatamsaka_sutra_0005:2 𗇋 → 𗛈 |
 | `xcomp` | 87 | A selected open predicative complement, including a controlled action or a predicative naming result | The selecting predicate. An independently subject-bearing content clause takes `ccomp`; an adjunct takes `advcl` | avatamsaka_sutra_0007:8 𘎪 → 𘃡 |
 
-### 14.2. Not used
+### 14.2. Relations not used
 
 The following eight universal base relations are unused in these files. They remain available when a future example meets the relevant criterion.
 
@@ -352,7 +352,7 @@ We record features supported by the grammatical analysis of each occurrence. A T
 | `Reflex` | `Yes` | A nominal reflexive use identified in the text. An adverb meaning “self/by oneself” requires its own analysis |
 | `Typo` | `Yes` | A confirmed source-character error, accompanied by `CorrectForm` and the corrected `LEMMA`. We preserve `FORM` |
 
-## References and Evidence Scope
+## References
 
 - Arakawa, Shintarō. 2011. *An Annotated Japanese Translation of the Tangut Version of Avataṃsaka Sūtra vol. 77 in Princeton University Collection*. Journal of Asian and African Studies 81:147–305. [Institutional original](https://tufs.repo.nii.ac.jp/record/2077/files/jaas081006_ful.pdf).
 - Arakawa, Shintarō. 2021. *On the Tangut Prefix 2da:-*. Pis'mennye pamiatniki Vostoka 18(3):64–73. [DOI](https://doi.org/10.17816/WMO77306).

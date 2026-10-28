@@ -4,6 +4,9 @@ Welcome to our Tangut repository!
 
 This project is currently maintained by **Wenjie Hua** and **Dr. Amir Zeldes** at **Georgetown University**. We focus on Universal Dependencies (UD) treebanking for Tangut (西夏文) texts.
 
+## Annotation Guideline released!
+On Oct 28, 2026, we released our [Universal Dependencies guideline](https://github.com/wjhuah/LRMT/blob/main/tdt-guideline.md), and the tree is intended to be included in UD v2.19.
+
 ## Collaborations & Contributions
 We warmly welcome researchers interested in Tangut and computational linguistics to join us! If you'd like to contribute anything, please feel free to reach out to us: wh583 AT georgetown DOT edu.
 

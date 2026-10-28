@@ -16,7 +16,7 @@ A sentence is normally an independent unit expressing a complete proposition, wi
 
 Some suffix like 𘃞 occurs at the end of a sentence and generally provides a strong signal that a new sentence begins after it, which is very convenient. Some sentences, however, have no overt sentence-final marker. 
 
-### 1.3. The tiling principle ⬜🟦🟧⬜🟦🟧...
+### 1.3. The tiling principle ⬜🟦🟧⬜🟦🟧⬜🟦🟧
 
 Copying from another wonderful [Sciptorium](https://copticscriptorium.org/documentation), Tangut sentence segmentation also follows the tiling principle, which contains these two axioms:
 

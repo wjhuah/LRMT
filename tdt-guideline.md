@@ -143,7 +143,7 @@ We use `appos` when two complete nominal expressions identify or explain the sam
 
 We assign part of speech according to the word's function in its construction. A verbal dictionary meaning can occur in a nominal compound without expressing a separate event. Therefore, the same lemma may have different UPOS tags in different uses.
 
-In this edition, `XPOS` has the same value as `UPOS`.
+In this edition, `XPOS` has the same value as `UPOS`, which are both Google Universal POS.
 
 ## 7. Nominalization, Causation, and Negation Scope
 

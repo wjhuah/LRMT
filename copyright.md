@@ -2,7 +2,7 @@
 
 ## Treebank annotations
 
-Original dependency annotations © [Our team?], [2026].
+Original dependency annotations © [Mi Corpus Annotation Group (MiCA)], [2026].
 
 ## Source texts and third-party data
 

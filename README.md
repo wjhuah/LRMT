@@ -1,8 +1,10 @@
 # MiCA: Mi Corpus Annotation Group
 
-MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞). 
+MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞).
 
-<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/0fa286a9-e8d3-4292-ac45-a4a8feba8f83" />
+<p align="center">
+  <img src="assets/tangut-logo.png" alt="MiCA project logo" width="220">
+</p>
 
 ## Contents
 
@@ -13,7 +15,7 @@ MiCA provides the following resources:
 | `corpus/` | 12 Open-source Tangut texts. |
 | `treebanks/ud/` | Universal Dependencies (UD) treebank for Tangut (𗼇𘝞𘕰𗾊). |
 | `dictionaries/` | Dictionary used in UD_Tangut-MiCA. |
-| `MiCA-guideline.md` | Tangut UD annotation guidelines. |
+| `tdt-guideline.md` | Tangut UD annotation guidelines. |
 | `copyright.md` | Source attribution, permissions, and copyright information. |
 
 Note: The official UD repository is the authoritative source for released treebank data.
@@ -66,9 +68,9 @@ Please consult each project's documentation and licensing terms before reusing i
 
 We welcome collaborations! For inquiries or contributions, please contact:
 
-**Wenjie Hua**  
+**Wenjie Hua**
 wh583 AT georgetown DOT edu
 
 ## Attribution
 
-Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses or permissions. The MIT License does not override those restrictions. See [copyright.md](copyright.md) for further information. 
+Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses or permissions. The MIT License does not override those restrictions. See [copyright.md](copyright.md) for further information.

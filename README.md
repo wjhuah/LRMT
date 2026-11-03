@@ -3,9 +3,15 @@
 MiCA develops multilayer corpora and other NLP resources for Tangut texts (𗼇𘝞).
 
 <p align="center">
-  <img src="assets/tangut-logo.png" alt="Tangut logo" width="170">
+  <img src="assets/tangut-logo.png"
+       alt="Tangut logo"
+       height="180"
+       style="vertical-align: middle;">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/mica-logo.png" alt="MiCA logo" width="220">
+  <img src="assets/mica-logo.png"
+       alt="MiCA logo"
+       height="180"
+       style="vertical-align: middle;">
 </p>
 
 ## Contents

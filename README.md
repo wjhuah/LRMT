@@ -3,7 +3,9 @@
 MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞).
 
 <p align="center">
-  <img src="assets/tangut-logo.png" alt="MiCA project logo" width="220">
+  <img src="assets/tangut-logo-circle.png" alt="Tangut logo" width="170">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/mica-logo.png" alt="MiCA logo" width="220">
 </p>
 
 ## Contents
@@ -73,4 +75,4 @@ wh583 AT georgetown DOT edu
 
 ## Attribution
 
-Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses or permissions. The MIT License does not override those restrictions. See [copyright.md](copyright.md) for further information.
+Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses, where our MIT License does not override those restrictions. See [copyright.md](copyright.md) for further information.

@@ -2,7 +2,9 @@
 
 MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞). 
 
-## Repository Contents
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/0fa286a9-e8d3-4292-ac45-a4a8feba8f83" />
+
+## Contents
 
 MiCA provides the following resources:
 
@@ -11,10 +13,10 @@ MiCA provides the following resources:
 | `corpus/` | 12 Open-source Tangut texts. |
 | `treebanks/ud/` | Universal Dependencies (UD) treebank for Tangut (𗼇𘝞𘕰𗾊). |
 | `dictionaries/` | Dictionary used in UD_Tangut-MiCA. |
-| `tdt-guideline.md` | Tangut UD annotation guidelines. |
+| `MiCA-guideline.md` | Tangut UD annotation guidelines. |
 | `copyright.md` | Source attribution, permissions, and copyright information. |
 
-Note: the official UD repository is the authoritative source for released treebank data.
+Note: The official UD repository is the authoritative source for released treebank data.
 
 ## Tangut Corpus
 
@@ -40,7 +42,7 @@ A central component of MiCA is the development of a UD treebank for Tangut (𗼇
 - **[UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)** — Official UD treebank repository.
 - **[Annotation Guidelines](tdt-guideline.md)** — Tangut-specific conventions for morphological and syntactic annotation.
 
-## Related Open Resources
+## Related Resources
 
 The following projects provide additional resources for Tangut research.
 

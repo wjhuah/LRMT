@@ -75,14 +75,11 @@ We welcome collaborations! For inquiries or contributions, please contact:
 
 wh583 AT georgetown DOT edu
 
-## License and Attribution
+## License
 
-MiCA uses different licenses for different resources:
-
-- **Original MiCA materials:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), where the contributors hold the necessary rights.
+- **Any materials by MiCA:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), where the contributors hold the necessary rights.
 - **UD treebank:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), consistent with the official [UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA).
-- **Corpus:** Historical public-domain texts remain in the public domain. Other contributions are subject to applicable source licenses.
-- **Dictionary:** Subject to its original licenses and permissions.
-- **Third-party resources:** Retain their respective copyright and licensing conditions.
+- **Corpus:** Public-domain texts remain in the public domain. Transcription work is not copyrightable.
+- **Third-party resources:** Retain their respective licensing conditions.
 
-See [copyright.md](copyright.md) for detailed source attribution and permissions.
+See [copyright.md](copyright.md) for detailed source attribution.

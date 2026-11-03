@@ -77,8 +77,8 @@ wh583 AT georgetown DOT edu
 
 ## License
 
-- **Any materials by MiCA:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), where the contributors hold the necessary rights.
 - **UD treebank:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), consistent with the official [UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA).
+- **Any other materials by MiCA:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), where the contributors hold the necessary rights.
 - **Corpus:** Public-domain texts remain in the public domain. Transcription work is not copyrightable.
 - **Third-party resources:** Retain their respective licensing conditions.
 

@@ -75,6 +75,14 @@ We welcome collaborations! For inquiries or contributions, please contact:
 
 wh583 AT georgetown DOT edu
 
-## Attribution
+## License and Attribution
 
-Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses, where our MIT License does not override those restrictions. See [copyright](copyright.md) for further information.
+MiCA uses different licenses for different resources:
+
+- **Original MiCA materials:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), where the contributors hold the necessary rights.
+- **UD treebank:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), consistent with the official [UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA).
+- **Corpus:** Historical public-domain texts remain in the public domain. Other contributions are subject to applicable source licenses.
+- **Dictionary:** Subject to its original licenses and permissions.
+- **Third-party resources:** Retain their respective copyright and licensing conditions.
+
+See [copyright.md](copyright.md) for detailed source attribution and permissions.

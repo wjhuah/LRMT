@@ -2,18 +2,6 @@
 
 MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞). 
 
-## Current Members
-
-- Hua, Wenjie (Georgetown University)
-- Ji, Yue (University of Vienna)
-- Jiang, Zhengshi (University of Washington)
-- Lin, Chia-Wei (University of Lausanne)
-- Zeldes, Amir (Georgetown University)
-- Zhang, Longyu (Ghent University)
-- Zheng, Yuxi (Peking University)
-
-We welcome collaborations!
-
 ## Repository Contents
 
 MiCA provides the following resources:
@@ -64,20 +52,21 @@ The following projects provide additional resources for Tangut research.
 
 Please consult each project's documentation and licensing terms before reusing its data.
 
-## Collaboration
+## Current Members
 
-We welcome collaborations from researchers interested in Tangut studies, historical linguistics, and NLP.
+- Hua, Wenjie (Georgetown University)
+- Ji, Yue (University of Vienna)
+- Jiang, Zhengshi (University of Washington)
+- Lin, Chia-Wei (University of Lausanne)
+- Zeldes, Amir (Georgetown University)
+- Zhang, Longyu (Ghent University)
+- Zheng, Yuxi (Peking University)
 
-For inquiries or contributions, please contact:
+We welcome collaborations! For inquiries or contributions, please contact:
 
 **Wenjie Hua**  
-Georgetown University  
 wh583 AT georgetown DOT edu
 
-## License and Attribution
+## Attribution
 
-Original materials created by the MiCA team are made available under the repository's MIT License where applicable.
-
-Third-party materials, including source texts, lexical data, transcriptions, translations, and derived resources, may be subject to separate licenses or permissions. The MIT License does not override those restrictions.
-
-See [copyright.md](copyright.md) for further information. The inclusion of a resource in this repository does not imply that the underlying source material is freely redistributable.
+Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses or permissions. The MIT License does not override those restrictions. See [copyright.md](copyright.md) for further information. 

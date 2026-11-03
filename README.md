@@ -71,7 +71,6 @@ Please consult each project's documentation and licensing terms before reusing i
 
 We welcome collaborations! For inquiries or contributions, please contact:
 
-**Wenjie Hua**
 wh583 AT georgetown DOT edu
 
 ## Attribution

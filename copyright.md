@@ -37,3 +37,26 @@ redistributed as part of this treebank.
 - Main dictionary: `tangut_learning_data.json` (MIT), [TangutTranslator](https://github.com/C27Ezx/TangutTranslator/blob/main/tangut_learning_data.json), originally from Alan Downes and [Tangut.info](https://tangut.info/).
 -  Minor correction based on Xun Gong, Tangut: 
 An Introductory Reader (Reichert Verlag, forthcoming). Authorized use by Xun Gong. Much appreciation!
+
+### Tangut Corpus
+
+All the Tangut historical texts are in the public domain. The [`corpus/`](corpus/) directory contains 12 digitized Tangut texts. Including:
+
+Two manually transcribtions (also in [UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)): 
+
+- 妙法蓮華經普門品
+- 華嚴經
+
+Ten texts from [Wikisource](https://wikisource.org/):
+
+- 聖起源之歌
+- 新集碎金置掌文
+- 高王觀世音經
+- 月月樂詩
+- 金剛般若波羅蜜經
+- 新刻二十五問答
+- 大悲觀音陀羅尼
+- 涼州感應塔碑
+- 新集錦合辭
+- 音同重校序
+

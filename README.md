@@ -77,4 +77,4 @@ wh583 AT georgetown DOT edu
 
 ## Attribution
 
-Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses, where our MIT License does not override those restrictions. See [copyright.md](copyright.md) for further information.
+Materials created by the MiCA group are made available under the repository's MIT License where applicable. Third-party materials may be subject to separate licenses, where our MIT License does not override those restrictions. See [copyright](copyright.md) for further information.

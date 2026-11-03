@@ -15,7 +15,7 @@ MiCA provides the following resources:
 | `corpus/` | 12 Open-source Tangut texts. |
 | `treebanks/ud/` | Universal Dependencies (UD) treebank for Tangut (𗼇𘝞𘕰𗾊). |
 | `dictionaries/` | Dictionary used in UD_Tangut-MiCA. |
-| `tdt-guideline.md` | Tangut UD annotation guidelines. |
+| `MiCA-guideline.md` | Tangut UD annotation guidelines. |
 | `copyright.md` | Source attribution, permissions, and copyright information. |
 
 Note: The official UD repository is the authoritative source for released treebank data.

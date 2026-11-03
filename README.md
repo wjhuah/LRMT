@@ -3,7 +3,7 @@
 MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞).
 
 <p align="center">
-  <img src="assets/tangut-logo-circle.png" alt="Tangut logo" width="170">
+  <img src="assets/tangut-logo.png" alt="Tangut logo" width="170">
   &nbsp;&nbsp;&nbsp;
   <img src="assets/mica-logo.png" alt="MiCA logo" width="220">
 </p>

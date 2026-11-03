@@ -1,6 +1,6 @@
-# MiCA: Mi Corpus Annotation Group
+# MiCA: Mi (𗼇) Corpus Annotation Group
 
-MiCA, the Mi (𗼇) Corpus Annotation Group, develops corpora and other computational linguistic resources for Tangut texts (𗼇𘝞).
+MiCA develops multilayer corpora and other NLP resources for Tangut texts (𗼇𘝞).
 
 <p align="center">
   <img src="assets/tangut-logo.png" alt="Tangut logo" width="170">

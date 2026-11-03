@@ -28,14 +28,11 @@ MiCA provides the following resources:
 
 ## Universal Dependencies
 
-A central component of MiCA is the development of a UD treebank for Tangut (𗼇𘝞𘕰𗾊), which is for inclusion in the next UD release.
+Our central component is the development of a UD treebank for Tangut (𗼇𘝞𘕰𗾊), **[UD_Tangut-MiCA](/treebank/txg_mica-ud-test.conllu)**, which is for inclusion in the next UD release.
 
-- **[UD_Tangut-MiCA](/treebank/txg_mica-ud-test.conllu)** 
-- **[Annotation Guidelines](MiCA-guideline.md)** — Tangut-specific (morphological and syntactic) annotation.
+Note: The **[official UD treebank repository](https://github.com/UniversalDependencies/UD_Tangut-MiCA)** is the authoritative source for released treebank data.
 
-Note: The official **[UD_treebank repository](https://github.com/UniversalDependencies/UD_Tangut-MiCA)** is the authoritative source for released treebank data.
-
-## Tangut Corpus
+## Corpus
 
 The [`corpus/`](corpus/) directory contains 12 open-source digitized Tangut texts.
 

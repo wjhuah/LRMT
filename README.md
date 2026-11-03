@@ -33,7 +33,7 @@ Note: The official UD repository is the authoritative source for released treeba
 A central component of MiCA is the development of a UD treebank for Tangut (𗼇𘝞𘕰𗾊), which is for inclusion in the next UD release.
 
 - **[UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)** — Official UD treebank repository.
-- **[Annotation Guidelines](tdt-guideline.md)** — Tangut-specific conventions for morphological and syntactic annotation.
+- **[Annotation Guidelines](tdt-guideline.md)** — Tangut-specific (morphological and syntactic) annotation.
 
 
 ## Tangut Corpus

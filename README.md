@@ -22,6 +22,14 @@ MiCA provides the following resources:
 
 Note: The official UD repository is the authoritative source for released treebank data.
 
+## Universal Dependencies
+
+A central component of MiCA is the development of a UD treebank for Tangut (𗼇𘝞𘕰𗾊), which is for inclusion in the next UD release.
+
+- **[UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)** — Official UD treebank repository.
+- **[Annotation Guidelines](tdt-guideline.md)** — Tangut-specific conventions for morphological and syntactic annotation.
+
+
 ## Tangut Corpus
 
 The [`corpus/`](corpus/) directory contains 12 open-source digitized Tangut texts.
@@ -38,13 +46,6 @@ The [`corpus/`](corpus/) directory contains 12 open-source digitized Tangut text
 - [`涼州感應塔碑.txt`](corpus/涼州感應塔碑.txt): Tangut text retrieved from [Wikisource](https://wikisource.org/w/index.php?oldid=909760), based on 西田龍雄 (1964), 西夏文 涼州感應塔碑文 解讀, *西夏語の研究*, vol. 1, pp. 156–176.
 - [`新集錦合辭.txt`](corpus/新集錦合辭.txt): Tangut text retrieved from [Wikisource](https://wikisource.org/w/index.php?oldid=1021341), based on E. I. Kychanov (1974), *Вновь собранные драгоценные парные изречения*, and 聶鴻音 (2007), *西夏遺文錄*.
 - [`音同重校序.txt`](corpus/音同重校序.txt): Tangut text retrieved from [Wikisource](https://wikisource.org/w/index.php?oldid=1186812), based on 聶鴻音 (2007), 西夏遺文錄, *西夏學* 2, p. 160.
-
-## Universal Dependencies
-
-A central component of MiCA is the development of a UD treebank for Tangut (𗼇𘝞𘕰𗾊), which is for inclusion in the next UD release.
-
-- **[UD_Tangut-MiCA](https://github.com/UniversalDependencies/UD_Tangut-MiCA)** — Official UD treebank repository.
-- **[Annotation Guidelines](tdt-guideline.md)** — Tangut-specific conventions for morphological and syntactic annotation.
 
 ## Related Resources
 
